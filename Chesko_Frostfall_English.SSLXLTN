@@ -1,0 +1,2226 @@
+33869503,_DE_aaaArmorFFSelf_1,FULL,0,Armor - Fox
+33869503,_DE_aaaArmorFFSelf_1,DNAM,0,Improves the caster's exposure protection by <mag> points for <dur> seconds. W.E.A.R. Enabled: Effect improves with the Mage Armor perk.
+33869504,_DE_aaaArmorFFSelf_2,FULL,0,Armor - Wolf
+33869504,_DE_aaaArmorFFSelf_2,DNAM,0,Improves the caster's exposure protection rating by <mag> points for <dur> seconds. W.E.A.R. Enabled: Effect improves with the Mage Armor perk.
+33869505,_DE_aaaArmorFFSelf_3,FULL,0,Armor - Bear
+33869505,_DE_aaaArmorFFSelf_3,DNAM,0,Improves the caster's exposure protection rating by <mag> points for <dur> seconds. <W.E.A.R. Enabled:> Effect improves with the Mage Armor perk.
+33869506,_DE_aaaArmorSpell_1,FULL,0,Foxskin
+33869506,_DE_aaaArmorSpell_1,DESC,0,
+33869508,_DE_aaaArmorSpell_2,FULL,0,Wolfskin
+33869508,_DE_aaaArmorSpell_2,DESC,0,
+33869510,_DE_aaaArmorSpell_3,FULL,0,Bearskin
+33869510,_DE_aaaArmorSpell_3,DESC,0,
+33870900,_DE_aaaShelterEffect_1,FULL,0,Conjure Familiar
+33870900,_DE_aaaShelterEffect_1,DNAM,0,"Summons a magic field that repels cold and rain for <12> hours. The field contains a bed, firepit, and a cooking pot. The contents of the field is invisible to those outside of it. <Material> <components>: Iron Ingot (<1>), Firewood (<1>), Linen Wraps (<1>)"
+33870901,_DE_aaaShelterEffect_2,FULL,0,Conjure Familiar
+33870901,_DE_aaaShelterEffect_2,DNAM,0,Summons a Familiar for <dur> seconds wherever the caster is pointing.
+33870902,_DE_aaaShelterEffect_3,FULL,0,Conjure Familiar
+33870902,_DE_aaaShelterEffect_3,DNAM,0,Summons a Familiar for <dur> seconds wherever the caster is pointing.
+33870894,_DE_aaaShelterSpell_1,FULL,0,Conjure Basic Shelter
+33870894,_DE_aaaShelterSpell_1,DESC,0,
+33870896,_DE_aaaShelterSpell_2,FULL,0,Fire Storm
+33870896,_DE_aaaShelterSpell_2,DESC,0,
+33870898,_DE_aaaShelterSpell_3,FULL,0,Fire Storm
+33870898,_DE_aaaShelterSpell_3,DESC,0,
+33785481,_DE_Alchemy_MortarPestleMISC,FULL,0,Mortar and Pestle
+33822145,_DE_ArmorBanditBoots,FULL,0,Fur Shoes
+33822145,_DE_ArmorBanditBoots,DESC,0,
+33822146,_DE_ArmorBanditCuirass,FULL,0,Fur Armor
+33822146,_DE_ArmorBanditCuirass,DESC,0,
+33822147,_DE_ArmorBanditCuirass1,FULL,0,Fur Armor
+33822147,_DE_ArmorBanditCuirass1,DESC,0,
+33822148,_DE_ArmorBanditCuirass2,FULL,0,Fur Armor
+33822148,_DE_ArmorBanditCuirass2,DESC,0,
+33822149,_DE_ArmorBanditCuirass3,FULL,0,Fur Armor
+33822149,_DE_ArmorBanditCuirass3,DESC,0,
+33822150,_DE_ArmorBanditGauntlets,FULL,0,Fur Bracers
+33822150,_DE_ArmorBanditGauntlets,DESC,0,
+33822151,_DE_ArmorBanditHelmet,FULL,0,Fur Helmet
+33822151,_DE_ArmorBanditHelmet,DESC,0,
+33822152,_DE_ArmorStormcloakBoots,FULL,0,Fur Boots
+33822152,_DE_ArmorStormcloakBoots,DESC,0,
+33822153,_DE_ArmorStormcloakGauntlets,FULL,0,Fur Gauntlets
+33822153,_DE_ArmorStormcloakGauntlets,DESC,0,
+33822168,_DE_ArrowStoneProjectile,FULL,0,Stone Arrow
+33728322,_DE_Axe01_0,FULL,0,Woodcutter's Axe (Broken)
+33728322,_DE_Axe01_0,DESC,0,
+33728323,_DE_Axe01_1,FULL,0,Woodcutter's Axe (Damaged)
+33728323,_DE_Axe01_1,DESC,0,
+33728332,_DE_Axe01_10,FULL,0,Woodcutter's Axe (Reliable)
+33728332,_DE_Axe01_10,DESC,0,
+33728333,_DE_Axe01_11,FULL,0,Woodcutter's Axe (Reliable)
+33728333,_DE_Axe01_11,DESC,0,
+33728334,_DE_Axe01_12,FULL,0,Woodcutter's Axe (Reliable)
+33728334,_DE_Axe01_12,DESC,0,
+33728335,_DE_Axe01_13,FULL,0,Woodcutter's Axe (Solid)
+33728335,_DE_Axe01_13,DESC,0,
+33728336,_DE_Axe01_14,FULL,0,Woodcutter's Axe (Solid)
+33728336,_DE_Axe01_14,DESC,0,
+33728324,_DE_Axe01_2,FULL,0,Woodcutter's Axe (Damaged)
+33728324,_DE_Axe01_2,DESC,0,
+33728325,_DE_Axe01_3,FULL,0,Woodcutter's Axe (Damaged)
+33728325,_DE_Axe01_3,DESC,0,
+33728326,_DE_Axe01_4,FULL,0,Woodcutter's Axe (Worn)
+33728326,_DE_Axe01_4,DESC,0,
+33728327,_DE_Axe01_5,FULL,0,Woodcutter's Axe (Worn)
+33728327,_DE_Axe01_5,DESC,0,
+33728328,_DE_Axe01_6,FULL,0,Woodcutter's Axe (Worn)
+33728328,_DE_Axe01_6,DESC,0,
+33728329,_DE_Axe01_7,FULL,0,Woodcutter's Axe (Used)
+33728329,_DE_Axe01_7,DESC,0,
+33728330,_DE_Axe01_8,FULL,0,Woodcutter's Axe (Used)
+33728330,_DE_Axe01_8,DESC,0,
+33728331,_DE_Axe01_9,FULL,0,Woodcutter's Axe (Used)
+33728331,_DE_Axe01_9,DESC,0,
+33813816,_DE_AxeBroken,FULL,0,Woodcutter's Axe (Broken)
+33736663,_DE_Backpack,FULL,0,Backpack
+33740899,_DE_Backpack_Akatosh,FULL,0,Backpack
+33740901,_DE_Backpack_Arkay,FULL,0,Backpack
+33735265,_DE_Backpack_Black,FULL,0,"Backpack, Black Fur"
+33735265,_DE_Backpack_Black,DESC,0,
+33740847,_DE_Backpack_Black_Akatosh,FULL,0,"Backpack, Black Fur (Akatosh)"
+33740847,_DE_Backpack_Black_Akatosh,DESC,0,
+33740848,_DE_Backpack_Black_Arkay,FULL,0,"Backpack, Black Fur (Arkay)"
+33740848,_DE_Backpack_Black_Arkay,DESC,0,
+33740849,_DE_Backpack_Black_Dibella,FULL,0,"Backpack, Black Fur (Dibella)"
+33740849,_DE_Backpack_Black_Dibella,DESC,0,
+33749224,_DE_Backpack_Black_Dragon,FULL,0,"Backpack, Black Fur (Kyne)"
+33749224,_DE_Backpack_Black_Dragon,DESC,0,
+33740850,_DE_Backpack_Black_Julianos,FULL,0,"Backpack, Black Fur (Julianos)"
+33740850,_DE_Backpack_Black_Julianos,DESC,0,
+33740851,_DE_Backpack_Black_Kynareth,FULL,0,"Backpack, Black Fur (Kynareth)"
+33740851,_DE_Backpack_Black_Kynareth,DESC,0,
+33740852,_DE_Backpack_Black_Mara,FULL,0,"Backpack, Black Fur (Mara)"
+33740852,_DE_Backpack_Black_Mara,DESC,0,
+33740853,_DE_Backpack_Black_Stendarr,FULL,0,"Backpack, Black Fur (Stendarr)"
+33740853,_DE_Backpack_Black_Stendarr,DESC,0,
+33740854,_DE_Backpack_Black_Talos,FULL,0,"Backpack, Black Fur (Talos)"
+33740854,_DE_Backpack_Black_Talos,DESC,0,
+33740855,_DE_Backpack_Black_Zenithar,FULL,0,"Backpack, Black Fur (Zenithar)"
+33740855,_DE_Backpack_Black_Zenithar,DESC,0,
+33735264,_DE_Backpack_Brown,FULL,0,"Backpack, Brown Fur"
+33735264,_DE_Backpack_Brown,DESC,0,
+33740829,_DE_Backpack_Brown_Akatosh,FULL,0,"Backpack, Brown Fur (Akatosh)"
+33740829,_DE_Backpack_Brown_Akatosh,DESC,0,
+33740830,_DE_Backpack_Brown_Arkay,FULL,0,"Backpack, Brown Fur (Arkay)"
+33740830,_DE_Backpack_Brown_Arkay,DESC,0,
+33740831,_DE_Backpack_Brown_Dibella,FULL,0,"Backpack, Brown Fur (Dibella)"
+33740831,_DE_Backpack_Brown_Dibella,DESC,0,
+33749225,_DE_Backpack_Brown_Dragon,FULL,0,"Backpack, Brown Fur (Kyne)"
+33749225,_DE_Backpack_Brown_Dragon,DESC,0,
+33740836,_DE_Backpack_Brown_Julianos,FULL,0,"Backpack, Brown Fur (Julianos)"
+33740836,_DE_Backpack_Brown_Julianos,DESC,0,
+33740837,_DE_Backpack_Brown_Kynareth,FULL,0,"Backpack, Brown Fur (Kynareth)"
+33740837,_DE_Backpack_Brown_Kynareth,DESC,0,
+33740832,_DE_Backpack_Brown_Mara,FULL,0,"Backpack, Brown Fur (Mara)"
+33740832,_DE_Backpack_Brown_Mara,DESC,0,
+33740833,_DE_Backpack_Brown_Stendarr,FULL,0,"Backpack, Brown Fur (Stendarr)"
+33740833,_DE_Backpack_Brown_Stendarr,DESC,0,
+33740834,_DE_Backpack_Brown_Talos,FULL,0,"Backpack, Brown Fur (Talos)"
+33740834,_DE_Backpack_Brown_Talos,DESC,0,
+33740835,_DE_Backpack_Brown_Zenithar,FULL,0,"Backpack, Brown Fur (Zenithar)"
+33740835,_DE_Backpack_Brown_Zenithar,DESC,0,
+33740903,_DE_Backpack_Dibella,FULL,0,Backpack
+33740907,_DE_Backpack_Julianos,FULL,0,Backpack
+33740905,_DE_Backpack_Kynareth,FULL,0,Backpack
+33869513,_DE_Backpack_Leather,FULL,0,Backpack - Leather
+33869513,_DE_Backpack_Leather,DESC,0,
+33740915,_DE_Backpack_Mara,FULL,0,Backpack
+33614628,_DE_Backpack_Menu2_ClassicModeApply,ITXT,2498,OK
+33614628,_DE_Backpack_Menu2_ClassicModeApply,DESC,0,"You are now using Classic Mode.  To change individual options, select Advanced Setup at any time."
+33613237,_DE_Backpack_Menu2_Error_EmptyCookingPot,ITXT,0,Back
+33613237,_DE_Backpack_Menu2_Error_EmptyCookingPot,DESC,0,You don't have a cooking pot.
+33613235,_DE_Backpack_Menu2_Error_EmptyFireKit,ITXT,0,Back
+33613235,_DE_Backpack_Menu2_Error_EmptyFireKit,DESC,0,You don't have any fire kits.
+33613236,_DE_Backpack_Menu2_Error_EmptyTentBed,ITXT,0,Back
+33613236,_DE_Backpack_Menu2_Error_EmptyTentBed,DESC,0,You don't have a tent and bedroll.
+33628492,_DE_Backpack_Menu2_HardcoreModeApply,ITXT,2498,OK
+33628492,_DE_Backpack_Menu2_HardcoreModeApply,DESC,0,"You are now using Hardcore Mode.  To change individual options, select Advanced Setup at any time."
+33611855,_DE_Backpack_Menu2_HelpCamping,ITXT,0,Back
+33611855,_DE_Backpack_Menu2_HelpCamping,DESC,0,"To build a campfire, use the Survival Skills ability and select ""Build Campfire"". Once the fire is lit, you can start using a cooking pot.
+
+Camping supplies can help you survive Skyrim's harsh climate. You can create camping supplies, such as tents, tanning racks, and more by using the Survival Skills ability."
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:7,0,Back
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:6,0,Food
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:5,0,Frost Resist
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:4,0,Clothing & Armor
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:3,0,Being Wet
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:2,0,Weather
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT,0,Location & Time
+33611845,_DE_Backpack_Menu2_HelpExposure,DESC,0,"Exposure is the core gameplay element of Frostfall. Your exposure increases by being in places with cold weather, and lose exposure by being near heat sources, such as campfires, forges, and hearths.
+
+The rate at which you gain exposure is based on factors such as weather, time of day, and whether or not you are wet. Select an option below to learn more.
+"
+33611850,_DE_Backpack_Menu2_HelpExposure_Clothing,ITXT,0,Back
+33611850,_DE_Backpack_Menu2_HelpExposure_Clothing,DESC,0,"Wearing clothing and armor can help prevent exposure gain, and can greatly increase your survival time.
+
+You will decrease your rate of exposure for each piece of gear worn: head, body, hands, and feet.
+
+By default, every piece of gear has the same amount of exposure protection.  If W.E.A.R. is enabled (Advanced -> Immersion -> W.E.A.R.), different types of armor have different amounts of exposure protection."
+33611852,_DE_Backpack_Menu2_HelpExposure_Food,ITXT,0,Back
+33611852,_DE_Backpack_Menu2_HelpExposure_Food,DESC,0,"Certain foods can significantly reduce exposure gain over time.
+
+Vegetable Soup, Venison Stew, Horker Stew, and Beef Stew will provide the Hearty Meal bonus, which will improve your Exposure Resistance."
+33611851,_DE_Backpack_Menu2_HelpExposure_Frost,ITXT,0,Back
+33611851,_DE_Backpack_Menu2_HelpExposure_Frost,DESC,0,"Frost Resistance can help reduce exposure gain.
+
+Nords are born with a natural 50%% Frost Resistance.
+
+"
+33611846,_DE_Backpack_Menu2_HelpExposure_Location,ITXT,0,Back
+33611846,_DE_Backpack_Menu2_HelpExposure_Location,DESC,0,"Your location has the largest impact on how quickly your exposure increases.
+
+Areas in southern Skyrim, such as Falkreath Hold, are relatively warm and can be inhabited indefinitely. The Reach and Whiterun Hold are colder, and will slowly increase your exposure. Snowy terrain and mountains are prone to blizzards, and will increase your exposure rapidly.
+
+Skyrim's nights are harsher than its days. You will gain exposure more rapidly at night."
+33611847,_DE_Backpack_Menu2_HelpExposure_Weather,ITXT,0,Back
+33611847,_DE_Backpack_Menu2_HelpExposure_Weather,DESC,0,"Weather and location play a large role in determining how quickly you lose EP.  A sunny day in Riverwood is much warmer than a sunny day in Dawnstar.
+
+The weather, from warmest to coldest, is:
+Clear (Warmest)
+Cloudy
+Fog
+Rain
+Snow
+Blizzard (Coldest)"
+33611849,_DE_Backpack_Menu2_HelpExposure_Wet,ITXT,0,Back
+33611849,_DE_Backpack_Menu2_HelpExposure_Wet,DESC,0,"Being wet will increase your exposure more quickly than if you were dry. You can become wet by swimming in water, or by being in rainy weather.  You will dry slowly on your own, or quickly when near a fire."
+33611853,_DE_Backpack_Menu2_HelpFT,ITXT,0,Back
+33611853,_DE_Backpack_Menu2_HelpFT,DESC,0,"By default, you must have the ability to harvest firewood along your journey when Fast Traveling while playing with Frostfall.  You must have a Woodcutter's Axe in your inventory to enable Fast Travel.
+
+This option can be turned off by selecting Lite Mode, or by selecting Advanced  > Fast Travel Requirement."
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:6,0,Back
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:5,0,Troubleshooting
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:4,0,Camping
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:3,0,Water
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:2,0,Traveling
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT,0,Exposure
+33611844,_DE_Backpack_Menu2_HelpMain,DESC,0,"Frostfall Help
+
+Learn about playing with Frostfall."
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:6,0,Back
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:5,0,More...
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:4,0,EP Stuck
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:3,0,Slow Running
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:2,0,Skills At 0
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT,0,Water Issues
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,DESC,0,"Troubleshooting
+
+Sorry that you're having trouble with Frostfall!
+
+Select the option below that matches the problem you are experiencing."
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT:5,0,Back
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT:4,0,More...
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT:3,0,Object Placement Issues
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT:2,0,Can't Wait/Sleep
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT,0,Can't Fast Travel
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,DESC,0,"Troubleshooting
+
+Sorry that you're having trouble with Frostfall!
+
+Select the option below that matches the problem you are experiencing."
+33665976,_DE_Backpack_Menu2_HelpTroubleshootingConfirm,ITXT,2498,OK
+33665976,_DE_Backpack_Menu2_HelpTroubleshootingConfirm,DESC,0,Frostfall attempted to fix the problem. Please check now to see if the problem has been solved.
+33665972,_DE_Backpack_Menu2_HelpTroubleshootingEP,ITXT:2,0,Back
+33665972,_DE_Backpack_Menu2_HelpTroubleshootingEP,ITXT,0,Attempt to Fix
+33665972,_DE_Backpack_Menu2_HelpTroubleshootingEP,DESC,0,"Troubleshooting -> Exposure Points Stuck
+
+If your character's Exposure Points never seem to change even when in very cold places or near a heat source, make sure that your Exposure Rate (Advanced -> Exposure -> Exposure Rate) is not set too low (default is 1.0x).  If it is set correctly, click the ""Attempt to Fix"" button below.
+
+Note: This procedure will do the best it can to solve the problem, and is not guarenteed to work.  However, in most cases, this should usually fix the problem."
+33693750,_DE_Backpack_Menu2_HelpTroubleshootingExit,ITXT:2,0,Back
+33693750,_DE_Backpack_Menu2_HelpTroubleshootingExit,ITXT,0,Attempt to Fix
+33693750,_DE_Backpack_Menu2_HelpTroubleshootingExit,DESC,0,"Troubleshooting -> Problems Exiting Interiors
+If you experience strange teleportation, a grey screen, or a crash to desktop when exiting interiors, click ""Attempt to Fix"" to begin the troubleshooting procedure.
+WARNING: You will be teleported to a different location to perform the troubleshooting, and will return momentarily. This is normal.
+Note: This procedure will do the best it can to solve the problem, and is not guarenteed to work.  However, in most cases, this should usually fix the problem."
+33665974,_DE_Backpack_Menu2_HelpTroubleshootingFT,ITXT:2,0,Back
+33665974,_DE_Backpack_Menu2_HelpTroubleshootingFT,ITXT,0,Attempt to Fix
+33665974,_DE_Backpack_Menu2_HelpTroubleshootingFT,DESC,0,"Troubleshooting -> Can't Fast Travel
+
+If Fast Travel Requirement is enabled, you must have a Woodcutter's Axe in your inventory to Fast Travel.
+If Fast Travel is disabled, re-enable it to turn Fast Travel back on.
+If Waiting Outdoors is disabled, you cannot Fast Travel. Enable Waiting Outdoors to turn Fast Travel back on.
+If none of these are the problem, click ""Attempt to Fix""."
+33865184,_DE_Backpack_Menu2_HelpTroubleshootingPlacement,ITXT:3,0,Back
+33865184,_DE_Backpack_Menu2_HelpTroubleshootingPlacement,ITXT:2,0,Turn Off Advanced Placement
+33865184,_DE_Backpack_Menu2_HelpTroubleshootingPlacement,ITXT,0,Attempt to Fix
+33865184,_DE_Backpack_Menu2_HelpTroubleshootingPlacement,DESC,0,"Troubleshooting -> Placement Issues
+If you are always receiving the error message ""You are already trying to place something"" even when you are not, click ""Attempt to Fix"", below.
+If you are experiencing very slow placement marker performance, you can try the Skyrim.ini tweaks found on Frostfall's Troubleshooting web page. Or, click ""Turn Off Advanced Placement"", below. This option will not appear if it is already off."
+33665971,_DE_Backpack_Menu2_HelpTroubleshootingSlow,ITXT:2,0,Back
+33665971,_DE_Backpack_Menu2_HelpTroubleshootingSlow,ITXT,0,Attempt to Fix
+33665971,_DE_Backpack_Menu2_HelpTroubleshootingSlow,DESC,0,"Troubleshooting -> Always Walking / Running Slowly
+
+If your character seems to always walk or run abnormally slowly even when they are ""Comfortable"" or ""Warm"", first try sprinting a short distance to see if your regular movement speed returns.  If that fails, click the ""Attempt to Fix"" button below.
+Note: This procedure will do the best it can to solve the problem, and is not guarenteed to work.  However, in most cases, this should usually fix the problem."
+33665970,_DE_Backpack_Menu2_HelpTroubleshootingStats,ITXT:2,0,Back
+33665970,_DE_Backpack_Menu2_HelpTroubleshootingStats,ITXT,0,Attempt to Fix
+33665970,_DE_Backpack_Menu2_HelpTroubleshootingStats,DESC,0,"Troubleshooting -> Skills Are Stuck At 0
+
+If your character's skills seem to be perpetually at 0 (or abnormally low), even when you are ""Comfortable"" or ""Warm"", click ""Attempt to Fix"" below to try to fix the problem.
+
+Note: This procedure will do the best it can to solve the problem, and is not guarenteed to work.  However, in most cases, this should usually fix the problem."
+33665975,_DE_Backpack_Menu2_HelpTroubleshootingWait,ITXT:2,0,Back
+33665975,_DE_Backpack_Menu2_HelpTroubleshootingWait,ITXT,0,Attempt to Fix
+33665975,_DE_Backpack_Menu2_HelpTroubleshootingWait,DESC,0,"Troubleshooting -> Can't Wait, Sleep, or Fast Travel
+
+If you can no longer wait while outdoors or Fast Travel, ensure that Toggle Waiting Outdoors is enabled. If this is set correctly, click ""Attempt to Fix"".
+
+Note: This procedure will do the best it can to solve the problem, and is not guarenteed to work.  However, in most cases, this should usually fix the problem."
+33665969,_DE_Backpack_Menu2_HelpTroubleshootingWet,ITXT:2,0,Back
+33665969,_DE_Backpack_Menu2_HelpTroubleshootingWet,ITXT,0,Attempt to Fix
+33665969,_DE_Backpack_Menu2_HelpTroubleshootingWet,DESC,0,"Troubleshooting -> Water Issues
+Click ""Attempt to Fix"" if one of the following problems is currently affecting you: 
+Always wet;
+Never get wet;
+Always says ""You cannot do that while swimming"".
+Note: This procedure will do the best it can to solve the problem, and is not guarenteed to work.  However, in most cases, this should usually fix the problem."
+33611854,_DE_Backpack_Menu2_HelpWater,ITXT,0,Back
+33611854,_DE_Backpack_Menu2_HelpWater,DESC,0,"Bodies of water in Skyrim have different temperatures depending on the surrounding temperature.
+
+Water in the warmer southern regions should be ""cool and refreshing"", and safe to swim in. Water in the Whiterun Hold and Reach areas may have ""cold"" or ""freezing"" water, which will rapidly drain your stamina. By default, water in The Pale and other snowy areas will have ""frigid"" water, which can kill you in less than a minute. This option can be disabled by selecting Lite Mode, or by going to Advanced -> Water Lethality."
+33614627,_DE_Backpack_Menu2_LiteModeApply,ITXT,2498,OK
+33614627,_DE_Backpack_Menu2_LiteModeApply,DESC,0,"You are now using Lite Mode.  To change individual options, select Advanced Setup at any time."
+33611842,_DE_Backpack_Menu2_Main,ITXT:5,0,Exit
+33611842,_DE_Backpack_Menu2_Main,ITXT:4,0,Craft Supplies
+33611842,_DE_Backpack_Menu2_Main,ITXT:3,0,Use Cooking Pot
+33611842,_DE_Backpack_Menu2_Main,ITXT:2,0,"Use Tent, Bed Roll"
+33611842,_DE_Backpack_Menu2_Main,ITXT,0,Use Fire Kit
+33611842,_DE_Backpack_Menu2_Main,DESC,0,"Inside your pack, you find:
+Fire Kits x%.0f
+Tent and Bedroll x%.0f (%.0f Uses)
+Cooking Pot x%.0f
+"
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT:5,0,Exit
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT:4,0,Craft Supplies
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT:3,0,Use Cooking Pot
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT:2,0,"Use Tent, Bed Roll"
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT,0,Use Fire Kit
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,DESC,0,"Inside your pack, you find:
+Fire Kits x%.0f
+Tent and Bedroll x%.0f
+Cooking Pot x%.0f
+"
+33611843,_DE_Backpack_Menu2_Setup,ITXT:6,0,Exit
+33611843,_DE_Backpack_Menu2_Setup,ITXT:5,0,Help
+33611843,_DE_Backpack_Menu2_Setup,ITXT:4,0,Configure
+33611843,_DE_Backpack_Menu2_Setup,ITXT:3,0,Lite
+33611843,_DE_Backpack_Menu2_Setup,ITXT:2,0,Classic
+33611843,_DE_Backpack_Menu2_Setup,ITXT,0,Hardcore
+33611843,_DE_Backpack_Menu2_Setup,DESC,0,"Use the preset Modes below to change the way you experience Frostfall. Select one to learn more.
+
+Configure: Change individual options.
+
+Help: Learn more about playing with Frostfall."
+33614626,_DE_Backpack_Menu2_Setup_ClassicMode,ITXT:2,0,No - Back
+33614626,_DE_Backpack_Menu2_Setup_ClassicMode,ITXT,0,Yes - Confirm
+33614626,_DE_Backpack_Menu2_Setup_ClassicMode,DESC,0,"Classic Mode will use the following settings:
+W.E.A.R. is turned off.
+Your Exposure Rate will be normal (1.0x)
+Fast Travel is enabled. Waiting outdoors is enabled.
+Fast Travel will require a Woodcutter's Axe be in your inventory.
+Campfires light automatically when placed.
+Woodcutter's Axes will have a limited number of uses.
+Frigid water and high exposure can kill you.
+
+Do you want to use Classic Mode?"
+33707589,_DE_Backpack_Menu2_Setup_Compatibility,ITXT:2,0,Back
+33707589,_DE_Backpack_Menu2_Setup_Compatibility,ITXT,0,Wet and Cold
+33707589,_DE_Backpack_Menu2_Setup_Compatibility,DESC,0,"Configuration > Compatibility Options
+
+Select a compatibility option below to configure it."
+33833272,_DE_Backpack_Menu2_Setup_Compatibility_WAC,ITXT,0,Back
+33833272,_DE_Backpack_Menu2_Setup_Compatibility_WAC,DESC,0,"Wet and Cold Compatibility
+To ensure full compatibility with Wet and Cold, please make the following changes to your settings:
+* Disable Wet and Cold's player dripping shader effect.
+* Enable Frostfall's player dripping shader effect (provided by Isoku, of Wet and Cold)."
+33707588,_DE_Backpack_Menu2_Setup_CompatibilityMovementOFF,ITXT:2,0,Back
+33707588,_DE_Backpack_Menu2_Setup_CompatibilityMovementOFF,ITXT,0,Enable
+33707588,_DE_Backpack_Menu2_Setup_CompatibilityMovementOFF,DESC,0,"High Exposure Movement Speed
+
+If enabled, you will begin to move slowly when your exposure reaches Freezing or greater.
+
+If disabled, Frostfall will never alter your movement speed.
+
+Current Setting: Disabled"
+33707587,_DE_Backpack_Menu2_Setup_CompatibilityMovementON,ITXT:2,0,Back
+33707587,_DE_Backpack_Menu2_Setup_CompatibilityMovementON,ITXT,0,Disable
+33707587,_DE_Backpack_Menu2_Setup_CompatibilityMovementON,DESC,0,"High Exposure Movement Speed
+
+If enabled, you will begin to move slowly when your exposure reaches Freezing or greater.
+
+If disabled, Frostfall will never alter your movement speed.
+
+Current Setting: Enabled"
+33795465,_DE_Backpack_Menu2_Setup_ExposureDeathOFF,ITXT:2,0,Back
+33795465,_DE_Backpack_Menu2_Setup_ExposureDeathOFF,ITXT,0,Enable
+33795465,_DE_Backpack_Menu2_Setup_ExposureDeathOFF,DESC,0,"Death by Exposure
+
+If enabled, you will die if your exposure reaches -100.
+
+If disabled, you will not be able to die from exposure. All other exposure-related effects will still apply to you.
+
+Current Setting: Disabled"
+33795466,_DE_Backpack_Menu2_Setup_ExposureDeathON,ITXT:2,0,Back
+33795466,_DE_Backpack_Menu2_Setup_ExposureDeathON,ITXT,0,Disable
+33795466,_DE_Backpack_Menu2_Setup_ExposureDeathON,DESC,0,"Death by Exposure
+
+If enabled, you will die if your exposure reaches -100.
+
+If disabled, you will not be able to die from exposure. All other exposure-related effects will still apply to you.
+
+Current Setting: Enabled"
+33664585,_DE_Backpack_Menu2_Setup_FastTravelDisableOff,ITXT:2,0,Back
+33664585,_DE_Backpack_Menu2_Setup_FastTravelDisableOff,ITXT,0,Disable
+33664585,_DE_Backpack_Menu2_Setup_FastTravelDisableOff,DESC,0,"Fast Travel Toggle
+
+Use this setting to disable or enable Fast Travel.
+
+Current Setting: Fast Travel is Enabled"
+33664584,_DE_Backpack_Menu2_Setup_FastTravelDisableOn,ITXT:2,0,Back
+33664584,_DE_Backpack_Menu2_Setup_FastTravelDisableOn,ITXT,0,Enable
+33664584,_DE_Backpack_Menu2_Setup_FastTravelDisableOn,DESC,0,"Fast Travel Toggle
+
+Use this setting to disable or enable Fast Travel.
+
+Current Setting: Fast Travel is Disabled"
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,ITXT:4,0,Back
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,ITXT:3,0,Travel Req.
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,ITXT:2,0,Enable/Disable
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,ITXT,0,Fast Travel Management
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,DESC,0,"Configuration > Fast Travel
+
+Select a fast travel option below to configure it."
+33795467,_DE_Backpack_Menu2_Setup_FastTravelProcessingOFF,ITXT:2,0,Back
+33795467,_DE_Backpack_Menu2_Setup_FastTravelProcessingOFF,ITXT,0,Enable
+33795467,_DE_Backpack_Menu2_Setup_FastTravelProcessingOFF,DESC,0,"Fast Travel Management
+
+If enabled, Frostfall will manage your capability to fast travel. This may cause a compatibility problem with other mods that affect the player's ability to fast travel.
+
+If disabled, Frostfall will not affect your ability to fast travel, or impose fast travel related mechanics.
+
+This setting precludes all other fast travel settings.
+
+Current Setting: Disabled"
+33795468,_DE_Backpack_Menu2_Setup_FastTravelProcessingON,ITXT:2,0,Back
+33795468,_DE_Backpack_Menu2_Setup_FastTravelProcessingON,ITXT,0,Disable
+33795468,_DE_Backpack_Menu2_Setup_FastTravelProcessingON,DESC,0,"Fast Travel Management
+
+If enabled, Frostfall will manage your capability to fast travel. This may cause a compatibility problem with other mods that affect the player's ability to fast travel.
+
+If disabled, Frostfall will not affect your ability to fast travel, or impose fast travel related mechanics.
+
+This setting precludes all other fast travel settings.
+
+Current Setting: Enabled"
+33628488,_DE_Backpack_Menu2_Setup_HardcoreMode,ITXT:2,0,No - Back
+33628488,_DE_Backpack_Menu2_Setup_HardcoreMode,ITXT,0,Yes - Confirm
+33628488,_DE_Backpack_Menu2_Setup_HardcoreMode,DESC,0,"Hardcore Mode will use the following settings:
+W.E.A.R. is turned on.
+Your Exposure Rate will be normal (1.0x).
+Fast Travel is DISABLED. Waiting outdoors is enabled.
+Campfires must be manually lit with a torch or flame spell when placed.
+Woodcutter's Axes will have a limited number of uses.
+Frigid water and high exposure can kill you.
+
+Do you want to use Hardcore Mode?"
+33614625,_DE_Backpack_Menu2_Setup_LiteMode,ITXT:2,0,No - Back
+33614625,_DE_Backpack_Menu2_Setup_LiteMode,ITXT,0,Yes - Confirm
+33614625,_DE_Backpack_Menu2_Setup_LiteMode,DESC,0,"Lite Mode will use the following settings:
+W.E.A.R. is turned off.
+Your Exposure Rate will be reduced (0.8x)
+Fast Travel is enabled. Waiting outdoors is enabled.
+Fast Travel will not require a Woodcutter's Axe be in your inventory.
+Campfires light automatically when placed.
+Woodcutter's Axes will have no durability (unlimited uses).
+Frigid water and high exposure will not kill you.
+
+Do you want to use Lite Mode?"
+33833257,_DE_Backpack_Menu2_Setup_Notifications_ConditionOff,ITXT:2,0,Back
+33833257,_DE_Backpack_Menu2_Setup_Notifications_ConditionOff,ITXT,0,Enable
+33833257,_DE_Backpack_Menu2_Setup_Notifications_ConditionOff,DESC,0,"Condition Notifications
+
+If enabled, you will receive periodic notifications about changes to your status (exposure and wetness).
+
+WARNING: This is the primary way Frostfall notifies you of worsening player conditions. Disable at your own risk!
+
+Current Setting: Disabled"
+33833256,_DE_Backpack_Menu2_Setup_Notifications_ConditionOn,ITXT:2,0,Back
+33833256,_DE_Backpack_Menu2_Setup_Notifications_ConditionOn,ITXT,0,Disable
+33833256,_DE_Backpack_Menu2_Setup_Notifications_ConditionOn,DESC,0,"Condition Notifications
+
+If enabled, you will receive periodic notifications about changes to your status (exposure and wetness).
+
+WARNING: This is the primary way Frostfall notifies you of worsening player conditions. Disable at your own risk!
+
+Current Setting: Enabled"
+33876422,_DE_Backpack_Menu2_Setup_Notifications_SystemOff,ITXT:2,0,Back
+33876422,_DE_Backpack_Menu2_Setup_Notifications_SystemOff,ITXT,0,Enable
+33876422,_DE_Backpack_Menu2_Setup_Notifications_SystemOff,DESC,0,"System Notifications
+
+If enabled, you will see the text ""You are now prepared to use camping equipment"" each time your game is loaded, after Frostfall's compatibility checks have completed. You may also receive warnings if your scripting system running too slowly.
+
+Current Setting: Disabled"
+33876423,_DE_Backpack_Menu2_Setup_Notifications_SystemOn,ITXT:2,0,Back
+33876423,_DE_Backpack_Menu2_Setup_Notifications_SystemOn,ITXT,0,Disable
+33876423,_DE_Backpack_Menu2_Setup_Notifications_SystemOn,DESC,0,"System Notifications
+
+If enabled, you will see the text ""You are now prepared to use camping equipment"" each time your game is loaded, after Frostfall's compatibility checks have completed. You may also receive warnings if your scripting system running too slowly.
+
+Current Setting: Enabled"
+33833261,_DE_Backpack_Menu2_Setup_Notifications_WEAROff,ITXT:2,0,Back
+33833261,_DE_Backpack_Menu2_Setup_Notifications_WEAROff,ITXT,0,Enable
+33833261,_DE_Backpack_Menu2_Setup_Notifications_WEAROff,DESC,0,"W.E.A.R. Notifications
+
+If enabled, you will receive a notification describing the Exposure Protection provided by gear that you equip.
+
+Note: You can also view your total Exposure Protection in Survival Skills, View Status.
+
+Current Setting: Disabled"
+33833260,_DE_Backpack_Menu2_Setup_Notifications_WEAROn,ITXT:2,0,Back
+33833260,_DE_Backpack_Menu2_Setup_Notifications_WEAROn,ITXT,0,Disable
+33833260,_DE_Backpack_Menu2_Setup_Notifications_WEAROn,DESC,0,"W.E.A.R. Notifications
+
+If enabled, you will receive a notification describing the Exposure Protection provided by gear that you equip.
+
+Note: You can also view your total Exposure Protection in Survival Skills, View Status.
+
+Current Setting: Enabled"
+33833259,_DE_Backpack_Menu2_Setup_Notifications_WeatherOff,ITXT:2,0,Back
+33833259,_DE_Backpack_Menu2_Setup_Notifications_WeatherOff,ITXT,0,Enable
+33833259,_DE_Backpack_Menu2_Setup_Notifications_WeatherOff,DESC,0,"Weather Transition Notifications
+
+If enabled, you will receive descriptive notifications of changing weather conditions shortly before they occur.
+
+Current Setting: Disabled"
+33833258,_DE_Backpack_Menu2_Setup_Notifications_WeatherOn,ITXT:2,0,Back
+33833258,_DE_Backpack_Menu2_Setup_Notifications_WeatherOn,ITXT,0,Disable
+33833258,_DE_Backpack_Menu2_Setup_Notifications_WeatherOn,DESC,0,"Weather Transition Notifications
+
+If enabled, you will receive descriptive notifications of changing weather conditions shortly before they occur.
+
+Current Setting: Enabled"
+33833263,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOff,ITXT:2,0,Back
+33833263,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOff,ITXT,0,Enable
+33833263,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOff,DESC,0,"Display Exposure and Wetness in Weathersense
+
+If enabled, Weathersense will display your exposure and wetness ratings along with the temperature description.
+
+If disabled, only the temperature description is shown. WARNING: It is recommended that you leave this enabled in order to access your current condition easily.
+
+Current Setting: Disabled"
+33833262,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOn,ITXT:2,0,Back
+33833262,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOn,ITXT,0,Disable
+33833262,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOn,DESC,0,"Display Exposure and Wetness in Weathersense
+
+If enabled, Weathersense will display your exposure and wetness ratings along with the temperature description.
+
+If disabled, only the temperature description is shown. WARNING: It is recommended that you leave this enabled in order to access your current condition easily.
+
+Current Setting: Enabled"
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT:5,0,Back
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT:4,0,More...
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT:3,0,Immersion
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT:2,0,Camping
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT,0,Exposure
+33616017,_DE_Backpack_Menu2_Setup_Options,DESC,0,"Frostfall Configuration
+
+Select a category below to view available options."
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT:5,0,Back
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT:4,0,Object Placement
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT:3,0,Campfire Mode
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT:2,0,Gear in Tents
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT,0,Axe Durability
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,DESC,0,"Configuration > Camping Options
+
+Select a camping option below to configure it."
+33664589,_DE_Backpack_Menu2_Setup_Options_CombatDisableOff,ITXT:2,0,Back
+33664589,_DE_Backpack_Menu2_Setup_Options_CombatDisableOff,ITXT,0,Enable
+33664589,_DE_Backpack_Menu2_Setup_Options_CombatDisableOff,DESC,0,"Pause Exposure During Combat
+
+If enabled, you will not gain or lose exposure while in combat.  Exposure change will resume after combat.
+
+If disabled, you will gain and lose exposure while in combat.
+
+Current Setting: Disabled"
+33664588,_DE_Backpack_Menu2_Setup_Options_CombatDisableOn,ITXT:2,0,Back
+33664588,_DE_Backpack_Menu2_Setup_Options_CombatDisableOn,ITXT,0,Disable
+33664588,_DE_Backpack_Menu2_Setup_Options_CombatDisableOn,DESC,0,"Pause Exposure During Combat
+
+If enabled, you will not gain or lose exposure while in combat.  Exposure change will resume after combat.
+
+If disabled, you will gain and lose exposure while in combat.
+
+Current Setting: Enabled"
+33833253,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOff,ITXT:2,0,Back
+33833253,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOff,ITXT,0,Enable
+33833253,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOff,DESC,0,"Pause Exposure During Dialogue
+
+If enabled, you will not gain or lose exposure while in dialogue.  Exposure change will resume after dialogue ends.
+
+If disabled, you will gain and lose exposure while in dialogue.
+
+Current Setting: Disabled"
+33833254,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOn,ITXT:2,0,Back
+33833254,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOn,ITXT,0,Disable
+33833254,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOn,DESC,0,"Pause Exposure During Dialogue
+
+If enabled, you will not gain or lose exposure while in dialogue.  Exposure change will resume after dialogue ends.
+
+If disabled, you will gain and lose exposure while in dialogue.
+
+Current Setting: Enabled"
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:7,0,Back
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:6,0,Vampires & Undead
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:5,0,Death
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:4,0,Water
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:3,0,Dialogue
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:2,0,Combat
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT,0,Rate
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,DESC,0,"Configuration > Exposure Options
+
+Select an exposure option below to configure it."
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:6,0,Back
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:5,0,System
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:4,0,Weathersense
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:3,0,W.E.A.R.
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:2,0,Weather
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT,0,Condition
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,DESC,0,"Configuration > Notification Options
+
+Select a notification option below to configure it."
+33674308,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOff,ITXT:2,0,Back
+33674308,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOff,ITXT,0,Enable
+33674308,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOff,DESC,0,"Wood Harvesting Cutscene
+
+If enabled, a short cutscene will play when harvesting wood.
+
+If disabled, this scene is shorter and more simplified.
+
+Current Setting: Disabled"
+33674309,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOn,ITXT:2,0,Back
+33674309,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOn,ITXT,0,Disable
+33674309,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOn,DESC,0,"Wood Harvesting Cutscene
+
+If enabled, a short cutscene will play when harvesting wood.
+
+If disabled, this scene is shorter and more simplified.
+
+Current Setting: Enabled"
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT:5,0,Back
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT:4,0,More...
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT:3,0,Notifications
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT:2,0,Effects
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT,0,Fast Travel
+33706198,_DE_Backpack_Menu2_Setup_Options2,DESC,0,"Frostfall Configuration
+
+Select a category below to view available options."
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT:5,0,Back
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT:4,0,More...
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT:3,0,Activate/Shutdown
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT:2,0,Compatibility
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT,0,Tutorials
+33707577,_DE_Backpack_Menu2_Setup_Options3,DESC,0,"Frostfall Configuration
+
+Select a category below to view available options."
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:6,0,Back
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:5,0,More...
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:4,0,Wood Harvesting
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:3,0,Full Screen Effects
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:2,0,Wet Shader
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT,0,Frost Shader
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,DESC,0,"Configuration > Effects Options
+
+Select an effects option below to configure it."
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT:5,0,Back
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT:4,0,More...
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT:3,0,Player Animation
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT:2,0,Sound Effects
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT,0,Force Feedback
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,DESC,0,"Configuration > Effects Options
+
+Select an effects option below to configure it."
+33707579,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderOFF,ITXT:2,0,Back
+33707579,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderOFF,ITXT,0,Enable
+33707579,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderOFF,DESC,0,"Frost Shader
+
+If enabled, your character will take on a frostbitten appearance when your exposure is Freezing or greater.
+
+If disabled, this shader will not be used.
+
+Current Setting: Disabled"
+33707580,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderON,ITXT:2,0,Back
+33707580,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderON,ITXT,0,Disable
+33707580,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderON,DESC,0,"Frost Shader
+
+If enabled, your character will take on a frostbitten appearance when your exposure is Freezing or greater.
+
+If disabled, this shader will not be used.
+
+Current Setting: Enabled"
+33707584,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceOFF,ITXT:2,0,Back
+33707584,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceOFF,ITXT,0,Enable
+33707584,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceOFF,DESC,0,"Full Screen Effects
+
+If enabled, your screen will become blurry and brighter when your exposure reaches Very Cold or greater, and becomes progressively worse the colder you become.
+
+If disabled, this shader will not be used.
+
+Current Setting: Disabled"
+33707583,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceON,ITXT:2,0,Back
+33707583,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceON,ITXT,0,Disable
+33707583,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceON,DESC,0,"Full Screen Effects
+
+If enabled, your screen will become blurry and brighter when your exposure reaches Very Cold or greater, and becomes progressively worse the colder you become.
+
+If disabled, this shader will not be used.
+
+Current Setting: Enabled"
+33707581,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderOFF,ITXT:2,0,Back
+33707581,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderOFF,ITXT,0,Enable
+33707581,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderOFF,DESC,0,"Wetness Shader
+
+If enabled, your character will drip with water when Wet or Drenched. (Shader provided by Isoku of Wet and Cold)
+
+If disabled, this shader will not be used.
+
+Current Setting: Disabled"
+33707582,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderON,ITXT:2,0,Back
+33707582,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderON,ITXT,0,Disable
+33707582,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderON,DESC,0,"Wetness Shader
+
+If enabled, your character will drip with water when Wet or Drenched. (Shader provided by Isoku of Wet and Cold)
+
+If disabled, this shader will not be used.
+
+Current Setting: Enabled"
+33616022,_DE_Backpack_Menu2_Setup_OptionsExposureRate,ITXT:3,0,Back
+33616022,_DE_Backpack_Menu2_Setup_OptionsExposureRate,ITXT:2,0,Increase Rate (+0.1)
+33616022,_DE_Backpack_Menu2_Setup_OptionsExposureRate,ITXT,0,Decrease Rate (-0.1)
+33616022,_DE_Backpack_Menu2_Setup_OptionsExposureRate,DESC,0,"Exposure Rate
+
+Exposure Rate determines how quickly you will be affected by exposure to the cold. (Default: 1.0x) Available range is 0.0x - 4.0x.
+
+Current Setting: %.1fx"
+33616019,_DE_Backpack_Menu2_Setup_OptionsFastTravelDisabled,ITXT:2,0,Back
+33616019,_DE_Backpack_Menu2_Setup_OptionsFastTravelDisabled,ITXT,0,Enable
+33616019,_DE_Backpack_Menu2_Setup_OptionsFastTravelDisabled,DESC,0,"Fast Travel Requirement
+
+If enabled, you must have a Woodcutter's Axe in your inventory to Fast Travel so that you can gather firewood and set camp along your journey.
+If disabled, you can Fast Travel normally (unless otherwise disabled).
+
+ATTENTION: Changes to this setting may take up to 6 seconds to take effect (outside of menus)!
+
+Current Setting: Disabled"
+33616018,_DE_Backpack_Menu2_Setup_OptionsFastTravelEnabled,ITXT:2,0,Back
+33616018,_DE_Backpack_Menu2_Setup_OptionsFastTravelEnabled,ITXT,0,Disable
+33616018,_DE_Backpack_Menu2_Setup_OptionsFastTravelEnabled,DESC,0,"Fast Travel Requirement
+
+If enabled, you must have a Woodcutter's Axe in your inventory to Fast Travel so that you can gather firewood and set camp along your journey.
+If disabled, you can Fast Travel normally (unless otherwise disabled).
+
+ATTENTION: Changes to this setting may take up to 6 seconds to take effect (outside of menus)!
+
+Current Setting: Enabled"
+33670125,_DE_Backpack_Menu2_Setup_OptionsFireLightOff,ITXT:2,0,Exit
+33670125,_DE_Backpack_Menu2_Setup_OptionsFireLightOff,ITXT,0,Switch to Manual
+33670125,_DE_Backpack_Menu2_Setup_OptionsFireLightOff,DESC,0,"Campfire Lighting Mode
+
+If enabled, campfires created must be lit manually using a torch or a flame spell, shout, staff, or scroll.
+If disabled, campfires created will be lit automatically when built.
+
+(Tip: To light with a torch, ""bash"" the campfire with it by blocking, and clicking the attack button.)
+
+Current Setting: Automatic"
+33670124,_DE_Backpack_Menu2_Setup_OptionsFireLightOn,ITXT:2,0,Exit
+33670124,_DE_Backpack_Menu2_Setup_OptionsFireLightOn,ITXT,0,Switch to Automatic
+33670124,_DE_Backpack_Menu2_Setup_OptionsFireLightOn,DESC,0,"Campfire Lighting Mode
+
+If enabled, campfires created must be lit manually using a torch or a flame spell, shout, staff, or scroll.
+If disabled, campfires created will be lit automatically when built.
+
+(Tip: To light with a torch, ""bash"" the campfire with it by blocking, and clicking the attack button.)
+
+Current Setting: Manual"
+33865177,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackOFF,ITXT:2,0,Exit
+33865177,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackOFF,ITXT,0,Enable
+33865177,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackOFF,DESC,0,"Force Feedback (Controllers Only)
+
+If enabled, you will feel a mild shake when entering the 'Freezing' state, and a heavier shake when entering 'Freezing to Death'. You will also feel your heartbeat pulse in frigid water.
+
+Current Setting: Disabled"
+33865176,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackON,ITXT:2,0,Exit
+33865176,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackON,ITXT,0,Disable
+33865176,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackON,DESC,0,"Force Feedback (Controllers Only)
+
+If enabled, you will feel a mild shake when entering the 'Freezing' state, and a heavier shake when entering 'Freezing to Death'. You will also feel your heartbeat pulse in frigid water.
+
+Current Setting: Enabled"
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,ITXT:4,0,Back
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,ITXT:3,0,Movement Penalty
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,ITXT:2,0,Waiting Outdoors
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,ITXT,0,W.E.A.R.
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,DESC,0,"Advanced Settings > Immersion Options
+
+The following options are only for those looking for a serious challenge."
+33628491,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEARDisabled,ITXT:3,0,Back
+33628491,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEARDisabled,ITXT:2,0,Restore Defaults
+33628491,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEARDisabled,ITXT,0,Enable
+33628491,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEARDisabled,DESC,0,"Worn Equipment Affects Rate (W.E.A.R.)
+If enabled, this option will cause worn equipment to have varying degrees of exposure protection; Limited, Standard, and Full.
+Limited protection equipment: Hide, shirtless Fur, Studded, Iron, and Banded Iron.
+Full protection equipment: Fur with sleeves, and Orcish.
+Standard protection equipment: anything not mentioned above, including sleeveless Fur. Use the ""Inspect Equipment"" ability to change the exposure protection of any piece of equipment.
+Current Setting: Disabled"
+33628490,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabled,ITXT:3,0,Back
+33628490,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabled,ITXT:2,0,Restore Defaults
+33628490,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabled,ITXT,0,Disable
+33628490,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabled,DESC,0,"Worn Equipment Affects Rate (W.E.A.R.)
+If enabled, this option will cause worn equipment to have varying degrees of exposure protection; Limited, Standard, and Full.
+Limited protection equipment: Hide, shirtless Fur, Studded, Iron, and Banded Iron.
+Full protection equipment: Fur with sleeves, and Orcish.
+Standard protection equipment: anything not mentioned above, including sleeveless Fur. Use the ""Inspect Equipment"" ability to change the exposure protection of any piece of equipment.
+Current Setting: Enabled"
+33674311,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabledConfirm,ITXT,2498,OK
+33674311,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabledConfirm,DESC,0,"As part of enabling or defaulting W.E.A.R., all of your currently equipped items have been unequipped.
+
+Re-equip your equipment now to start using your equipment's new exposure protection."
+33865183,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementAdvanced,ITXT:2,0,Exit
+33865183,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementAdvanced,ITXT,0,Disable
+33865183,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementAdvanced,DESC,0,"Advanced Object Placement
+
+If enabled, you will see a blue placement marker that follows where you look and move when placing camping equipment. This allows for very precise placement.
+If disabled, you will place camping equipment perfectly flat directly in front of the player when activating a dropped piece of camping gear.
+Current Setting: Enabled"
+33865182,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementSimple,ITXT:2,0,Exit
+33865182,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementSimple,ITXT,0,Enable
+33865182,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementSimple,DESC,0,"Advanced Object Placement
+
+If enabled, you will see a blue placement marker that follows where you look and move when placing camping equipment. This allows for very precise placement.
+If disabled, you will place camping equipment perfectly flat directly in front of the player when activating a dropped piece of camping gear.
+Current Setting: Disabled"
+33865180,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationOFF,ITXT:2,0,Exit
+33865180,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationOFF,ITXT,0,Enable
+33865180,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationOFF,DESC,0,"Player Animation
+
+If enabled, you will play a hand warming animation near heat sources. You must be in 3rd Person View and must stand still for several seconds for this to occur. To exit the animation, press a movement key. Controller users: press Ready Weapon, Jump, or Attack.
+
+Current Setting: Disabled"
+33865181,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationON,ITXT:2,0,Exit
+33865181,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationON,ITXT,0,Disable
+33865181,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationON,DESC,0,"Player Animation
+
+If enabled, you will play a hand warming animation near heat sources. You must be in 3rd Person View and must stand still for several seconds for this to occur. To exit the animation, press a movement key. Controller users: press Ready Weapon, Jump, or Attack.
+
+Current Setting: Enabled"
+33865178,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsOFF,ITXT:2,0,Exit
+33865178,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsOFF,ITXT,0,Enable
+33865178,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsOFF,DESC,0,"Sound Effects
+
+If enabled, you will hear a shiver sound effect when entering 'Freezing' or 'Freezing to Death'.
+
+Current Setting: Disabled"
+33865179,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsON,ITXT:2,0,Exit
+33865179,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsON,ITXT,0,Disable
+33865179,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsON,DESC,0,"Sound Effects
+
+If enabled, you will hear a shiver sound effect when entering 'Freezing' or 'Freezing to Death'.
+
+Current Setting: Enabled"
+33616024,_DE_Backpack_Menu2_Setup_OptionsTentDisabled,ITXT:2,0,Back
+33616024,_DE_Backpack_Menu2_Setup_OptionsTentDisabled,ITXT,0,Enable
+33616024,_DE_Backpack_Menu2_Setup_OptionsTentDisabled,DESC,0,"Axe Durability
+
+If enabled (default), woodcutter's axes will have a limited durability, and can be used 15 times to harvest wood before they require repair.
+
+If disabled, woodcutter's axes can be used an unlimited number of times.
+
+Current Setting: Disabled"
+33616023,_DE_Backpack_Menu2_Setup_OptionsTentEnabled,ITXT:2,0,Back
+33616023,_DE_Backpack_Menu2_Setup_OptionsTentEnabled,ITXT,0,Disable
+33616023,_DE_Backpack_Menu2_Setup_OptionsTentEnabled,DESC,0,"Axe Durability
+
+If enabled (default), woodcutter's axes will have a limited durability, and can be used 15 times to harvest wood before they require repair.
+
+If disabled, woodcutter's axes can be used an unlimited number of times.
+
+Current Setting: Enabled"
+33707585,_DE_Backpack_Menu2_Setup_OptionsTutorialsOFF,ITXT:3,0,Back
+33707585,_DE_Backpack_Menu2_Setup_OptionsTutorialsOFF,ITXT:2,0,Reset Tutorials
+33707585,_DE_Backpack_Menu2_Setup_OptionsTutorialsOFF,ITXT,0,Enable
+33707585,_DE_Backpack_Menu2_Setup_OptionsTutorialsOFF,DESC,0,"Tutorials
+
+If enabled, tutorial message boxes will display contextually depending on your current state and activities. These are designed to allow new players to jump directly into playing Frostfall.
+
+If disabled, these messages will no longer be displayed.
+
+Current Setting: Disabled"
+33707586,_DE_Backpack_Menu2_Setup_OptionsTutorialsON,ITXT:3,0,Back
+33707586,_DE_Backpack_Menu2_Setup_OptionsTutorialsON,ITXT:2,0,Reset Tutorials
+33707586,_DE_Backpack_Menu2_Setup_OptionsTutorialsON,ITXT,0,Disable
+33707586,_DE_Backpack_Menu2_Setup_OptionsTutorialsON,DESC,0,"Tutorials
+
+If enabled, tutorial message boxes will display contextually depending on your current state and activities. These are designed to allow new players to jump directly into playing Frostfall.
+
+If disabled, these messages will no longer be displayed.
+
+Current Setting: Enabled"
+33618821,_DE_Backpack_Menu2_Setup_OptionsUninstallNo,ITXT:2,0,Back
+33618821,_DE_Backpack_Menu2_Setup_OptionsUninstallNo,ITXT,0,Shut Down Frostfall
+33618821,_DE_Backpack_Menu2_Setup_OptionsUninstallNo,DESC,0,"Frostfall Activation / Shutdown
+This will shut down or reactivate Frostfall.  Shutting down will remove all Frostfall-related effects from your character. You can re-enable Frostfall later at any time. Survival Skills and placing camping gear will no longer work while Frostfall is shut down.
+
+If uninstalling Frostfall, to prevent permanent damage to your character, you MUST shut down Frostfall and save your game first! You have been warned!
+
+Current Status: Frostfall is Active and Running"
+33618820,_DE_Backpack_Menu2_Setup_OptionsUninstallYes,ITXT:2,0,Back
+33618820,_DE_Backpack_Menu2_Setup_OptionsUninstallYes,ITXT,0,Activate Frostfall
+33618820,_DE_Backpack_Menu2_Setup_OptionsUninstallYes,DESC,0,"Frostfall Activation / Shutdown
+This will shut down or reactivate Frostfall.  Shutting down will remove all Frostfall-related effects from your character. You can re-enable Frostfall later at any time. Survival Skills and placing camping gear will no longer work while Frostfall is shut down.
+
+If uninstalling Frostfall, to prevent permanent damage to your character, you MUST shut down Frostfall and save your game first! You have been warned!
+
+Current Status: Frostfall is Shut Down"
+33833274,_DE_Backpack_Menu2_Setup_OptionsVampirismOff,ITXT:2,0,Back
+33833274,_DE_Backpack_Menu2_Setup_OptionsVampirismOff,ITXT,0,Enable
+33833274,_DE_Backpack_Menu2_Setup_OptionsVampirismOff,DESC,0,"Vampire & Undead Exposure Immunity
+
+If enabled, you will not gain or lose exposure while you are a vampire or a member of the undead.
+
+If disabled, you will gain and lose exposure as normal, even if you are a vampire or undead.
+
+Current Setting: Disabled"
+33833273,_DE_Backpack_Menu2_Setup_OptionsVampirismOn,ITXT:2,0,Back
+33833273,_DE_Backpack_Menu2_Setup_OptionsVampirismOn,ITXT,0,Disable
+33833273,_DE_Backpack_Menu2_Setup_OptionsVampirismOn,DESC,0,"Vampire & Undead Exposure Immunity
+
+If enabled, you will not gain or lose exposure while you are a vampire or a member of the undead.
+
+If disabled, you will gain and lose exposure as normal, even if you are a vampire or undead.
+
+Current Setting: Enabled"
+33616021,_DE_Backpack_Menu2_Setup_OptionsWaterDisabled,ITXT:2,0,Back
+33616021,_DE_Backpack_Menu2_Setup_OptionsWaterDisabled,ITXT,0,Enable
+33616021,_DE_Backpack_Menu2_Setup_OptionsWaterDisabled,DESC,0,"Frigid Water Lethality
+
+If enabled (default), swimming in frigid water can kill you in about 30 seconds, depending on your adaptation.
+
+If disabled, swimming in frigid water will not kill you, but will still deplete your Stamina.
+
+Current Setting: Disabled
+
+"
+33616020,_DE_Backpack_Menu2_Setup_OptionsWaterEnabled,ITXT:2,0,Back
+33616020,_DE_Backpack_Menu2_Setup_OptionsWaterEnabled,ITXT,0,Disable
+33616020,_DE_Backpack_Menu2_Setup_OptionsWaterEnabled,DESC,0,"Frigid Water Lethality
+
+If enabled (default), swimming in frigid water can kill you in about 30 seconds, depending on your adaptation.
+
+If disabled, swimming in frigid water will not kill you, but will still deplete your Stamina.
+
+Current Setting: Enabled
+
+"
+33833266,_DE_Backpack_Menu2_Setup_RemoveGearOff,ITXT:2,0,Exit
+33833266,_DE_Backpack_Menu2_Setup_RemoveGearOff,ITXT,0,Enable
+33833266,_DE_Backpack_Menu2_Setup_RemoveGearOff,DESC,0,"Remove Gear In Tents
+
+If enabled, you will remove your backpack, quiver, weapons and shield when sitting or laying down in a tent. If the weather is warm enough or your tent is near a fire, you will take off your boots and helm as well. The equipment is placed around your tent and is re-equipped automatically when you get back up.
+If disabled, you will not remove any equipment when inside a tent.
+
+Current Setting: Disabled"
+33833265,_DE_Backpack_Menu2_Setup_RemoveGearOn,ITXT:2,0,Exit
+33833265,_DE_Backpack_Menu2_Setup_RemoveGearOn,ITXT,0,Disable
+33833265,_DE_Backpack_Menu2_Setup_RemoveGearOn,DESC,0,"Remove Gear In Tents
+
+If enabled, you will remove your backpack, quiver, weapons and shield when sitting or laying down in a tent. If the weather is warm enough or your tent is near a fire, you will take off your boots and helm as well. The equipment is placed around your tent and is re-equipped automatically when you get back up.
+If disabled, you will not remove any equipment when inside a tent.
+
+Current Setting: Enabled"
+33664587,_DE_Backpack_Menu2_Setup_WaitDisableOff,ITXT:2,0,Back
+33664587,_DE_Backpack_Menu2_Setup_WaitDisableOff,ITXT,0,Disable
+33664587,_DE_Backpack_Menu2_Setup_WaitDisableOff,DESC,0,"Toggle Waiting Outdoors
+
+Use this setting to enable or disable waiting while outdoors.
+
+(Note: This will also disable your ability to Fast Travel! You cannot disable waiting by itself! You can, however, disable Fast Travel by itself.)
+
+Current Setting: Waiting Outdoors is Enabled"
+33664586,_DE_Backpack_Menu2_Setup_WaitDisableOn,ITXT:2,0,Back
+33664586,_DE_Backpack_Menu2_Setup_WaitDisableOn,ITXT,0,Enable
+33664586,_DE_Backpack_Menu2_Setup_WaitDisableOn,DESC,0,"Toggle Waiting Outdoors
+
+Use this setting to enable or disable waiting while outdoors.
+
+(Note: This will also disable your ability to Fast Travel! You cannot disable waiting by itself! You can, however, disable Fast Travel by itself.)
+
+Current Setting: Waiting Outdoors is Disabled"
+33740909,_DE_Backpack_Stendarr,FULL,0,Backpack
+33740911,_DE_Backpack_Talos,FULL,0,Backpack
+33735266,_DE_Backpack_White,FULL,0,"Backpack, White Fur"
+33735266,_DE_Backpack_White,DESC,0,
+33740838,_DE_Backpack_White_Akatosh,FULL,0,"Backpack, White Fur (Akatosh)"
+33740838,_DE_Backpack_White_Akatosh,DESC,0,
+33740839,_DE_Backpack_White_Arkay,FULL,0,"Backpack, White Fur (Arkay)"
+33740839,_DE_Backpack_White_Arkay,DESC,0,
+33740840,_DE_Backpack_White_Dibella,FULL,0,"Backpack, White Fur (Dibella)"
+33740840,_DE_Backpack_White_Dibella,DESC,0,
+33749226,_DE_Backpack_White_Dragon,FULL,0,"Backpack, White Fur (Kyne)"
+33749226,_DE_Backpack_White_Dragon,DESC,0,
+33740841,_DE_Backpack_White_Julianos,FULL,0,"Backpack, White Fur (Julianos)"
+33740841,_DE_Backpack_White_Julianos,DESC,0,
+33740842,_DE_Backpack_White_Kynareth,FULL,0,"Backpack, White Fur (Kynareth)"
+33740842,_DE_Backpack_White_Kynareth,DESC,0,
+33740843,_DE_Backpack_White_Mara,FULL,0,"Backpack, White Fur (Mara)"
+33740843,_DE_Backpack_White_Mara,DESC,0,
+33740844,_DE_Backpack_White_Stendarr,FULL,0,"Backpack, White Fur (Stendarr)"
+33740844,_DE_Backpack_White_Stendarr,DESC,0,
+33740845,_DE_Backpack_White_Talos,FULL,0,"Backpack, White Fur (Talos)"
+33740845,_DE_Backpack_White_Talos,DESC,0,
+33740846,_DE_Backpack_White_Zenithar,FULL,0,"Backpack, White Fur (Zenithar)"
+33740846,_DE_Backpack_White_Zenithar,DESC,0,
+33740913,_DE_Backpack_Zenithar,FULL,0,Backpack
+33657548,_DE_BackpackContainer,FULL,0,Basic Camping Supplies
+33735271,_DE_BackpackDisplay_Axe,FULL,0,Backpack Display Axe
+33735271,_DE_BackpackDisplay_Axe,DESC,0,
+33735275,_DE_BackpackDisplay_CookingPot,FULL,0,Backpack Display Axe
+33735275,_DE_BackpackDisplay_CookingPot,DESC,0,
+33735272,_DE_BackpackDisplay_Tent,FULL,0,Backpack Display Axe
+33735272,_DE_BackpackDisplay_Tent,DESC,0,
+33735277,_DE_BackpackDisplay_Torch,FULL,0,Backpack Display Axe
+33735277,_DE_BackpackDisplay_Torch,DESC,0,
+33735279,_DE_BackpackEffect_Axe_0,FULL,0,Backpack Effect Axe Stage 0
+33735279,_DE_BackpackEffect_Axe_0,DNAM,0,
+33768693,_DE_BackpackEffect_Axe_1,FULL,0,Backpack Effect Axe Stage 1
+33768693,_DE_BackpackEffect_Axe_1,DNAM,0,
+33768694,_DE_BackpackEffect_Axe_2,FULL,0,Backpack Effect Axe Stage 2
+33768694,_DE_BackpackEffect_Axe_2,DNAM,0,
+33768695,_DE_BackpackEffect_Axe_3,FULL,0,Backpack Effect Axe Stage 3
+33768695,_DE_BackpackEffect_Axe_3,DNAM,0,
+33768696,_DE_BackpackEffect_Axe_4,FULL,0,Backpack Effect Axe Stage 4
+33768696,_DE_BackpackEffect_Axe_4,DNAM,0,
+33735280,_DE_BackpackEffect_CookingPot,FULL,0,Backpack Effect Cooking Pot
+33735280,_DE_BackpackEffect_CookingPot,DNAM,0,
+33735281,_DE_BackpackEffect_Tent,FULL,0,Backpack Effect Tent
+33735281,_DE_BackpackEffect_Tent,DNAM,0,
+33735282,_DE_BackpackEffect_Torch,FULL,0,Backpack Effect Torch
+33735282,_DE_BackpackEffect_Torch,DNAM,0,
+33758966,_DE_BackpackEffect_Waterskin,FULL,0,Backpack Effect Waterskin
+33758966,_DE_BackpackEffect_Waterskin,DNAM,0,
+33638155,_DE_BEAR_ArmorFull,DESC,0,This armor provides full exposure protection.
+33638153,_DE_BEAR_ArmorLimited,DESC,0,This armor provides limited exposure protection.
+33638154,_DE_BEAR_ArmorStandard,DESC,0,This armor provides standard exposure protection.
+33638158,_DE_BEAR_ClothingFull,DESC,0,This clothing provides full exposure protection.
+33638156,_DE_BEAR_ClothingLimited,DESC,0,This clothing provides limited exposure protection.
+33638157,_DE_BEAR_ClothingStandard,DESC,0,This clothing provides standard exposure protection.
+33586938,_DE_Bedroll_ActualF,FULL,0,Bed Roll
+33787071,_DE_Bedroll_NPC_F,FULL,0,Spare Bed Roll
+33787072,_DE_Bedroll_NPC_FL,FULL,0,Spare Bed Roll
+33787073,_DE_Bedroll_NPC_FR,FULL,0,Spare Bed Roll
+33787074,_DE_Bedroll_NPC_L,FULL,0,Spare Bed Roll
+33787075,_DE_Bedroll_NPC_R,FULL,0,Spare Bed Roll
+33842973,_DE_BookActivatorRespawn,RNAM,0,Take
+33842973,_DE_BookActivatorRespawn,FULL,0,Survivor's Guide to Skyrim
+33643693,_DE_BookMenu_FirstTime,DESC,0,"Lost in thought, you reflect back on how much the wilds have taught you about yourself over the last several days. You recall a book you once lost that was full of wisdom about survival in the open country. On a whim, you open your pack, and find the Survivor's Guide to Skyrim staring back up at you. Had it always been there, or had thought alone summoned it...? You push aside the thought as you thumb through its pages, and then carefully place it back, knowing that some things are never truly lost."
+33643695,_DE_BookMenu_FirstTime2,DESC,0,"You are now prepared to face a colder, harsher Skyrim."
+33643696,_DE_BookMenu_FirstTime3,DESC,0,Use Survival Settings or Mod Config to tailor your experience.
+33643692,_DE_BookMenu_Main,ITXT:2,0,Continue Reading (Exit)
+33643692,_DE_BookMenu_Main,ITXT,0,Rewrite the Guide (Configure)
+33643692,_DE_BookMenu_Main,DESC,0,"You open ""A Survivor's Guide to Skyrim"". What do you do?"
+33747845,_DE_CampChair,FULL,0,Simple Chair
+33658953,_DE_CampCookingPot_MISC,FULL,0,Cooking Pot
+33709000,_DE_Campfire_FuelContainer,FULL,0,Campfire
+33709001,_DE_Campfire_RingBaseACT,RNAM,0,Tend To
+33709001,_DE_Campfire_RingBaseACT,FULL,0,Campfire
+33816593,_DE_Campfire_Simple,FULL,0,Campfire
+33820737,_DE_Campfire_Simple_Menu_Lit,ITXT:2,0,Exit
+33820737,_DE_Campfire_Simple_Menu_Lit,ITXT,0,Destroy Campfire
+33820737,_DE_Campfire_Simple_Menu_Lit,DESC,0,What do you do?
+33820736,_DE_Campfire_Simple_Menu_Unlit,ITXT:4,0,Exit
+33820736,_DE_Campfire_Simple_Menu_Unlit,ITXT:3,0,Destroy Campfire
+33820736,_DE_Campfire_Simple_Menu_Unlit,ITXT:2,0,Add Deadwood (15)
+33820736,_DE_Campfire_Simple_Menu_Unlit,ITXT,0,Add Firewood (6)
+33820736,_DE_Campfire_Simple_Menu_Unlit,DESC,0,"To start a campfire, you need 6 firewood or 15 deadwood.
+
+What do you do?"
+33709013,_DE_Campfire2Spell,FULL,0,Survival Skills: Build Campfire
+33709013,_DE_Campfire2Spell,DESC,0,Build a campfire.
+33557861,_DE_CampFireKit_MISC,FULL,0,Fire Kit
+33557864,_DE_CampFireKit_MISC_Menu,ITXT:3,0,Cancel
+33557864,_DE_CampFireKit_MISC_Menu,ITXT:2,0,Pick Up
+33557864,_DE_CampFireKit_MISC_Menu,ITXT,0,Build Campfire
+33557864,_DE_CampFireKit_MISC_Menu,FULL,0,Fire Kit
+33557864,_DE_CampFireKit_MISC_Menu,DESC,0,What do you want to do?
+33559253,_DE_CampFireKit_Placed_ACT_Menu,ITXT:2,0,Cancel
+33559253,_DE_CampFireKit_Placed_ACT_Menu,ITXT,0,Destroy Campfire
+33559253,_DE_CampFireKit_Placed_ACT_Menu,FULL,0,Fire Kit
+33559253,_DE_CampFireKit_Placed_ACT_Menu,DESC,0,"What do you want to do?
+
+(Destroying the campfire will pick up your Cooking Pot, if any)"
+33624349,_DE_CampFireKit_Placed_Rekindle,FULL,0,Fire Kit
+33624349,_DE_CampFireKit_Placed_Rekindle,DESC,0,You rekindle the campfire.
+33624350,_DE_CampFireKit_Placed_RekindleError,ITXT,0,Back
+33624350,_DE_CampFireKit_Placed_RekindleError,FULL,0,Fire Kit
+33624350,_DE_CampFireKit_Placed_RekindleError,DESC,0,You need 2 Firewood to rekindle a campfire.
+33670123,_DE_CampFireKit_PlacedManual_ACT_Menu,ITXT:2,0,Cancel
+33670123,_DE_CampFireKit_PlacedManual_ACT_Menu,ITXT,0,Destroy Campfire
+33670123,_DE_CampFireKit_PlacedManual_ACT_Menu,FULL,0,Fire Kit
+33670123,_DE_CampFireKit_PlacedManual_ACT_Menu,DESC,0,"This campfire can be lit with a torch or a flame spell.
+
+What do you want to do?
+
+(Destroying the campfire will pick up your Cooking Pot, if any)"
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,ITXT:3,0,Cancel
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,ITXT:2,0,Destroy Campfire
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,ITXT,0,Add Firewood
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,FULL,0,Fire Kit
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,DESC,0,"What do you want to do?
+
+Rekindling this campfire will require 2 pieces of firewood.
+
+(Destroying the campfire will pick up your Cooking Pot, if any)"
+33778511,_DE_CampTanningRack,FULL,0,Tanning Rack
+33559250,_DE_CampTent_MISC_Menu,ITXT:3,0,Cancel
+33559250,_DE_CampTent_MISC_Menu,ITXT:2,0,Pick Up
+33559250,_DE_CampTent_MISC_Menu,ITXT,0,Pitch Tent
+33559250,_DE_CampTent_MISC_Menu,FULL,0,Tent
+33559250,_DE_CampTent_MISC_Menu,DESC,0,What do you want to do?
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT:5,0,Exit
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT:4,0,Use Lantern
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT:3,0,Pack Up
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT:2,0,Lie Down
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT,0,Sit
+33559254,_DE_CampTent_Placed_ACT_Menu,FULL,0,Tent
+33559254,_DE_CampTent_Placed_ACT_Menu,DESC,0,What do you want to do?
+33778517,_DE_CampTent2_DropChoice,ITXT:2,0,Drop Tent
+33778517,_DE_CampTent2_DropChoice,ITXT,0,Pitch Tent
+33778517,_DE_CampTent2_DropChoice,DESC,0,What do you want to do?
+33778510,_DE_CampTent2_HideSmall_MISC,FULL,0," Small Fur Tent, Bed Roll"
+33789871,_DE_CampTent2_LargeHide1BRACT,RNAM,0,Use
+33789871,_DE_CampTent2_LargeHide1BRACT,FULL,0,Your Bed Roll
+33789872,_DE_CampTent2_LargeHide2BRACT,RNAM,0,Use
+33789872,_DE_CampTent2_LargeHide2BRACT,FULL,0,Your Bed Roll
+33789873,_DE_CampTent2_LargeHide3BRACT,RNAM,0,Use
+33789873,_DE_CampTent2_LargeHide3BRACT,FULL,0,Your Bed Roll
+33789874,_DE_CampTent2_LargeHide4BRACT,RNAM,0,Use
+33789874,_DE_CampTent2_LargeHide4BRACT,FULL,0,Your Bed Roll
+33789883,_DE_CampTent2_LargeLeather1BRACT,RNAM,0,Use
+33789883,_DE_CampTent2_LargeLeather1BRACT,FULL,0,Your Bed Roll
+33789884,_DE_CampTent2_LargeLeather2BRACT,RNAM,0,Use
+33789884,_DE_CampTent2_LargeLeather2BRACT,FULL,0,Your Bed Roll
+33789885,_DE_CampTent2_LargeLeather3BRACT,RNAM,0,Use
+33789885,_DE_CampTent2_LargeLeather3BRACT,FULL,0,Your Bed Roll
+33777075,_DE_CampTent2_LayMenu,ITXT:5,0,Exit
+33777075,_DE_CampTent2_LayMenu,ITXT:4,0,Get Up
+33777075,_DE_CampTent2_LayMenu,ITXT:3,0,Toggle View
+33777075,_DE_CampTent2_LayMenu,ITXT:2,0,Use Lantern
+33777075,_DE_CampTent2_LayMenu,ITXT,0,Sleep
+33777075,_DE_CampTent2_LayMenu,FULL,0,Tent
+33777075,_DE_CampTent2_LayMenu,DESC,0,"What do you want to do?
+
+Exposure: %.0f Wet: %.0f%%"
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT:5,0,Exit
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT:4,0,Get Up
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT:3,0,Toggle View
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT:2,0,Use Lantern
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT,0,Sleep
+33863796,_DE_CampTent2_LayMenu_Positive,FULL,0,Tent
+33863796,_DE_CampTent2_LayMenu_Positive,DESC,0,"What do you want to do?
+
+Exposure: +%.0f Wet: %.0f%%"
+33661716,_DE_CampTent2_LeatherSmall1BR_MISC,FULL,0," Small Leather Tent, Bed Roll"
+33778544,_DE_CampTent2_LeatherSmall2BR_MISC,FULL,0," Small Leather Tent, 2x Bed Roll"
+33777074,_DE_CampTent2_SitMenu,ITXT:4,0,Exit
+33777074,_DE_CampTent2_SitMenu,ITXT:3,0,Get Up
+33777074,_DE_CampTent2_SitMenu,ITXT:2,0,Toggle View
+33777074,_DE_CampTent2_SitMenu,ITXT,0,Use Lantern
+33777074,_DE_CampTent2_SitMenu,FULL,0,Tent
+33777074,_DE_CampTent2_SitMenu,DESC,0,"What do you want to do?
+
+Exposure: %.0f Wet: %.0f%%"
+33863795,_DE_CampTent2_SitMenu_Positive,ITXT:4,0,Exit
+33863795,_DE_CampTent2_SitMenu_Positive,ITXT:3,0,Get Up
+33863795,_DE_CampTent2_SitMenu_Positive,ITXT:2,0,Toggle View
+33863795,_DE_CampTent2_SitMenu_Positive,ITXT,0,Use Lantern
+33863795,_DE_CampTent2_SitMenu_Positive,FULL,0,Tent
+33863795,_DE_CampTent2_SitMenu_Positive,DESC,0,"What do you want to do?
+
+Exposure: +%.0f Wet: %.0f%%"
+33777072,_DE_CampTent2_SmallHideACT,RNAM,0,Use
+33777072,_DE_CampTent2_SmallHideACT,FULL,0,Your Bed Roll
+33778537,_DE_CampTent2_SmallLeather1BRACT,RNAM,0,Use
+33778537,_DE_CampTent2_SmallLeather1BRACT,FULL,0,Your Bed Roll
+33789882,_DE_CampTent2_SmallLeather2BRACT,RNAM,0,Use
+33789882,_DE_CampTent2_SmallLeather2BRACT,FULL,0,Your Bed Roll
+33777076,_DE_CampTent2_WaitMenu,ITXT:6,0,Back
+33777076,_DE_CampTent2_WaitMenu,ITXT:5,0,Wait
+33777076,_DE_CampTent2_WaitMenu,ITXT:4,0,+6 Hr
+33777076,_DE_CampTent2_WaitMenu,ITXT:3,0,+1 Hr
+33777076,_DE_CampTent2_WaitMenu,ITXT:2,0,-1 Hr
+33777076,_DE_CampTent2_WaitMenu,ITXT,0,-6 Hr
+33777076,_DE_CampTent2_WaitMenu,FULL,0,Tent
+33777076,_DE_CampTent2_WaitMenu,DESC,0,"Wait how long?
+
+%.0f Hour(s)"
+33785485,_DE_CampTent2_WaitUntilMenu,ITXT:3,0,Back
+33785485,_DE_CampTent2_WaitUntilMenu,ITXT:2,0,Storm Passes
+33785485,_DE_CampTent2_WaitUntilMenu,ITXT,0,Morning
+33785485,_DE_CampTent2_WaitUntilMenu,FULL,0,Tent
+33785485,_DE_CampTent2_WaitUntilMenu,DESC,0,Wait until...
+33661768,_DE_CampTentHideLarge_1BR,FULL,0," Large Fur Tent, Bed Roll"
+33661767,_DE_CampTentHideLarge_2BR,FULL,0," Large Fur Tent, 2x Bed Roll"
+33661758,_DE_CampTentHideLarge_3BR,FULL,0," Large Fur Tent, 3x Bed Roll"
+33661757,_DE_CampTentHideLarge_4BR,FULL,0," Large Fur Tent, 4x Bed Roll"
+33787068,_DE_CampTentLeatherLarge_1BR,FULL,0," Large Leather Tent, Bed Roll"
+33787069,_DE_CampTentLeatherLarge_2BR,FULL,0," Large Leather Tent, 2x Bed Roll"
+33787070,_DE_CampTentLeatherLarge_3BR,FULL,0," Large Leather Tent, 3x Bed Roll"
+33660335,_DE_CampTorch_MISC,FULL,0,Torch
+33709015,_DE_CampVis_CampfireEffect,DNAM,0,
+33746460,_DE_CampVis_CampTanningRack,FULL,0,Tanning Rack
+33785480,_DE_CampVis_Cancelled,DESC,0,Placement cancelled.
+33823570,_DE_CampVis_CookingPot,FULL,0,Cooking Pot
+33789870,_DE_CampVisIllegal,ITXT:2,0,Back
+33789870,_DE_CampVisIllegal,ITXT,0,Cancel Placement
+33789870,_DE_CampVisIllegal,DESC,0,Camping here is illegal. You can't place camping equipment in or near settlements or in buildings.
+33746458,_DE_CampVisPrompt_Campfire,ITXT:3,0,Back
+33746458,_DE_CampVisPrompt_Campfire,ITXT:2,0,Cancel Placement
+33746458,_DE_CampVisPrompt_Campfire,ITXT,0,Build Campfire
+33746458,_DE_CampVisPrompt_Campfire,DESC,0,What do you want to do?
+33823571,_DE_CampVisPrompt_CookingPot,ITXT:3,0,Back
+33823571,_DE_CampVisPrompt_CookingPot,ITXT:2,0,Cancel Placement
+33823571,_DE_CampVisPrompt_CookingPot,ITXT,0,Place Cooking Pot Here
+33823571,_DE_CampVisPrompt_CookingPot,DESC,0,What do you want to do?
+33785471,_DE_CampVisPrompt_Enchanting,ITXT:3,0,Back
+33785471,_DE_CampVisPrompt_Enchanting,ITXT:2,0,Cancel Placement
+33785471,_DE_CampVisPrompt_Enchanting,ITXT,0,Place Enchanter's Circle Here
+33785471,_DE_CampVisPrompt_Enchanting,DESC,0,What do you want to do?
+33785486,_DE_CampVisPrompt_TanningRack,ITXT:3,0,Back
+33785486,_DE_CampVisPrompt_TanningRack,ITXT:2,0,Cancel Placement
+33785486,_DE_CampVisPrompt_TanningRack,ITXT,0,Place Tanning Rack Here
+33785486,_DE_CampVisPrompt_TanningRack,DESC,0,What do you want to do?
+33746465,_DE_CampVisPrompt_Tent,ITXT:3,0,Back
+33746465,_DE_CampVisPrompt_Tent,ITXT:2,0,Cancel Placement
+33746465,_DE_CampVisPrompt_Tent,ITXT,0,Pitch Tent Here
+33746465,_DE_CampVisPrompt_Tent,DESC,0,What do you want to do?
+33746450,_DE_CampVisTrigger_Campfire,RNAM,0,Build
+33746450,_DE_CampVisTrigger_Campfire,FULL,0,Campfire
+33746463,_DE_CampVisTrigger_CampTentHideSmall,RNAM,0,Pitch
+33746463,_DE_CampVisTrigger_CampTentHideSmall,FULL,0,Tent
+33778542,_DE_CampVisTrigger_CampTentLeatherSmall,RNAM,0,Pitch
+33778542,_DE_CampVisTrigger_CampTentLeatherSmall,FULL,0,Tent
+33826334,_DE_CampVisTrigger_CookingPot,RNAM,0,Place
+33826334,_DE_CampVisTrigger_CookingPot,FULL,0,Cooking Pot
+33785469,_DE_CampVisTrigger_Enchanting,RNAM,0,Place
+33785469,_DE_CampVisTrigger_Enchanting,FULL,0,Enchanter's Circle
+33785487,_DE_CampVisTrigger_TanningRack,RNAM,0,Place
+33785487,_DE_CampVisTrigger_TanningRack,FULL,0,Tanning Rack
+33661714,_DE_CanvasSheet,FULL,0,Small Canvas Sheet
+33661715,_DE_CanvasSheetLarge,FULL,0,Canvas Tarp
+33869410,_DE_Chest_Shelter,FULL,0,Chest
+33815196,_DE_Cloak_BasicBurlap,FULL,0,"Travel Cloak, Burlap"
+33815196,_DE_Cloak_BasicBurlap,DESC,0,
+33815198,_DE_Cloak_BasicFur,FULL,0,"Travel Cloak, Fur"
+33815198,_DE_Cloak_BasicFur,DESC,0,
+33815199,_DE_Cloak_BasicHide,FULL,0,"Travel Cloak, Hide"
+33815199,_DE_Cloak_BasicHide,DESC,0,
+33815197,_DE_Cloak_BasicLinen,FULL,0,"Travel Cloak, Linen"
+33815197,_DE_Cloak_BasicLinen,DESC,0,
+33674313,_DE_CloakState_Spell,FULL,0,Cloak
+33674313,_DE_CloakState_Spell,DESC,0,
+33775597,_DE_CloakState_Spell_Burlap,FULL,0,Cloak
+33775597,_DE_CloakState_Spell_Burlap,DESC,0,
+33775603,_DE_CloakState_Spell_Fur,FULL,0,Cloak
+33775603,_DE_CloakState_Spell_Fur,DESC,0,
+33775601,_DE_CloakState_Spell_Hide,FULL,0,Cloak
+33775601,_DE_CloakState_Spell_Hide,DESC,0,
+33775599,_DE_CloakState_Spell_Linen,FULL,0,Cloak
+33775599,_DE_CloakState_Spell_Linen,DESC,0,
+33674310,_DE_CloakStateEffect,FULL,0,"Resist Exposure, Rain Protection"
+33674310,_DE_CloakStateEffect,DNAM,0,The warmth of your cloak gives you <10%> resistance to exposure. You stay dry <50%> longer in the rain.
+33775593,_DE_CloakStateEffect_Burlap,FULL,0,"Resist Exposure, Rain Protection"
+33775593,_DE_CloakStateEffect_Burlap,DNAM,0,"The warmth of your cloak gives you <5%> resistance to exposure. You stay dry <50%> longer in the rain, but dry off <50%> slower when wet."
+33775596,_DE_CloakStateEffect_Fur,FULL,0,"Resist Exposure, Rain Protection"
+33775596,_DE_CloakStateEffect_Fur,DNAM,0,"The warmth of your cloak gives you <15%> resistance to exposure. You stay dry <50%> longer in the rain, but dry off <100%> slower when wet."
+33775595,_DE_CloakStateEffect_Hide,FULL,0,"Resist Exposure, Rain Protection"
+33775595,_DE_CloakStateEffect_Hide,DNAM,0,The warmth of your cloak gives you <7%> resistance to exposure. You stay dry <150%> longer in the rain.
+33775594,_DE_CloakStateEffect_Linen,FULL,0,"Resist Exposure, Rain Protection"
+33775594,_DE_CloakStateEffect_Linen,DNAM,0,"The warmth of your cloak gives you <10%> resistance to exposure. You stay dry <75%> longer in the rain, but dry off <25%> slower when wet."
+33842971,_DE_ColdCap,DESC,0,The heat keeps you from getting any colder.
+33595257,_DE_ColdWater_1,FULL,0,Cold Water
+33595257,_DE_ColdWater_1,DESC,0,
+33595258,_DE_ColdWater_2,FULL,0,Extremely Cold Water
+33595258,_DE_ColdWater_2,DESC,0,
+33595261,_DE_ColdWater_3,FULL,0,Frigid Water
+33595261,_DE_ColdWater_3,DESC,0,
+33827727,_DE_ColdWater_3_Perk,FULL,0,Frigid Water
+33827727,_DE_ColdWater_3_Perk,DESC,0,
+33598019,_DE_ColdWater_Death,FULL,0,Frigid Water
+33598019,_DE_ColdWater_Death,DESC,0,
+33595253,_DE_ColdWater_Effect1,FULL,0,Cold Water
+33595253,_DE_ColdWater_Effect1,DNAM,0,
+33595254,_DE_ColdWater_Effect2,FULL,0,Cold Water
+33595254,_DE_ColdWater_Effect2,DNAM,0,
+33595255,_DE_ColdWater_Effect3,FULL,0,Cold Water
+33595255,_DE_ColdWater_Effect3,DNAM,0,
+33827726,_DE_ColdWater_Effect3_Perk,FULL,0,Cold Water
+33827726,_DE_ColdWater_Effect3_Perk,DNAM,0,
+33595256,_DE_ColdWater_Effect3p,FULL,0,Cold Water
+33595256,_DE_ColdWater_Effect3p,DNAM,0,
+33833280,_DE_Combat_Error,DESC,0,You can't use this while in combat.
+33854053,_DE_CompatibilityFinished,DESC,0,You are now prepared to use camping equipment.
+33750664,_DE_ConditioningEffect,FULL,0,Resist Exposure
+33750664,_DE_ConditioningEffect,DNAM,0,Your time spent in Skyrim grants you <mag><%> resistance to exposure.
+33750665,_DE_ConditioningState_Spell,FULL,0,Adaptation
+33750665,_DE_ConditioningState_Spell,DESC,0,
+33860965,_DE_ConditioningState_Spell_SkyRe,FULL,0,Adaptation
+33860965,_DE_ConditioningState_Spell_SkyRe,DESC,0,
+33750669,_DE_Configuration_Effect,FULL,0,Configuration
+33750669,_DE_Configuration_Effect,DNAM,0,
+33750667,_DE_Configuration_Spell,FULL,0,Survival Settings
+33750667,_DE_Configuration_Spell,DESC,0,Tailor your survival experience.
+33563394,_DE_Container,FULL,0,Barrel
+33600805,_DE_Container_BookBarrel,FULL,0,Book Barrel
+33571723,_DE_Container_TEST,FULL,0,Barrel of Camping Supplies
+33767270,_DE_ContainerBackpacks,FULL,0,Barrel of Backpacks
+33824952,_DE_CookingPot_DropChoice,ITXT:2,0,Drop Cooking Pot
+33824952,_DE_CookingPot_DropChoice,ITXT,0,Place Cooking Pot
+33824952,_DE_CookingPot_DropChoice,DESC,0,What do you want to do?
+33829109,_DE_CookingPotError,DESC,0,There is no fire to cook with.
+33823568,_DE_CookingPotFurniture,FULL,0,Cooking Pot
+33824954,_DE_CookingPotSelect,ITXT:3,0,Exit
+33824954,_DE_CookingPotSelect,ITXT:2,0,Pack
+33824954,_DE_CookingPotSelect,ITXT,0,Cook
+33824954,_DE_CookingPotSelect,DESC,0,What do you do with this cooking pot?
+33658928,_DE_CraftingObject,FULL,0,Survival Skills
+33820741,_DE_CraftingPelt,FULL,0,Cleaned Pelt
+33820740,_DE_CraftingSinew,FULL,0,Hide Lace
+33707596,_DE_Deadwood01,FULL,0,Deadwood
+33707590,_DE_DeadwoodContainer,FULL,0,Pile of Deadwood
+33707600,_DE_DeadWoodHarvestSuccess,DESC,0,You find %.0f pieces of deadwood.
+33672893,_DE_DrinkDummy1,FULL,0,Strong Brew
+33672895,_DE_DrinkDummy2,FULL,0,Strong Brew
+33672897,_DE_DrinkDummy3,FULL,0,Strong Brew
+33670130,_DE_DrinkEffect1,FULL,0,Strong Brew
+33670130,_DE_DrinkEffect1,DNAM,0,Your drink reduces exposure by <10> for <3> minutes. You will gain <15> exposure when this effect wears off.
+33671513,_DE_DrinkEffect2,FULL,0,Strong Brew
+33671513,_DE_DrinkEffect2,DNAM,0,Your drink reduces exposure by <15> for <3> minutes. You will gain <20> exposure when this effect wears off.
+33671514,_DE_DrinkEffect3,FULL,0,Strong Brew
+33671514,_DE_DrinkEffect3,DNAM,0,Your drink reduces exposure by <20> for <3> minutes. You will gain <25> exposure when this effect wears off.
+33670128,_DE_DrinkSpell1,FULL,0,Strong Brew
+33670128,_DE_DrinkSpell1,DESC,0,Your drink restores <10> Exposure Points for <3> minutes. You will lose <15> Exposure Points when this effect wears off.
+33671509,_DE_DrinkSpell2,FULL,0,Strong Brew
+33671509,_DE_DrinkSpell2,DESC,0,Your drink restores <15> Exposure Points for <3> minutes. You will lose <20> Exposure Points when this effect wears off.
+33671511,_DE_DrinkSpell3,FULL,0,Strong Brew
+33671511,_DE_DrinkSpell3,DESC,0,Your drink restores <20> Exposure Points for <3> minutes. You will lose <25> Exposure Points when this effect wears off.
+33830489,_DE_DummyPerk,DESC,0,
+33893029,_DE_DummyWeapon,DESC,0,
+33749230,_DE_dunHunterQSTAmuletEffect,FULL,0,"Kyne's Blessing, Minor"
+33749230,_DE_dunHunterQSTAmuletEffect,DNAM,0,Damage taken from animals is reduced 5%.
+33749228,_DE_dunHunterQstEnchAmulet,FULL,0,Backpack
+33749227,_DE_dunHunterQstPerk,FULL,0,"Kyne's Blessing, Minor"
+33749227,_DE_dunHunterQstPerk,DESC,0,Damage taken from animals is reduced by 5%.
+33785464,_DE_Enchanting,FULL,0,Enchanter's Circle
+33785478,_DE_Enchanting_BoneMealError,DESC,0,You need bone meal to use this.
+33785473,_DE_Enchanting_DropChoice,ITXT:2,0,Drop Enchanting Supplies
+33785473,_DE_Enchanting_DropChoice,ITXT,0,Use Enchanting Supplies
+33785473,_DE_Enchanting_DropChoice,DESC,0,What do you want to do?
+33785479,_DE_Enchanting_RuneFade,DESC,0,These runes will fade in time.
+33784082,_DE_EnchantingGroundEffect,FULL,0,Enchanting Ground Effect
+33784082,_DE_EnchantingGroundEffect,DNAM,0,
+33784080,_DE_EnchantingGroundSpell,FULL,0,Enchanting Ground Spell
+33784080,_DE_EnchantingGroundSpell,DESC,0,
+33785472,_DE_EnchantingMISC,FULL,0,Enchanting Supplies
+33785474,_DE_EnchantingSelect,ITXT:3,0,Exit
+33785474,_DE_EnchantingSelect,ITXT:2,0,Pack Enchanter's Circle
+33785474,_DE_EnchantingSelect,ITXT,0,Use Enchanter's Circle
+33785474,_DE_EnchantingSelect,DESC,0,What do you do?
+33847114,_DE_EnchFortifyCarryConstantSelf,FULL,0,Fortify Carry Weight
+33847114,_DE_EnchFortifyCarryConstantSelf,DNAM,0,Carrying capacity increased by <mag> points.
+33834691,_DE_ExposureDeath,DESC,0,You succumb to exposure.
+33657547,_DE_FirewoodContainer,FULL,0,Pile of Firewood
+33620205,_DE_FirstBoot_Confirm,DESC,0,Your setting has been saved.
+33620203,_DE_FirstBootMsg,ITXT:2,0,No (Disable Fast Travel Cost)
+33620203,_DE_FirstBootMsg,ITXT,0,Yes (Accept Defaults)
+33620203,_DE_FirstBootMsg,DESC,0,"Welcome to Frostfall!
+Frostfall will make your experience with Skyrim more challenging, dangerous, and realistic. One way it accomplishes this is requiring you to be able to set up a campfire when you go on a long journey. 
+By default, you must have 1 Fire Kit or 3 Firewood in your inventory to enable Fast Travel.  It may take up to 10 seconds after acquiring these items for Fast Travel to become available again.
+Do you want to keep this setting? It can be changed at any time by opening your Camping Supplies, and selecting Setup."
+33899945,_DE_FlyingMountState_Spell,FULL,0,Flying Mount
+33899945,_DE_FlyingMountState_Spell,DESC,0,
+33899944,_DE_FlyingMountStateEffect,FULL,0,Riding Flying Mount
+33899944,_DE_FlyingMountStateEffect,DNAM,0,
+33592465,_DE_FoodBuff_Dispel,FULL,0,Exposure Dispel
+33592465,_DE_FoodBuff_Dispel,DNAM,0,
+33642312,_DE_FoodBuff10,FULL,0,Resist Exposure
+33642312,_DE_FoodBuff10,DNAM,0,Your warm meal gives you <5%> resistance to exposure.
+33642313,_DE_FoodBuff15,FULL,0,Resist Exposure
+33642313,_DE_FoodBuff15,DNAM,0,Your warm meal gives you <10%> resistance to exposure.
+33591077,_DE_FoodBuff20,FULL,0,Resist Exposure
+33591077,_DE_FoodBuff20,DNAM,0,Your warm meal gives you <10%> resistance to exposure.
+33591079,_DE_FoodBuff25,FULL,0,Resist Exposure
+33591079,_DE_FoodBuff25,DNAM,0,Your warm meal gives you <15%> resistance to exposure.
+33672902,_DE_FoodDummy10,FULL,0,Hearty Meal
+33672904,_DE_FoodDummy15,FULL,0,Hearty Meal
+33672906,_DE_FoodDummy20,FULL,0,Hearty Meal
+33672908,_DE_FoodDummy25,FULL,0,Hearty Meal
+33591078,_DE_FoodSpell1,FULL,0,Hearty Meal
+33591078,_DE_FoodSpell1,DESC,0,Your warm meal grants you a <10%> bonus to Exposure Resistance.
+33642308,_DE_FoodSpell2,FULL,0,Hearty Meal
+33642308,_DE_FoodSpell2,DESC,0,Your warm meal grants you a <15%> bonus to Exposure Resistance.
+33642310,_DE_FoodSpell3,FULL,0,Hearty Meal
+33642310,_DE_FoodSpell3,DESC,0,Your warm meal grants you a <20%> bonus to Exposure Resistance.
+33670126,_DE_FoodSpell4,FULL,0,Hearty Meal
+33670126,_DE_FoodSpell4,DESC,0,Your warm meal grants you a <25%> bonus to Exposure Resistance.
+33884703,_DE_HandWarmingEffect,FULL,0,Warming Hands
+33884703,_DE_HandWarmingEffect,DNAM,0,
+33884705,_DE_HandWarmingSpell,FULL,0,Hand Warming Spell
+33884705,_DE_HandWarmingSpell,DESC,0,
+33707591,_DE_HarvestWood,FULL,0,Survival Skills: Harvest Wood
+33707591,_DE_HarvestWood,DESC,0,"Spend <1> hour harvesting firewood, timber, and deadwood from nearby trees. A woodcutter's axe is required to harvest firewood and timber."
+33707593,_DE_HarvestWood_Effect,FULL,0,Harvest Wood
+33707593,_DE_HarvestWood_Effect,DNAM,0,Spend <1> hour harvesting firewood and deadwood from nearby trees. A woodcutter's axe is required to harvest firewood.
+33696508,_DE_Help_ExposurePoints,FULL,0,Exposure has increased
+33696508,_DE_Help_ExposurePoints,DESC,0,"Exposure Has Increased
+
+Your exposure has increased, and your skills are beginning to suffer. You should find a fire to warm up. You can also drink alcohol to reduce your exposure temporarily.
+
+By default, you will die at very high exposure."
+33887470,_DE_Help_Tents,FULL,0,Shelter
+33887470,_DE_Help_Tents,DESC,0,"Shelter
+
+Taking shelter is an integral part of staying warm and dry. Try to pitch your tent near heat sources (like a campfire) to maximize their effectiveness.
+
+Leather tents are waterproof (allowing you to get completely dry), but trap wamth poorly.
+Fur tents are very warm (allowing you to get completely warm), but leak when it rains.
+
+You can take shelter from rain by standing under anything that covers your head."
+33696509,_DE_Help_Vampirism,FULL,0,Vampirism
+33696509,_DE_Help_Vampirism,DESC,0,"Vampires & Undead
+
+As a vampire or a member of the undead, you ignore all of the effects of exposure. Exposure will not affect your skills, and frigid water will not harm you."
+33750670,_DE_Help_Visualize,FULL,0,Placement Mode
+33750670,_DE_Help_Visualize,DESC,0,"Placement Mode
+
+Place the blue placement marker where you would like this object to go.
+If a tent is in range of a campfire, the marker will glow orange to indicate that you will be warmed up while inside your tent.
+If the marker is red, you cannot place this object here. You may be too close to a town or settlement."
+33696510,_DE_Help_Wet,FULL,0,Wet
+33696510,_DE_Help_Wet,DESC,0,"Wet
+
+You are soaking wet from rain or swimming, which significantly increases your rate of exposure. Dry off by standing near a fire or spending enough time out of the rain and not swimming.
+
+Wearing a cloak can help you stay dry while traveling in the rain."
+33631250,_DE_Hypo_Spell_0_2,FULL,0,Exposure: Warm
+33631250,_DE_Hypo_Spell_0_2,DESC,0,"Time spent by the fire has left you feeling warm and soothed. <+10> Health, Magicka, and Stamina."
+33574486,_DE_Hypo_Spell_1,FULL,0,Exposure: Comfortable
+33574486,_DE_Hypo_Spell_1,DESC,0,You feel comfortable.
+33574487,_DE_Hypo_Spell_2,FULL,0,Exposure: Cold
+33574487,_DE_Hypo_Spell_2,DESC,0,"You feel chilly. <-10%> Health, Magicka, and Stamina Regeneration."
+33574490,_DE_Hypo_Spell_3,FULL,0,Exposure: Very Cold
+33574490,_DE_Hypo_Spell_3,DESC,0,"<-25%> Health, Magicka, and Stamina Regeneration; <-10> Archery, One-handed, Two-handed, Block, and all Magicka skills; <-30> Pickpocket and Lockpicking."
+33574492,_DE_Hypo_Spell_4,FULL,0,Exposure: Freezing
+33574492,_DE_Hypo_Spell_4,DESC,0,"<-50%> Health, Magicka, and Stamina Regeneration; <-30> Archery, One-handed, Two-handed, Block, Sneak, Speech, and all Magicka skills; <-60> Pickpocket and Lockpicking."
+33703422,_DE_Hypo_Spell_4NoFrost,FULL,0,Exposure: Freezing
+33703422,_DE_Hypo_Spell_4NoFrost,DESC,0,"<-50%> Health, Magicka, and Stamina Regeneration; <-30> Archery, One-handed, Two-handed, Block, Sneak, Speech, and all Magicka skills; <-60> Pickpocket and Lockpicking."
+33574494,_DE_Hypo_Spell_5,FULL,0,Exposure: Freezing to Death
+33574494,_DE_Hypo_Spell_5,DESC,0,"<-75%> Health, Magicka, and Stamina Regeneration; <-60> Archery, One-handed, Two-handed, Block, Sneak, Speech, and all Magicka skills; <-100> Pickpocket and Lockpicking."
+33703424,_DE_Hypo_Spell_5NoFrost,FULL,0,Exposure: Freezing to Death
+33703424,_DE_Hypo_Spell_5NoFrost,DESC,0,"<-75%> Health, Magicka, and Stamina Regeneration; <-60> Archery, One-handed, Two-handed, Block, Sneak, Speech, and all Magicka skills; <-100> Pickpocket and Lockpicking."
+33593869,_DE_HypoState_0,DESC,0,You feel warm.
+33593870,_DE_HypoState_0a,DESC,0,You feel completely warm.
+33593864,_DE_HypoState_1,DESC,0,You feel comfortable.
+33593865,_DE_HypoState_2,DESC,0,You feel chilly.
+33593866,_DE_HypoState_3,DESC,0,You are very cold.
+33593867,_DE_HypoState_4,DESC,0,You are freezing.
+33593868,_DE_HypoState_5,DESC,0,You are freezing to death!
+33577263,_DE_Hypothermia_Alteration,FULL,0,Exposure: Decreased Alteration
+33577263,_DE_Hypothermia_Alteration,DNAM,0,
+33577257,_DE_Hypothermia_Archery,FULL,0,Exposure: Decreased Archery
+33577257,_DE_Hypothermia_Archery,DNAM,0,
+33577261,_DE_Hypothermia_Block,FULL,0,Exposure: Decreased Block
+33577261,_DE_Hypothermia_Block,DNAM,0,
+33577266,_DE_Hypothermia_Conjuration,FULL,0,Exposure: Decreased Conjuration
+33577266,_DE_Hypothermia_Conjuration,DNAM,0,
+33577264,_DE_Hypothermia_Destruction,FULL,0,Exposure: Decreased Destruction
+33577264,_DE_Hypothermia_Destruction,DNAM,0,
+33578646,_DE_Hypothermia_Effect_Comfortable,FULL,0,Exposure: Comfortable
+33578646,_DE_Hypothermia_Effect_Comfortable,DNAM,0,
+33574481,_DE_Hypothermia_HealRateMult,FULL,0,Exposure: Cold
+33574481,_DE_Hypothermia_HealRateMult,DNAM,0,
+33577267,_DE_Hypothermia_Illusion,FULL,0,Exposure: Decreased Illusion
+33577267,_DE_Hypothermia_Illusion,DNAM,0,
+33577260,_DE_Hypothermia_Lockpicking,FULL,0,Exposure: Decreased Lockpicking
+33577260,_DE_Hypothermia_Lockpicking,DNAM,0,
+33574485,_DE_Hypothermia_MagickaRateMult,FULL,0,Exposure: Decreased Magicka Regeneration
+33574485,_DE_Hypothermia_MagickaRateMult,DNAM,0,
+33577256,_DE_Hypothermia_OneHanded,FULL,0,Exposure: Decreased One-Handed
+33577256,_DE_Hypothermia_OneHanded,DNAM,0,
+33577259,_DE_Hypothermia_Pickpocket,FULL,0,Exposure: Decreased Pickpocket
+33577259,_DE_Hypothermia_Pickpocket,DNAM,0,
+33577265,_DE_Hypothermia_Restoration,FULL,0,Exposure: Decreased Restoration
+33577265,_DE_Hypothermia_Restoration,DNAM,0,
+33577258,_DE_Hypothermia_Sneak,FULL,0,Exposure: Decreased Sneak
+33577258,_DE_Hypothermia_Sneak,DNAM,0,
+33577262,_DE_Hypothermia_Speech,FULL,0,Exposure: Decreased Speech
+33577262,_DE_Hypothermia_Speech,DNAM,0,
+33574482,_DE_Hypothermia_StaminaRateMult_2,FULL,0,Exposure: Cold
+33574482,_DE_Hypothermia_StaminaRateMult_2,DNAM,0,
+33580030,_DE_Hypothermia_StaminaRateMult_3,FULL,0,Exposure: Very Cold
+33580030,_DE_Hypothermia_StaminaRateMult_3,DNAM,0,
+33580031,_DE_Hypothermia_StaminaRateMult_4,FULL,0,Exposure: Freezing
+33580031,_DE_Hypothermia_StaminaRateMult_4,DNAM,0,
+33703420,_DE_Hypothermia_StaminaRateMult_4_NoFrost,FULL,0,Exposure: Freezing
+33703420,_DE_Hypothermia_StaminaRateMult_4_NoFrost,DNAM,0,
+33580032,_DE_Hypothermia_StaminaRateMult_5,FULL,0,Exposure: Freezing to Death
+33580032,_DE_Hypothermia_StaminaRateMult_5,DNAM,0,
+33703421,_DE_Hypothermia_StaminaRateMult_5_NoFrost,FULL,0,Exposure: Freezing to Death
+33703421,_DE_Hypothermia_StaminaRateMult_5_NoFrost,DNAM,0,
+33577255,_DE_Hypothermia_TwoHanded,FULL,0,Exposure: Decreased Two-Handed
+33577255,_DE_Hypothermia_TwoHanded,DNAM,0,
+33578648,_DE_Hypothermia_WarmHealth,FULL,0,Exposure: Increased Health
+33578648,_DE_Hypothermia_WarmHealth,DNAM,0,
+33578650,_DE_Hypothermia_WarmMagicka,FULL,0,Exposure: Increased Magicka
+33578650,_DE_Hypothermia_WarmMagicka,DNAM,0,
+33578651,_DE_Hypothermia_WarmStamina,FULL,0,Exposure: Warm
+33578651,_DE_Hypothermia_WarmStamina,DNAM,0,
+33806755,_DE_LoadingScreen1,DESC,0,"Skyrim is coldest at night. When the sun goes down, it may be best to find an inn or set up camp and rest until morning."
+33808187,_DE_LoadingScreen10,DESC,0,"Alcohol can reduce exposure for a short time. When the effect wears off, more exposure is gained than was lost."
+33808189,_DE_LoadingScreen11,DESC,0,"Blizzards are a deadly force in the northern Holds. Camp often, and seek shelter when necessary."
+33808190,_DE_LoadingScreen12,DESC,0,Being wet greatly increases how quickly your exposure increases.
+33808191,_DE_LoadingScreen13,DESC,0,"As your exposure increases, all of your skills will suffer. Your rate of exposure depends on many factors, including frost resistance, the weather, worn equipment, and so on."
+33808192,_DE_LoadingScreen14,DESC,0,"Over time, your natural adaptation to the cold will increase."
+33808194,_DE_LoadingScreen16,DESC,0,It takes one hour to search for firewood or deadwood. Search for wood early before things take a turn for the worse.
+33806756,_DE_LoadingScreen2,DESC,0,The woodcutter's axe is an essential tool. Use it to harvest firewood for building campfires and other supplies. Deadwood can be harvested without an axe.
+33806757,_DE_LoadingScreen3,DESC,0,"Campfires can quickly warm you up, dry you off, and be used for cooking."
+33806758,_DE_LoadingScreen4,DESC,0,"Fur tents are very warm, but leak when it rains."
+33806759,_DE_LoadingScreen5,DESC,0,"Leather tents are waterproof, but aren't very warm."
+33806760,_DE_LoadingScreen6,DESC,0,A fire won't help much when standing in the rain or snow. Take shelter from the elements when trying to warm up and dry off.
+33806761,_DE_LoadingScreen7,DESC,0,Damaged woodcutter's axes can be repaired at a forge.
+33808293,_DE_LoadingScreen8a,DESC,0,Survival skills can be used to create a variety of useful supplies.
+33806806,_DE_LoadingScreen9,DESC,0,"Wielding a torch, eating soups and stews, and wearing a cloak all improve your resistance to exposure."
+33802606,_DE_LongBow,FULL,0,Long Bow
+33802606,_DE_LongBow,DESC,0,
+33643694,_DE_Main_1_6,NNAM,0,Get dat roll
+33643694,_DE_Main_1_6,FULL,0,Frostfall
+33643694,_DE_Main_1_6,CNAM:3,0,The quest has been stopped.
+33643694,_DE_Main_1_6,CNAM:2,0,The quest is running.
+33643694,_DE_Main_1_6,CNAM,0,Initial State
+33833270,_DE_Menu2Options_Compatibility_WACError,ITXT,0,Back
+33833270,_DE_Menu2Options_Compatibility_WACError,DESC,0,Wet and Cold is not loaded or was not detected properly. Please verify that Wet and Cold is installed properly.
+33833269,_DE_Menu2Options_Compatibility_WACSuccess,ITXT,0,Back
+33833269,_DE_Menu2Options_Compatibility_WACSuccess,DESC,0,"The Wet and Cold Compatibility Wizard has run successfully.
+
+* The player's dripping shader from Wet and Cold has been disabled.
+* The player's dripping shader from Frostfall has been enabled."
+33785483,_DE_MortarAndPestleFurniture,FULL,0,Mortar and Pestle
+33829107,_DE_MovementPenalty,FULL,0,Exposure: Decreased Movement
+33829107,_DE_MovementPenalty,DNAM,0,
+33589696,_DE_NoWait,FULL,0,Waiting Disabled
+33589696,_DE_NoWait,DNAM,0,
+33589697,_DE_NoWait_Spell,FULL,0,Waiting Disabled
+33589697,_DE_NoWait_Spell,DESC,0,You cannot wait while outdoors.
+33852657,_DE_PlacedObjectChoice,ITXT:3,0,Exit
+33852657,_DE_PlacedObjectChoice,ITXT:2,0,Pick Up
+33852657,_DE_PlacedObjectChoice,ITXT,0,Place Here
+33852657,_DE_PlacedObjectChoice,DESC,0,What do you do?
+33852656,_DE_PlacedObjectIllegalLocation,ITXT:2,0,Exit
+33852656,_DE_PlacedObjectIllegalLocation,ITXT,0,Pick Up
+33852656,_DE_PlacedObjectIllegalLocation,DESC,0,Camping here is illegal. You can't place camping equipment in or near settlements or in buildings.
+33854061,_DE_PlacedObjectIllegalLocationNotice,DESC,0,It is illegal to camp here.
+33833283,_DE_Placement_Cancelled,DESC,0,Placement cancelled.
+33888856,_DE_Placement_Cancelled_CollisionBug,ITXT:3,0,No - Don't Ask Again
+33888856,_DE_Placement_Cancelled_CollisionBug,ITXT:2,0,No
+33888856,_DE_Placement_Cancelled_CollisionBug,ITXT,0,Yes
+33888856,_DE_Placement_Cancelled_CollisionBug,DESC,0,"Frostfall ran into a problem trying to place this campsite item using Advanced Placement. This (hopefully infrequent) error is caused by an inherent flaw in Skyrim's engine and cannot be fixed.
+
+Advanced placement will begin working correctly again after leaving this area (by using a load door or fast travel).
+
+Would you like to fall back to simple placement mode?"
+33834664,_DE_Placement_Combat,DESC,0,You cannot place that while in combat.
+33834665,_DE_Placement_InUse,DESC,0,You are already trying to place something.
+33834663,_DE_Placement_Multiple,DESC,0,You can only place one thing at a time.
+33834662,_DE_Placement_Swimming,DESC,0,You cannot place that while swimming.
+33706196,_DE_PlayerStatus_Effect,FULL,0,Exposure Status
+33706196,_DE_PlayerStatus_Effect,DNAM,0,Displays your rank and all of your exposure information.
+33706194,_DE_PlayerStatus_Spell,FULL,0,Survival Skills: Status
+33706194,_DE_PlayerStatus_Spell,DESC,0,Displays an overview of your current exposure status.
+33706193,_DE_PlayerStatusScreen_Rank1,ITXT:3,0,Exit
+33706193,_DE_PlayerStatusScreen_Rank1,ITXT:2,0,Rank Info
+33706193,_DE_PlayerStatusScreen_Rank1,ITXT,0,Help
+33706193,_DE_PlayerStatusScreen_Rank1,DESC,0,"STATUS
+----------------------------------------------------------------
+Current Exposure: %.0f     Wet: %.0f%%
+
+Exposure Protection: %.0f / %.0f
+
+Frost Resistance: %.0f%%     Exposure Resistance: %.0f%%
+
+Rank: Mudcrab"
+33752056,_DE_PlayerStatusScreen_Rank2,ITXT:3,0,Exit
+33752056,_DE_PlayerStatusScreen_Rank2,ITXT:2,0,Rank Info
+33752056,_DE_PlayerStatusScreen_Rank2,ITXT,0,Help
+33752056,_DE_PlayerStatusScreen_Rank2,DESC,0,"STATUS
+----------------------------------------------------------------
+Current Exposure: %.0f     Wet: %.0f%%
+
+Exposure Protection: %.0f / %.0f
+
+Frost Resistance: %.0f%%     Exposure Resistance: %.0f%%
+
+Rank: Skeever"
+33752057,_DE_PlayerStatusScreen_Rank3,ITXT:3,0,Exit
+33752057,_DE_PlayerStatusScreen_Rank3,ITXT:2,0,Rank Info
+33752057,_DE_PlayerStatusScreen_Rank3,ITXT,0,Help
+33752057,_DE_PlayerStatusScreen_Rank3,DESC,0,"STATUS
+----------------------------------------------------------------
+Current Exposure: %.0f     Wet: %.0f%%
+
+Exposure Protection: %.0f / %.0f
+
+Frost Resistance: %.0f%%     Exposure Resistance: %.0f%%
+
+Rank: Fox"
+33752058,_DE_PlayerStatusScreen_Rank4,ITXT:3,0,Exit
+33752058,_DE_PlayerStatusScreen_Rank4,ITXT:2,0,Rank Info
+33752058,_DE_PlayerStatusScreen_Rank4,ITXT,0,Help
+33752058,_DE_PlayerStatusScreen_Rank4,DESC,0,"STATUS
+----------------------------------------------------------------
+Current Exposure: %.0f     Wet: %.0f%%
+
+Exposure Protection: %.0f / %.0f
+
+Frost Resistance: %.0f%%     Exposure Resistance: %.0f%%
+
+Rank: Wolf"
+33752059,_DE_PlayerStatusScreen_Rank5,ITXT:3,0,Exit
+33752059,_DE_PlayerStatusScreen_Rank5,ITXT:2,0,Rank Info
+33752059,_DE_PlayerStatusScreen_Rank5,ITXT,0,Help
+33752059,_DE_PlayerStatusScreen_Rank5,DESC,0,"STATUS
+----------------------------------------------------------------
+Current Exposure: %.0f     Wet: %.0f%%
+
+Exposure Protection: %.0f / %.0f
+
+Frost Resistance: %.0f%%     Exposure Resistance: %.0f%%
+
+Rank: Cave Bear"
+33752060,_DE_PlayerStatusScreen_Rank6,ITXT:3,0,Exit
+33752060,_DE_PlayerStatusScreen_Rank6,ITXT:2,0,Rank Info
+33752060,_DE_PlayerStatusScreen_Rank6,ITXT,0,Help
+33752060,_DE_PlayerStatusScreen_Rank6,DESC,0,"STATUS
+----------------------------------------------------------------
+Current Exposure: %.0f     Wet: %.0f%%
+
+Exposure Protection: %.0f / %.0f
+
+Frost Resistance: %.0f%%     Exposure Resistance: %.0f%%
+
+Rank: Sabre Cat"
+33752061,_DE_PlayerStatusScreen_Rank7,ITXT:3,0,Exit
+33752061,_DE_PlayerStatusScreen_Rank7,ITXT:2,0,Rank Info
+33752061,_DE_PlayerStatusScreen_Rank7,ITXT,0,Help
+33752061,_DE_PlayerStatusScreen_Rank7,DESC,0,"STATUS
+----------------------------------------------------------------
+Current Exposure: %.0f     Wet: %.0f%%
+
+Exposure Protection: %.0f / %.0f
+
+Frost Resistance: %.0f%%     Exposure Resistance: %.0f%%
+
+Rank: Ice Wolf"
+33752068,_DE_PlayerStatusScreen_RankVampire,ITXT:3,0,Exit
+33752068,_DE_PlayerStatusScreen_RankVampire,ITXT:2,0,Rank Info
+33752068,_DE_PlayerStatusScreen_RankVampire,ITXT,0,Help
+33752068,_DE_PlayerStatusScreen_RankVampire,DESC,0,"STATUS
+----------------------------------------------------------------
+Current Exposure: %.0f     Wet: %.0f%%
+
+Exposure Protection: %.0f / %.0f
+
+Frost Resistance: %.0f%%     Exposure Resistance: %.0f%%
+
+Rank: Undying"
+33706197,_DE_PlayerStatusScreenHelp,ITXT,0,Back
+33706197,_DE_PlayerStatusScreenHelp,DESC,0,"HELP
+----------------------------------------------------------------
+- Exposure: The primary measure of your current condition. Ranges from 20 (warm) to -99 (freezing to death). If it reaches -100, you will die.
+- Exposure Protection: How much your worn equipment (body, hands, feet, head) contributes to protecting you against the cold.
+- Frost Resistance: Your total Frost Resistance.
+- Exposure Resistance: Special bonuses received from eating soups, using a torch, wearing a cloak, and your natural adaptation.
+- Rank: Your rank based on overall preparedness."
+33646459,_DE_Power1,DESC,0,Exposure: %.0f - Wet: %.0f%% - The air is frigid and deadly.
+33826336,_DE_Power1_NoStatus,DESC,0,The air is frigid and deadly.
+33863783,_DE_Power1_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The air is frigid and deadly.
+33646460,_DE_Power10,DESC,0,Exposure: %.0f - Wet: %.0f%% - The sun is radiant.
+33826337,_DE_Power10_NoStatus,DESC,0,The sun is radiant.
+33863784,_DE_Power10_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The sun is radiant.
+33685352,_DE_Power11,DESC,0,Exposure: %.0f - Wet: %.0f%% -  You cannot sense the outside weather.
+33826338,_DE_Power11_NoStatus,DESC,0,You cannot sense the outside weather.
+33863785,_DE_Power11_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% -  You cannot sense the outside weather.
+33757584,_DE_Power12,DESC,0,Exposure: %.0f - Wet: %.0f%% - This plane of Oblivion is warm.
+33826339,_DE_Power12_NoStatus,DESC,0,This plane of Oblivion is temperate.
+33863786,_DE_Power12_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - This plane of Oblivion is temperate.
+33646461,_DE_Power2,DESC,0,Exposure: %.0f - Wet: %.0f%% - The air is bone-chilling.
+33826340,_DE_Power2_NoStatus,DESC,0,The air is bone-chilling.
+33863787,_DE_Power2_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The air is bone-chilling.
+33646462,_DE_Power3,DESC,0,Exposure: %.0f - Wet: %.0f%% - The air is biting cold.
+33826341,_DE_Power3_NoStatus,DESC,0,The air is biting cold.
+33863788,_DE_Power3_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The air is biting cold.
+33646463,_DE_Power4,DESC,0,Exposure: %.0f - Wet: %.0f%% - The air is cold.
+33826342,_DE_Power4_NoStatus,DESC,0,The air is cold.
+33863789,_DE_Power4_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The air is cold.
+33646464,_DE_Power5,DESC,0,Exposure: %.0f - Wet: %.0f%% - The air is chilly.
+33826343,_DE_Power5_NoStatus,DESC,0,The air is chilly.
+33863790,_DE_Power5_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The air is chilly.
+33646465,_DE_Power6,DESC,0,Exposure: %.0f - Wet: %.0f%% - The air is cool.
+33826344,_DE_Power6_NoStatus,DESC,0,The air is cool.
+33863791,_DE_Power6_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The air is cool.
+33646466,_DE_Power7,DESC,0,Exposure: %.0f - Wet: %.0f%% - The air is temperate.
+33826345,_DE_Power7_NoStatus,DESC,0,The air is temperate.
+33863792,_DE_Power7_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The air is temperate.
+33646467,_DE_Power8,DESC,0,Exposure: %.0f - Wet: %.0f%% - The air is pleasant.
+33826346,_DE_Power8_NoStatus,DESC,0,The air is pleasant.
+33863793,_DE_Power8_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The air is pleasant.
+33646468,_DE_Power9,DESC,0,Exposure: %.0f - Wet: %.0f%% - The air is warm.
+33826347,_DE_Power9_NoStatus,DESC,0,The air is warm.
+33863794,_DE_Power9_Positive,DESC,0,Exposure: +%.0f - Wet: %.0f%% - The air is warm.
+33752049,_DE_Rank1,ITXT:2,0,Back
+33752049,_DE_Rank1,ITXT,0,Show Tips
+33752049,_DE_Rank1,DESC,0,"RANK: MUDCRAB
+----------------------------------------------------------------
+You are unprepared for the trials that lay before you in almost every way. Without the proper tools or adequate clothing, it's a wonder you've made it this far. Perhaps it's time for a new beginning. Rise up, and face the challenges ahead."
+33752050,_DE_Rank2,ITXT:2,0,Back
+33752050,_DE_Rank2,ITXT,0,Show Tips
+33752050,_DE_Rank2,DESC,0,"RANK: SKEEVER
+----------------------------------------------------------------
+You have taken the most basic steps to ensure your continued survival. Until you start taking your own well-being more seriously, even a sudden thunderstorm may prove to be life-threatening. Skyrim is a land where only the fittest survive, and you are far from fit."
+33752051,_DE_Rank3,ITXT:2,0,Back
+33752051,_DE_Rank3,ITXT,0,Show Tips
+33752051,_DE_Rank3,DESC,0,"RANK: FOX
+----------------------------------------------------------------
+While the most northern territories of Skyrim are still inhospitable to you, you can hold your own well enough in the southern regions. Your cleverness fuels your continued improvement, but the lessons are hard ones. The wild is a harsh teacher."
+33752052,_DE_Rank4,ITXT:2,0,Back
+33752052,_DE_Rank4,ITXT,0,Show Tips
+33752052,_DE_Rank4,DESC,0,"RANK: WOLF
+----------------------------------------------------------------
+Your fierce, independent spirit defines you. You've learned that it's the little things that make a big difference. Step by step, you have taken the necessary precautions to survive in all but the most fierce conditions. Even so, you remain humble. One small slip, one careless action, and you know that your fate is sealed. Stay vigilant."
+33752053,_DE_Rank5,ITXT:2,0,Back
+33752053,_DE_Rank5,ITXT,0,Show Tips
+33752053,_DE_Rank5,DESC,0,"RANK: CAVE BEAR
+----------------------------------------------------------------
+Your tent is a second home; a roaring campfire, your hearth. You are well-versed in ensuring your continued survival in almost any condition. Even traversing the wind-blasted waste of The Pale is within your reach. Your shortcomings are few. If you were to conquer them... how enduring could you become?"
+33752054,_DE_Rank6,ITXT:2,0,Back
+33752054,_DE_Rank6,ITXT,0,Show Tips
+33752054,_DE_Rank6,DESC,0,"RANK: SABRE CAT
+----------------------------------------------------------------
+When Skyrim sends its biting winds, you defiantly bite back. The road behind you is littered with those less skilled, less prepared, less aware; a reminder of how far you've come. On the road ahead, a treacherous climb awaits. Take heart; you can see the peak from here."
+33752055,_DE_Rank7,ITXT:2,0,Back
+33752055,_DE_Rank7,ITXT,0,Show Tips
+33752055,_DE_Rank7,DESC,0,"RANK: ICE WOLF
+----------------------------------------------------------------
+You are without equal; a paragon. Skyrim has thrown its best at you, and you have not only prevailed, but excelled. The most treacherous slopes and highest mountain peaks appear to you as ideal challenges which exist only to be conquered. It is a rare thing to achieve such greatness, and rarer still to hold on to it. Keep your axe sharp, and your gaze on the horizon."
+33752063,_DE_RankTips_Adaptation,ITXT,0,Next Tip
+33752063,_DE_RankTips_Adaptation,DESC,0,"Adaptation
+
+Your adaptation to Skyrim's climate is currently below average. Adaptation happens naturally over time; as you gain levels, your ability to tolerate the cold will increase. You will gain +1%% Exposure Resistance every 5 levels, up to level 50. Adaptation will also allow you to swim in frigid water for longer periods. SkyRe Users: Your Adaptation increases with your Wayfarer skill level."
+33752067,_DE_RankTips_Axe,ITXT,0,Next Tip
+33752067,_DE_RankTips_Axe,DESC,0,"Woodcutter's Axe
+
+A woodcutter's axe is the most important tool you can carry in your pack. With it you can harvest large amounts of firewood,  useful for building campfires quickly. Make sure to keep it sharp, or you may find yourself in trouble while far from the nearest settlement."
+33752065,_DE_RankTips_ClothingMissing,ITXT,0,Next Tip
+33752065,_DE_RankTips_ClothingMissing,DESC,0,"Clothing and Armor
+
+Wearing head-to-toe clothing or armor is vital to preventing exposure. Make sure to wear something to cover your hands, feet, head, and body at all times. Wearing clothing or armor increases your Exposure Protection, and has the single largest effect on your rate of exposure."
+33752066,_DE_RankTips_ClothingWarm,ITXT,0,Next Tip
+33752066,_DE_RankTips_ClothingWarm,DESC,0,"Protective Clothing and Armor
+
+While your current gear might be enough for exploration of the southern Holds, you may find frigid mountain peaks or snowy regions more than you can handle. Make sure to wear equipment that provides full exposure protection (such as Fur or Orcish equipment) to maximize your survivability.
+(If wearing armor from a mod that you believe should provide full exposure protection, make sure to set its protection level using the Inspect Equipment ability)."
+33752064,_DE_RankTips_FrostResist,ITXT,0,Next Tip
+33752064,_DE_RankTips_FrostResist,DESC,0,"Frost Resistance
+
+Frost Resistance can provide a meaningful increase to your overall survival time. Seek out enchanted equipment that increases Frost Resistance whenever possible."
+33752070,_DE_RankTips_Misc,ITXT,0,Back to Status
+33752070,_DE_RankTips_Misc,DESC,0,"Miscellaneous
+These factors are not tracked when determining your overall Rank.
+- Soups and stews increase your resistance to exposure temporarily (+5%% to +15%%). Carry a cooking pot to make them while traveling.
+- Backpacks help offset the weight of the additional gear required for wilderness survival.
+- Snowberry Extract allows you to swim in frigid water for 3 minutes without any harm.
+- Cloaks give exposure resistance and protection from rain when worn."
+33752062,_DE_RankTips_Torch,ITXT,0,Next Tip
+33752062,_DE_RankTips_Torch,DESC,0,"Torches
+
+Torches are an easy way to slow exposure gain by granting 10%% resistance to exposure when carried. Use ""Survival Skills: Craft Item"" to craft a torch from firewood or deadwood and a strip of linen cloth. Scraps of linen can be found in dungeons, or created by ripping up any piece of (body) clothing using Craft Item."
+33752069,_DE_RankVampire,ITXT,0,Back
+33752069,_DE_RankVampire,DESC,0,"RANK: UNDYING
+----------------------------------------------------------------
+Faster. Stronger. Everlasting. As a vampire or a member of the undead, you are immune to the effects of exposure. You will not receive any skill penalties, and exposure will never kill you. You can swim in frigid water indefinitely.
+"
+33860967,_DE_Reclaim_Backpack_Black_Akatosh,FULL,0,"Separate: Backpack, Black Fur - Amulet of Akatosh"
+33860967,_DE_Reclaim_Backpack_Black_Akatosh,DESC,0,
+33860968,_DE_Reclaim_Backpack_Black_Arkay,FULL,0,"Separate: Backpack, Black Fur - Amulet of Arkay"
+33860968,_DE_Reclaim_Backpack_Black_Arkay,DESC,0,
+33860969,_DE_Reclaim_Backpack_Black_Dibella,FULL,0,"Separate: Backpack, Black Fur - Amulet of Dibella"
+33860969,_DE_Reclaim_Backpack_Black_Dibella,DESC,0,
+33860970,_DE_Reclaim_Backpack_Black_Dragon,FULL,0,"Separate: Backpack, Black Fur - Dragon Bone"
+33860970,_DE_Reclaim_Backpack_Black_Dragon,DESC,0,
+33860971,_DE_Reclaim_Backpack_Black_Julianos,FULL,0,"Separate: Backpack, Black Fur - Amulet of Julianos"
+33860971,_DE_Reclaim_Backpack_Black_Julianos,DESC,0,
+33860972,_DE_Reclaim_Backpack_Black_Kynareth,FULL,0,"Separate: Backpack, Black Fur - Amulet of Kynareth"
+33860972,_DE_Reclaim_Backpack_Black_Kynareth,DESC,0,
+33860973,_DE_Reclaim_Backpack_Black_Mara,FULL,0,"Separate: Backpack, Black Fur - Amulet of Mara"
+33860973,_DE_Reclaim_Backpack_Black_Mara,DESC,0,
+33860974,_DE_Reclaim_Backpack_Black_Stendarr,FULL,0,"Separate: Backpack, Black Fur - Amulet of Stendarr"
+33860974,_DE_Reclaim_Backpack_Black_Stendarr,DESC,0,
+33860975,_DE_Reclaim_Backpack_Black_Talos,FULL,0,"Separate: Backpack, Black Fur - Amulet of Talos"
+33860975,_DE_Reclaim_Backpack_Black_Talos,DESC,0,
+33860976,_DE_Reclaim_Backpack_Black_Zenithar,FULL,0,"Separate: Backpack, Black Fur - Amulet of Zenithar"
+33860976,_DE_Reclaim_Backpack_Black_Zenithar,DESC,0,
+33860977,_DE_Reclaim_Backpack_Brown_Akatosh,FULL,0,"Separate: Backpack, Brown Fur - Amulet of Akatosh"
+33860977,_DE_Reclaim_Backpack_Brown_Akatosh,DESC,0,
+33860978,_DE_Reclaim_Backpack_Brown_Arkay,FULL,0,"Separate: Backpack, Brown Fur - Amulet of Arkay"
+33860978,_DE_Reclaim_Backpack_Brown_Arkay,DESC,0,
+33860979,_DE_Reclaim_Backpack_Brown_Dibella,FULL,0,"Separate: Backpack, Brown Fur - Amulet of Dibella"
+33860979,_DE_Reclaim_Backpack_Brown_Dibella,DESC,0,
+33860980,_DE_Reclaim_Backpack_Brown_Dragon,FULL,0,"Separate: Backpack, Brown Fur - Dragon Bone"
+33860980,_DE_Reclaim_Backpack_Brown_Dragon,DESC,0,
+33860981,_DE_Reclaim_Backpack_Brown_Julianos,FULL,0,"Separate: Backpack, Brown Fur - Amulet of Julianos"
+33860981,_DE_Reclaim_Backpack_Brown_Julianos,DESC,0,
+33860982,_DE_Reclaim_Backpack_Brown_Kynareth,FULL,0,Separate: Backpack. Brown Fur - Amulet of Kynareth
+33860982,_DE_Reclaim_Backpack_Brown_Kynareth,DESC,0,
+33860983,_DE_Reclaim_Backpack_Brown_Mara,FULL,0,"Separate: Backpack, Brown Fur - Amulet of Mara"
+33860983,_DE_Reclaim_Backpack_Brown_Mara,DESC,0,
+33860984,_DE_Reclaim_Backpack_Brown_Stendarr,FULL,0,"Separate: Backpack, Brown Fur - Amulet of Stendarr"
+33860984,_DE_Reclaim_Backpack_Brown_Stendarr,DESC,0,
+33860985,_DE_Reclaim_Backpack_Brown_Talos,FULL,0,"Separate: Backpack, Brown Fur - Amulet of Talos"
+33860985,_DE_Reclaim_Backpack_Brown_Talos,DESC,0,
+33860986,_DE_Reclaim_Backpack_Brown_Zenithar,FULL,0,"Separate: Backpack, Brown Fur - Amulet of Zenithar"
+33860986,_DE_Reclaim_Backpack_Brown_Zenithar,DESC,0,
+33860987,_DE_Reclaim_Backpack_White_Akatosh,FULL,0,"Separate: Backpack, White Fur - Amulet of Akatosh"
+33860987,_DE_Reclaim_Backpack_White_Akatosh,DESC,0,
+33860988,_DE_Reclaim_Backpack_White_Arkay,FULL,0,"Separate: Backpack, White Fur - Amulet of Arkay"
+33860988,_DE_Reclaim_Backpack_White_Arkay,DESC,0,
+33860989,_DE_Reclaim_Backpack_White_Dibella,FULL,0,"Separate: Backpack, White Fur - Amulet of Dibella"
+33860989,_DE_Reclaim_Backpack_White_Dibella,DESC,0,
+33860990,_DE_Reclaim_Backpack_White_Dragon,FULL,0,"Separate: Backpack, White Fur - Dragon Bone"
+33860990,_DE_Reclaim_Backpack_White_Dragon,DESC,0,
+33860991,_DE_Reclaim_Backpack_White_Julianos,FULL,0,"Separate: Backpack, White Fur - Amulet of Julianos"
+33860991,_DE_Reclaim_Backpack_White_Julianos,DESC,0,
+33860992,_DE_Reclaim_Backpack_White_Kynareth,FULL,0,"Separate: Backpack, White Fur - Amulet of Kynareth"
+33860992,_DE_Reclaim_Backpack_White_Kynareth,DESC,0,
+33860993,_DE_Reclaim_Backpack_White_Mara,FULL,0,"Separate: Backpack, White Fur - Amulet of Mara"
+33860993,_DE_Reclaim_Backpack_White_Mara,DESC,0,
+33860994,_DE_Reclaim_Backpack_White_Stendarr,FULL,0,"Separate: Backpack, White Fur - Amulet of Stendarr"
+33860994,_DE_Reclaim_Backpack_White_Stendarr,DESC,0,
+33860995,_DE_Reclaim_Backpack_White_Talos,FULL,0,"Separate: Backpack, White Fur - Amulet of Talos"
+33860995,_DE_Reclaim_Backpack_White_Talos,DESC,0,
+33860996,_DE_Reclaim_Backpack_White_Zenithar,FULL,0,"Separate: Backpack, White Fur - Amulet of Zenithar"
+33860996,_DE_Reclaim_Backpack_White_Zenithar,DESC,0,
+33697890,_DE_RegionDetect,FULL,0,Region Detect
+33697890,_DE_RegionDetect,DESC,0,
+33697889,_DE_RegionDetect1_PineForest,FULL,0,Region Detect: Pine Forest
+33697889,_DE_RegionDetect1_PineForest,DNAM,0,
+33699269,_DE_RegionDetect2_VolcanicTundra,FULL,0,Region Detect: Volcanic Tundra
+33699269,_DE_RegionDetect2_VolcanicTundra,DNAM,0,
+33699270,_DE_RegionDetect3_FallForest,FULL,0,Region Detect: Fall Forest
+33699270,_DE_RegionDetect3_FallForest,DNAM,0,
+33699271,_DE_RegionDetect4_Reach,FULL,0,Region Detect: The Reach
+33699271,_DE_RegionDetect4_Reach,DNAM,0,
+33699272,_DE_RegionDetect5_Tundra,FULL,0,Region Detect: Tundra
+33699272,_DE_RegionDetect5_Tundra,DNAM,0,
+33699273,_DE_RegionDetect6_TundraMarsh,FULL,0,Region Detect: Tundra Marsh
+33699273,_DE_RegionDetect6_TundraMarsh,DNAM,0,
+33699274,_DE_RegionDetect7_Coast,FULL,0,Region Detect: Coast
+33699274,_DE_RegionDetect7_Coast,DNAM,0,
+33699275,_DE_RegionDetect8_Snow,FULL,0,Region Detect: Snow
+33699275,_DE_RegionDetect8_Snow,DNAM,0,
+33600803,_DE_Ring1,DESC,0,Exposure: %.0f/100 - The gem is pure black.
+33600794,_DE_Ring10,DESC,0,Exposure: %.0f/100 - The gem glows brilliant emerald.
+33685353,_DE_Ring11,DESC,0,Exposure: %.0f/100 - The gem is cloudy while inside.
+33600802,_DE_Ring2,DESC,0,Exposure: %.0f/100 - The gem glows midnight blue.
+33600801,_DE_Ring3,DESC,0,Exposure: %.0f/100 - The gem glows dark blue.
+33600800,_DE_Ring4,DESC,0,Exposure: %.0f/100 - The gem glows azure blue.
+33600799,_DE_Ring5,DESC,0,Exposure: %.0f/100 - The gem glows a pale blue.
+33600798,_DE_Ring6,DESC,0,Exposure: %.0f/100 - The gem glows faintly blue.
+33600797,_DE_Ring7,DESC,0,Exposure: %.0f/100 - The gem is crystal clear.
+33600796,_DE_Ring8,DESC,0,Exposure: %.0f/100 - The gem glows faintly green.
+33600795,_DE_Ring9,DESC,0,Exposure: %.0f/100 - The gem glows bright green.
+33820734,_DE_Rock,FULL,0,Dense Stone
+33704809,_DE_ShelterDetectBeam,FULL,0,Shelter Detect Beam
+33704809,_DE_ShelterDetectBeam,DESC,0,
+33704811,_DE_ShelterDetectEffect,FULL,0,Shelter Detect
+33704811,_DE_ShelterDetectEffect,DNAM,0,
+33704807,_DE_ShelterDetectorSensor,FULL,0,Campfire
+33618823,_DE_ShutdownComplete,ITXT,2498,OK
+33618823,_DE_ShutdownComplete,DESC,0,Frostfall is now shut down.
+33652026,_DE_ShutdownReactivate,DESC,0,Frostfall is now running.
+33809673,_DE_SkyUI_PresetConfirm,ITXT:2,0,Cancel
+33809673,_DE_SkyUI_PresetConfirm,ITXT,0,Apply
+33809673,_DE_SkyUI_PresetConfirm,DESC,0,Apply preset?
+33822167,_DE_StoneArrow,FULL,0,Stone Arrow
+33822167,_DE_StoneArrow,DESC,0,
+33820733,_DE_StoneWarAxe,FULL,0,Stone Hatchet
+33820733,_DE_StoneWarAxe,DESC,0,Can be used to harvest firewood.
+33660334,_DE_SurvivalSkills_Effect,FULL,0,Survival Skills
+33660334,_DE_SurvivalSkills_Effect,DNAM,0,Allows you to create various pieces of camping and survival equipment.
+33660332,_DE_SurvivalSkills_Spell,FULL,0,Survival Skills: Craft Item
+33660332,_DE_SurvivalSkills_Spell,DESC,0,Use your knowledge of the wilderness to create survival equipment.
+33803993,_DE_SurvivalSkillsCombo_Effect,FULL,0,Survival Skills
+33803993,_DE_SurvivalSkillsCombo_Effect,DNAM,0,"Use your knowledge of the wilderness to create survival equipment, build campfires, and harvest firewood."
+33803991,_DE_SurvivalSkillsCombo_Spell,FULL,0,Survival Skills
+33803991,_DE_SurvivalSkillsCombo_Spell,DESC,0,"Use your knowledge of the wilderness to create survival equipment, build campfires, and harvest firewood."
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:6,0,Exit
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:5,0,Inspect Equipment
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:4,0,View Status
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:3,0,Harvest Wood
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:2,0,Craft Item
+33803994,_DE_SurvivalSkillsComboMsg,ITXT,0,Build Campfire
+33803994,_DE_SurvivalSkillsComboMsg,DESC,0,What do you do?
+33754827,_DE_SurvivalSkillsSelect,ITXT:6,0,Exit
+33754827,_DE_SurvivalSkillsSelect,ITXT:5,0,Show Status
+33754827,_DE_SurvivalSkillsSelect,ITXT:4,0,Inspect Equipment
+33754827,_DE_SurvivalSkillsSelect,ITXT:3,0,Harvest Wood
+33754827,_DE_SurvivalSkillsSelect,ITXT:2,0,Craft Item
+33754827,_DE_SurvivalSkillsSelect,ITXT,0,Build Campfire
+33754827,_DE_SurvivalSkillsSelect,DESC,0,What do you want to do?
+33690869,_DE_SurvivalSkillsSwimmingError,DESC,0,You cannot create survival equipment while swimming.
+33586936,_DE_SurvivorsGuide,FULL,0,Survivor's Guide to Skyrim
+33586936,_DE_SurvivorsGuide,DESC,0,"[pagebreak]
+<p align=""center"">
+
+Falkreath to Dawnstar 
+
+A Survivor's Guide to Skyrim
+
+by Verick Gaerford
+Explorer, Pioneer, and minor Adventurer
+
+Penned with the assistance of Carius Harmevus on this day, 16th of Frostfall, 4E 118
+[pagebreak]
+
+<p align='center'><img src='img://textures/frostfall/_DE_bookart0.dds' height='367' width='281'></p>
+[pagebreak]
+<p align=""center"">FORWARD
+
+<p align=""left"">It has been said that Skyrim itself is more dangerous than any man, mer, giant, or sabre cat within her borders.  Any who have felt the biting chill of The Pale or seen the frozen corpses upon the steps of High Hrothgar can attest to this. It takes the souls of the foolhardy, brave, astute, and unprepared with equal, enthusiastic swiftness.
+
+My aim is to provide you with guidance on surviving the trials of Skyrim's harshest regions.  My hope is that you, dear reader, will avoid the fate of those mentioned above. Wisdom is your only weapon against the cold, so arm yourself with it on the following pages. Even with this knowledge, however, I cannot guarantee your safety; one can only be so prepared. If such a guarantee was made by the merchant who sold you this book, you have my sincerest apologies.
+
+Now, without any further deviation, let us discuss the subject at hand.</p>
+
+[pagebreak]
+<p align=""center"">THE COLD ROAD AHEAD
+
+<p align=""left"">Cold is the enemy. It is as dangerous as a seasoned fighter with a honed blade and a score to settle. It is an insidious enemy, seeping into your bones, your mind, robbing you of the very will to survive. But like any enemy, it can be defended against. You must adapt to defeat it.
+
+If cold is an agent of darkness and death, fire is the sentinel of light and life. A fire gives many gifts, chief of which are warmth and dry skin. The act of building a campfire should become second nature to you, as routine as putting on your boots. Build campfires early and often, and seek out wood far in advance of when you think you'll need it. It may take several hours to find enough wood to build a campfire of a useful size. If caught in a blizzard or after having fallen in a frozen lake, that's several hours you do not have to spare. Fire is a friend, but a hungry one.
+
+When preparing to travel, the first thing to address is your attire. Wearing warm clothing from head to toe is the single most important thing you can do to ensure your survival. Each part of your body that you leave exposed makes it increasingly difficult to stay warm and dry. You may think yourself safe in the southern Holds, but getting soaked in a rainstorm can easily sap the heat from your body.
+
+There are many ways to improve your resistance to exposure. Your body will grow more accustomed to Skyrim's climate in time. It will happen slowly and naturally, and only for those who live long enough to discover that the change has taken place. A torch can be very beneficial, warming the arms and face. A cloak can help act as another helpful barrier against frost and rain. Soups can warm from the inside out. Finally, trinkets which grant a magical resistance to frost provide aid to their wearers.
+
+There is no single way to prepare for a cold journey, but all of these things together will help keep you on this side of the eternal.
+
+<p align='center'><img src='img://textures/frostfall/_DE_bookart1.dds' height='256' width='256'></p>
+
+[pagebreak]
+<p align=""center"">SURVIVING FROZEN WATERS
+
+<p align=""left"">Sometimes, even after having done one's best to be careful near Skyrim's treacherously frigid bodies of water, disaster can strike; a loose rock results in lost footing, or a fragile plate of ice on a frozen lake goes unnoticed. Suddenly, you are submerged head-to-toe in water only barely above freezing. The body will go through a series of responses that may be shocking to the uninitiated, but by reviewing what will happen should this occur, one can mentally prepare for the occasion. With a strong will and some luck, one may even live to tell about it.
+
+First, your body will involuntarily gasp deeply for air. When this happens, you will feel (paradoxically) as if the wind has been knocked out of you, unable to catch breath. You will feel completely without any stamina for physical exertion, and your eyes may have trouble focusing.
+
+Next, assuming you have not breathed in a lungful of freezing water, you should have regained enough of your senses to be able to find a way back on shore. This is a narrow window of opportunity; do not waste it!
+
+After getting out of the water, it is imperative that you make camp or retreat to the nearest warm shelter immediately, as your body has already become dangerously cold. Many have saved themselves from a watery death only to die on land minutes later.
+
+If for some reason you are unable to bring yourself to shore quickly enough, you will find your limbs difficult to move until they become so numb that they stop responding entirely. Drowning at this point is the most likely outcome.
+
+[pagebreak]
+<p align=""center"">GEAR FOR THE JOURNEY
+
+<p align=""left"">The right skills - a positive mindset - a few supplies. With each of these things you bring with you, you improve your chances of overcoming any obstacle you may face while on the trail. It all starts with a simple axe.
+
+A woodcutter's axe is by far the most essential tool you can carry. With it, you can gather firewood from nearby trees quickly and easily. Keep it sharp! An axe that is not cared for properly is a sure way to invite disaster.
+
+If an axe is unavailable, a crude stone hatchet can be assembled. While looking for dead twigs and branches, you may come across a dense, flat stone that can be sharpened to an edge. Find the sturdiest branch you can, and tie or hammer the stone to the branch. Unfortunately, the chances of chopping enough firewood to build a campfire with something as rudimentary as this is slim. If firewood is already available, you may opt to create arrowheads from the stone instead.
+
+While the most obvious use for firewood is for building a crackling fire, there are other useful supplies that can be created with any spare pieces you may have left. A bow for hunting game; a simple walking stick; a rack for tanning leather; all of these can be created from basic firewood.
+
+With a tent, you can outlast freezing rain and blizzards in the open country. A campfire is of limited usefulness when you remain exposed to the elements. When traveling in the southern Holds, where the air is warmer and rain comes frequently, a leather tent will keep you dry while blocking the mild night chill. If venturing out to the north, a tent made of animal hides is more suitable. These tents trap heat much more effectively, but are prone to leaking in rainstorms. If caught in a rainstorm with no tent available, take shelter under the nearest suitable structure and wait for it to pass.
+
+A cloak, like a tent, serves the dual purpose of keeping you warm and dry. Cloaks can be tailored from a variety of materials. Burlap, while better than nothing, should be avoided. Linen makes for a good, all-weather, general purpose cloak, and soaks up very little water. Hide is excellent at repelling rain. Fur is great for keeping warm, but soaks up large amounts of water and should be removed to speed up the drying process when caught in a rainshower.
+
+A small cooking pot made of steel can help you cook hot meals while on the road, far from the nearest hearth.
+
+Finally, a properly constructed backpack can do wonders for helping you haul your belongings over vast distances without straining your neck and back. A good backpack should have space for stowing everything you need with some room to spare.
+[pagebreak]
+
+<p align='center'><img src='img://textures/frostfall/_DE_bookart3.dds' height='367' width='281'></p>
+[pagebreak]
+<p align=""center"">FOOD AND BREW
+
+<p align=""left"">Not all foods are created equal. Some are much better suited to helping the body cope with traveling in the cold.
+
+In general, hot soups, stews, and broths should be consumed when traveling long distances across cold terrain. They provide warmth from within, which helps prevent the loss of warmth from without.
+
+Snowberries, a common sight in the northern Holds, have also been rumored to aid in fending off the cold. Travelers of the northern lands swear by them, even though there is no alchemical proof one way or the other. Whether these small fruit actually provide a real boon or is just a trick of the mind, I leave the reader to decide.
+
+A special note about every Nord's favorite topic, brew. While one may be quick to believe that ale and mead bring fire to the belly, many who turn to stiff drink in order to avoid an icy death only hasten it in the end. That being said, mental and physical toughness play equal roles in your survival. A quick swig of ale might be exactly what you need to give you the determination to make a last push to safety. This is a choice you will have to make for yourself when the time comes.
+<p align=""center""><img src='img://textures/frostfall/_DE_bookart4.dds' height='256' width='256'></p>
+[pagebreak]
+<p align=""center"">
+SKYRIM
+AND ITS ENVIRONS
+<p align='center'><img src='img://textures/frostfall/_DE_bookart5.dds' height='281' width='281'></p>
+[pagebreak]
+<p align=""left"">Skyrim is a nation divided into territories known has Holds. Each Hold has unique environmental characteristics that aid or hinder those that travel through them. They are presented here, in order of increasing harshness and unpredictability.
+[pagebreak]
+Falkreath Hold
+The area surrounding Falkreath is a temperate evergreen forest with relative warmth and refreshing waters. Days are comfortable even at sun's height, and nights are mild enough that one is wont to go star-gazing when the sky is clear. This Hold is truly the most hospitable in all of Skyrim.
+[pagebreak]
+Eastmarch
+While Eastmarch is cooler than Falkreath due to being farther north, this Hold is lined with volcanic fissures that discharge great plumes of hot steam that keep the area warm enough to occupy without pause day or night, year-round.
+
+The Rift
+This Hold is home to a sprawling broadleaf mixed forest in Skyrim's southeast. Though it is positioned on Skyrim's southern border, its elevation, tree canopy, and humidity make this area much cooler than it may first appear.  While a clear day in the Rift is almost as nice as Falkreath, the rain with high winds can sap a warrior's strength faster than he cares to admit. The Rift's many streams and lakes are pleasurable to swim in on sunny days.
+
+The Reach
+The Hold of Markarth sits along Skyrim's western border and is identified by a great river that runs through a deep, sheer valley. The winds that roll off the western mountains and into the valley are chilly most of the day.  The night air combined with cold showers may prompt wise travelers to build a campfire, or seek shelter.  The Reach's waters are quite cold, but should not pose a threat if one is diligent enough to dry off once the affair is over with.
+
+Whiterun Hold
+The heart of Skyrim is a cold tundra dotted by what few trees can manage to take root through the permafrost. Farmers toil tirelessly here to break ground and grow what little they can in the inches of soil afforded them. Foreigners may find this area to be uncomfortably cold during the day - nothing a sturdy pair of boots and gloves can't remedy. At night, the high winds across the open plains cut through fabric and flesh. It never snows in Whiterun (contrary to its name), but the ground remains cold enough to freeze rain the moment it strikes the earth. Whiterun's chilly brooks are usually shallow enough to not worry of becoming completely drenched.
+
+Hjaalmarch
+The tundra marshlands of Hjaalmarch are inhospitable to the unprepared. The ground is almost entirely permafrost, and the northern bogs have waters that remain at or below the freezing point. Set up camp early, and do not stray far from it. If night or dark clouds approach, build or seek shelter at once. Never attempt to swim in the waters here; always find a land bridge or a way around.
+[pagebreak]
+The Pale and Mountains
+The frozen wastes of the Pale are life-threatening even under the best of circumstances. Make camp often. Avoid nightfall outdoors. If a blizzard strikes, you are in grave danger and your survival is measured in minutes. Seek shelter immediately. Better to be a living cave rat than a dead hero. The sheer winds and breath-freezing air of the mountains will push your endurance to its limits and beyond. Needless to say, the Sea of Ghosts lives up to its name. The same goes for the icy rivers that run east and south of Windhelm. The great port city of Winterhold has an inn with a roaring hearth on almost every street, ready to thaw the bones of weary travelers.
+
+[pagebreak]
+<p align=""center"">CONCLUSION
+
+<p align=""left"">If you have made it this far, congratulations! You are now much more prepared for the cold road ahead. I hope you have found my instruction enlightening. Although this author hopes that you never need this book, I advise you to take it on your travels so that you may consult it whenever such a need arises.
+
+Stay warm! Stay dry! Stay alert!"
+33586936,_DE_SurvivorsGuide,CNAM,0,
+33785489,_DE_TanningRack,FULL,0,Tanning Rack
+33785492,_DE_TanningRack_DropChoice,ITXT:2,0,Drop Tanning Rack
+33785492,_DE_TanningRack_DropChoice,ITXT,0,Place Tanning Rack
+33785492,_DE_TanningRack_DropChoice,DESC,0,What do you want to do?
+33829110,_DE_TanningRackDestroy,DESC,0,You destroy the tanning rack.
+33785491,_DE_TanningRackSelect,ITXT:4,0,Exit
+33785491,_DE_TanningRackSelect,ITXT:3,0,Destroy
+33785491,_DE_TanningRackSelect,ITXT:2,0,Pack
+33785491,_DE_TanningRackSelect,ITXT,0,Use
+33785491,_DE_TanningRackSelect,DESC,0,What do you do with this tanning rack?
+33834690,_DE_Tent_ColdCap,DESC,0,Your shelter keeps you from getting any colder.
+33833275,_DE_Tent_Combat,DESC,0,"You leap up, sensing danger..."
+33833277,_DE_Tent_FollowerBedroll,DESC,0,This is a follower's bed roll.
+33778507,_DE_Tent_InteractTrigger,RNAM,0,Use
+33778507,_DE_Tent_InteractTrigger,FULL,0,Your Bed Roll
+33834688,_DE_Tent_LeakingWater,DESC,0,Water leaks slowly from above. You remain damp.
+33834692,_DE_Tent_Needed,DESC,0,"Without shelter to trap the warmth, the heat is faint."
+33778503,_DE_Tent_StopSleepTrigger,RNAM,0,Stop
+33778503,_DE_Tent_StopSleepTrigger,FULL,0,Sleeping
+33778505,_DE_Tent_StopWaitTrigger,RNAM,0,Stop
+33778505,_DE_Tent_StopWaitTrigger,FULL,0,Waiting
+33833281,_DE_Tent_Storm,DESC,0,"After waiting a day, the storm continues."
+33834689,_DE_Tent_WarmCap,DESC,0,You can't seem to get any warmer.
+33777031,_DE_TentLayDownMarker,FULL,0,Lie Down
+33803989,_DE_TentLayDownMarkerL,FULL,0,Lie Down
+33803990,_DE_TentLayDownMarkerR,FULL,0,Lie Down
+33893008,_DE_TentSeeThruError,DESC,0,Your tent must be pitched to use this.
+33777030,_DE_TentSitMarker,FULL,0,Sit Down
+33693644,_DE_TestCell,FULL,0,Editor Smoke Test Cell
+33777041,_DE_TestTentFeatures1,FULL,0,Tent
+33635392,_DE_TorchState_Spell,FULL,0,Torch
+33635392,_DE_TorchState_Spell,DESC,0,
+33635394,_DE_TorchStateEffect,FULL,0,Resist Exposure
+33635394,_DE_TorchStateEffect,DNAM,0,The warmth of your torch grants you <10%> resistance to exposure.
+33650647,_DE_TrackingQuest,NNAM,0,Reflect on cold weather survival. (Look to the stars between 7PM and 7AM OR Enable Frostfall via Mod Config)
+33650647,_DE_TrackingQuest,FULL,0,Frostfall
+33650647,_DE_TrackingQuest,CNAM:3,0,"I found a copy of ""A Survivor's Guide to Skyrim"", and feel better prepared to face the biting cold of the north."
+33650647,_DE_TrackingQuest,CNAM:2,0,"I should read a copy of ""A Survivor's Guide to Skyrim"" to refresh my memory on cold weather survival skills. Looking to the night sky may help me remember where I put my old copy."
+33650647,_DE_TrackingQuest,CNAM,0,Initial State
+33624344,_DE_Travel_FireKit,DESC,0,You use a Fire Kit during your travels.
+33624345,_DE_Travel_Firewood,DESC,0,You use some firewood during your travels.
+33638159,_DE_TravelOn,DESC,0,You are now prepared to travel.
+33842974,_DE_TutorialsReset,ITXT,2498,Ok
+33842974,_DE_TutorialsReset,DESC,0,All tutorials have been reset.
+33883317,_DE_WalkingStickDescription,FULL,0,Walking Stick
+33883317,_DE_WalkingStickDescription,DNAM,0,Improves movement speed by <10%> when held (unsheathed) in the right hand when traveling on foot while outdoors.
+33883315,_DE_WalkingStickEffect,FULL,0,Fortify Speed
+33883315,_DE_WalkingStickEffect,DNAM,0,
+33883319,_DE_WalkingStickEnch,FULL,0,Walking Stick
+33883316,_DE_WalkingStickSpell,FULL,0,Walking Stick
+33883316,_DE_WalkingStickSpell,DESC,0,Movement speed improved by <10%>.
+33802603,_DE_WalkingStickWarAxe,FULL,0,Walking Stick
+33802603,_DE_WalkingStickWarAxe,DESC,0,
+33599406,_DE_WarmUp,DESC,0,You begin to warm up.
+33674288,_DE_WaterPotion,FULL,0,Snowberry Extract
+33674290,_DE_WaterPotionEffect,FULL,0,Snowberry Extract
+33674290,_DE_WaterPotionEffect,DNAM,0,Allows you to swim in frigid water for <3> minutes.
+33599399,_DE_WaterTemp1,DESC,0,This water is cool and refreshing.
+33599400,_DE_WaterTemp2,DESC,0,This water is cold.
+33599401,_DE_WaterTemp3,DESC,0,This water is extremely cold.
+33599402,_DE_WaterTemp4,DESC,0,This water is frigid!
+33599403,_DE_WaterTemp4a,DESC,0,Your limbs begin to feel numb.
+33599404,_DE_WaterTemp4b,DESC,0,You feel your consciousness slipping.
+33599405,_DE_WaterTemp4c,DESC,0,Darkness engulfs your mind.
+33833278,_DE_WEAR_Error_Cloaks,DESC,0,Cloaks cannot be inspected.
+33833279,_DE_WEAR_Error_General,DESC,0,You cannot inspect this.
+33690873,_DE_WearBodyFull,DESC,0,This equipment provides full exposure protection.
+33690874,_DE_WearBodyLimited,DESC,0,This equipment provides limited exposure protection.
+33690882,_DE_WearBodyStandard,DESC,0,This equipment provides standard exposure protection.
+33690868,_DE_WearCanceled,DESC,0,Inspect Equipment canceled
+33690881,_DE_WearCloak,DESC,0,Your cloak provides resistance to exposure and rain.
+33690886,_DE_WearEquipError,DESC,0,You must equip a piece of armor or clothing to inspect it.
+33664571,_DE_WEARExamineArmor_Effect,FULL,0,Inspect Equipment
+33664571,_DE_WEARExamineArmor_Effect,DNAM,0,Examine and alter the exposure protection of your equipment (requires W.E.A.R. to be enabled).
+33664576,_DE_WEARExamineArmor_Spell,FULL,0,Inspect Equipment
+33664576,_DE_WEARExamineArmor_Spell,DESC,0,Examine and alter the exposure protection of your equipment (W.E.A.R. must be enabled).
+33690876,_DE_WearFeetFull,DESC,0,This footwear provides full exposure protection.
+33690879,_DE_WearFeetLimited,DESC,0,This footwear provides limited exposure protection.
+33690883,_DE_WearFeetStandard,DESC,0,This footwear provides standard exposure protection.
+33690875,_DE_WearHandsFull,DESC,0,These gloves provide full exposure protection.
+33690878,_DE_WearHandsLimited,DESC,0,These gloves provide limited exposure protection.
+33690884,_DE_WearHandsStandard,DESC,0,These gloves provide standard exposure protection.
+33690877,_DE_WearHeadFull,DESC,0,This headgear provides full exposure protection.
+33690880,_DE_WearHeadLimited,DESC,0,This headgear provides limited exposure protection.
+33690885,_DE_WearHeadStandard,DESC,0,This headgear provides standard exposure protection.
+33664580,_DE_WearSelectMenu_RestoreDefaults,ITXT:2,0,No - Cancel
+33664580,_DE_WearSelectMenu_RestoreDefaults,ITXT,0,Yes - Restore Defaults
+33664580,_DE_WearSelectMenu_RestoreDefaults,DESC,0,Are you sure you want to restore all armors to their default exposure protection values?
+33664581,_DE_WearSelectMenu_RestoreDefaultsConfirm,DESC,0,Equipment exposure protection reverted to defaults.
+33664578,_DE_WearSelectMenu0,ITXT:3,0,Exit
+33664578,_DE_WearSelectMenu0,ITXT:2,0,Restore Defaults
+33664578,_DE_WearSelectMenu0,ITXT,0,Inspect Equipment
+33664578,_DE_WearSelectMenu0,DESC,0,"Select Inspect Equipment to examine and change the exposure protection value of a piece of gear.
+Select Restore Defaults to revert everything back to their default exposure protection values.
+
+What do you do?"
+33664579,_DE_WearSelectMenu0Error,DESC,0,You must have W.E.A.R. enabled to use this ability.
+33664573,_DE_WearSelectMenu1,ITXT:3,0,Full Protection
+33664573,_DE_WearSelectMenu1,ITXT:2,0,Standard Protection
+33664573,_DE_WearSelectMenu1,ITXT,0,Limited (Accept Current Setting)
+33664573,_DE_WearSelectMenu1,DESC,0,"You put on the equipment and examine it. At first glance, it appears to provide limited exposure protection.
+
+However, upon further inspection of the fitting and inner lining, you realize that this equipment would actually provide..."
+33664574,_DE_WearSelectMenu2,ITXT:3,0,Full Protection
+33664574,_DE_WearSelectMenu2,ITXT:2,0,Standard (Accept Current Setting)
+33664574,_DE_WearSelectMenu2,ITXT,0,Limited Protection
+33664574,_DE_WearSelectMenu2,DESC,0,"You put on the equipment and examine it. At first glance, it appears to provide standard exposure protection.
+
+However, upon further inspection of the fitting and inner lining, you realize that this equipment would actually provide..."
+33664575,_DE_WearSelectMenu3,ITXT:3,0,Full (Accept Current Setting)
+33664575,_DE_WearSelectMenu3,ITXT:2,0,Standard Protection
+33664575,_DE_WearSelectMenu3,ITXT,0,Limited Protection
+33664575,_DE_WearSelectMenu3,DESC,0,"You put on the equipment and examine it. At first glance, it appears to provide full exposure protection.
+
+However, upon further inspection of the fitting and inner lining, you realize that this equipment would actually provide..."
+33664582,_DE_WearSelectPrompt,DESC,0,Equip the piece you wish to inspect now.
+33834669,_DE_Weather_BlizzardToClear,DESC,0,The snowstorm begins to subside.
+33834670,_DE_Weather_ClearToFog1,DESC,0,A fog rolls in silently.
+33834671,_DE_Weather_ClearToFog2,DESC,0,A haze envelops the surrounding pines.
+33834672,_DE_Weather_ClearToFog3,DESC,0,Hot steam begins to hang in the air.
+33834673,_DE_Weather_ClearToFog4,DESC,0,A mist blankets the forest.
+33834674,_DE_Weather_ClearToFog5,DESC,0,Heavy fog rolls down the valley of the Reach.
+33834675,_DE_Weather_ClearToFog6,DESC,0,A chill mist rolls across the marshlands.
+33834676,_DE_Weather_ClearToFog7,DESC,0,An icy haze crawls in from the Sea of Ghosts.
+33834686,_DE_Weather_ClearToRain,DESC,0,Grey skies loom on the horizon.
+33834678,_DE_Weather_ClearToSnow,DESC,0,Light snow begins to fall.
+33834679,_DE_Weather_ClearToSnowMountain,DESC,0,A gale howls across the mountain pass.
+33834680,_DE_Weather_ClearToSnowSevere,DESC,0,A furious snowstorm draws near.
+33834687,_DE_Weather_ClearToStorm,DESC,0,Dark clouds and thunder threaten the path ahead.
+33834684,_DE_Weather_FogToRain,DESC,0,The sound of rain can be heard nearby.
+33834685,_DE_Weather_FogToStorm,DESC,0,The fog darkens as a storm approaches.
+33834666,_DE_Weather_RainToClear,DESC,0,The clouds part as the rain passes on.
+33834677,_DE_Weather_RainToFog,DESC,0,The ground begins to steam as the rain passes.
+33834681,_DE_Weather_RainToSnow,DESC,0,Snowflakes begin to form in the freezing rain.
+33834682,_DE_Weather_RainToSnowSevere,DESC,0,The rain turns to driving snow and wind.
+33834668,_DE_Weather_SnowToClear,DESC,0,The skies clear as the snow begins to settle.
+33834683,_DE_Weather_SnowToRain,DESC,0,The snow turns to rain as the air warms.
+33834667,_DE_Weather_StormToClear,DESC,0,The thunderstorm begins to let up.
+33645078,_DE_Weathersense_Effect,FULL,0,Weathersense
+33645078,_DE_Weathersense_Effect,DNAM,0,"Displays your current exposure, wetness, and the condition of the weather around you."
+33645077,_DE_Weathersense_Spell,FULL,0,Weathersense
+33645077,_DE_Weathersense_Spell,DESC,0,"Displays your current exposure, wetness, and the condition of the weather around you."
+33842966,_DE_WellInsulatedConditionEffect,FULL,0,Well Insulated Conditon Effect
+33842966,_DE_WellInsulatedConditionEffect,DNAM,0,
+33842968,_DE_WellInsulatedConditionSpell,FULL,0,Well Insulated Condition Spell
+33842968,_DE_WellInsulatedConditionSpell,DESC,0,
+33627107,_DE_Werewolf_Transform,DESC,0,Your beast form provides full exposure protection.
+33593859,_DE_WetState_Spell,FULL,0,Wet
+33593859,_DE_WetState_Spell,DESC,0,
+33675693,_DE_WetState_Spell1,FULL,0,Damp
+33675693,_DE_WetState_Spell1,DESC,0,
+33795456,_DE_WetState_Spell1NoShader,FULL,0,Damp
+33795456,_DE_WetState_Spell1NoShader,DESC,0,
+33675695,_DE_WetState_Spell2,FULL,0,Wet
+33675695,_DE_WetState_Spell2,DESC,0,
+33795458,_DE_WetState_Spell2NoShader,FULL,0,Wet
+33795458,_DE_WetState_Spell2NoShader,DESC,0,
+33675697,_DE_WetState_Spell3,FULL,0,Drenched
+33675697,_DE_WetState_Spell3,DESC,0,
+33795460,_DE_WetState_Spell3NoShader,FULL,0,Drenched
+33795460,_DE_WetState_Spell3NoShader,DESC,0,
+33593858,_DE_WetStateEffect,FULL,0,Wet
+33593858,_DE_WetStateEffect,DNAM,0,You are wet. Exposure will increase faster when outdoors.
+33679835,_DE_WetStateEffect1,FULL,0,Damp
+33679835,_DE_WetStateEffect1,DNAM,0,You are damp. Exposure will increase slightly faster when outdoors.
+33795462,_DE_WetStateEffect1NoShader,FULL,0,Damp
+33795462,_DE_WetStateEffect1NoShader,DNAM,0,You are damp. Exposure will increase slightly faster when outdoors.
+33679836,_DE_WetStateEffect2,FULL,0,Wet
+33679836,_DE_WetStateEffect2,DNAM,0,You are wet. Exposure will increase faster when outdoors.
+33795463,_DE_WetStateEffect2NoShader,FULL,0,Wet
+33795463,_DE_WetStateEffect2NoShader,DNAM,0,You are wet. Exposure will increase faster when outdoors.
+33679837,_DE_WetStateEffect3,FULL,0,Drenched
+33679837,_DE_WetStateEffect3,DNAM,0,You are wet. Exposure will increase much faster when outdoors.
+33795464,_DE_WetStateEffect3NoShader,FULL,0,Drenched
+33795464,_DE_WetStateEffect3NoShader,DNAM,0,You are wet. Exposure will increase much faster when outdoors.
+33593871,_DE_WetStateMsg_Dry,DESC,0,You are completely dry.
+33593873,_DE_WetStateMsg_DryFire,DESC,0,The heat quickly dries you off.
+33593872,_DE_WetStateMsg_Wet,DESC,0,You are soaking wet.
+33690870,_DE_WetStateMsg_Wet1,DESC,0,You are damp.
+33690871,_DE_WetStateMsg_Wet2,DESC,0,You are wet.
+33690872,_DE_WetStateMsg_Wet3,DESC,0,You are drenched.
+33654785,_DE_WoodHarvest,ITXT:3,0,Exit
+33654785,_DE_WoodHarvest,ITXT:2,0,Harvest Deadwood
+33654785,_DE_WoodHarvest,ITXT,0,Harvest Firewood
+33654785,_DE_WoodHarvest,DESC,0,"You can use your woodcutter's axe or stone hatchet to harvest firewood from nearby trees. You can also gather deadwood from fallen trees and branches without using your axe.
+
+What do you do?"
+33833282,_DE_WoodHarvest_Stone,DESC,0,"You find a small, dense stone."
+33664569,_DE_WoodHarvestError1,DESC,0,You must be outside to harvest wood.
+33664570,_DE_WoodHarvestError2,DESC,0,You cannot harvest wood while in combat.
+33674307,_DE_WoodHarvestError3,DESC,0,There are no trees nearby to harvest from.
+33842972,_DE_WoodHarvestError4,DESC,0,You are too cold to harvest wood.
+33707594,_DE_WoodHarvestNoAxe,ITXT:2,0,Exit
+33707594,_DE_WoodHarvestNoAxe,ITXT,0,Harvest Deadwood
+33707594,_DE_WoodHarvestNoAxe,DESC,0,"You can gather deadwood from fallen trees and branches. Without a woodcutter's axe or a stone hatchet, you cannot harvest firewood from nearby trees. 
+
+What do you do?"
+33674312,_DE_WoodHarvestSuccess,DESC,0,You harvest %.0f pieces of firewood.
+33654787,_DE_WoodPilePlayer,FULL,0,Wood Pile
+33746440,_DE_ZTestEffectA,FULL,0,Z Test Effect A
+33746440,_DE_ZTestEffectA,DNAM,0,
+33746441,_DE_ZTestEffectB,FULL,0,Z Test Effect B
+33746441,_DE_ZTestEffectB,DNAM,0,
+33746442,_DE_ZTestEffectC,FULL,0,Z Test Effect C
+33746442,_DE_ZTestEffectC,DNAM,0,
+33746434,_DE_ZTestSpellA,FULL,0,Z Test Spell A
+33746434,_DE_ZTestSpellA,DESC,0,
+33746436,_DE_ZTestSpellB,FULL,0,Z Test Spell B
+33746436,_DE_ZTestSpellB,DESC,0,
+33746438,_DE_ZTestSpellC,FULL,0,Z Test Spell C
+33746438,_DE_ZTestSpellC,DESC,0,
+872256,sCantEquipGeneric,DATA,0,
+869541,sFastTravelNoTravelHealthDamage,DATA,0,"Fast travel is disabled, or you are taking health damage."
+872286,sNoFastTravelScriptBlock,DATA,0,"Fast travel is disabled, or you lack the required supplies."
+﻿870895,sNoWaitTakingHealthDamage,DATA,0,You cannot wait here.
+60,Tamriel,FULL,0,Skyrim
+107119,WhiterunWorld,FULL,0,Whiterun
+459310,WoodChoppingBlock,FULL,0,Wood Chopping Block
+692671,WoodChoppingBlockSnow,FULL,0,Wood Chopping Block
