@@ -1,0 +1,2247 @@
+33869503,_DE_aaaArmorFFSelf_1,FULL,0,フォックススキン
+33869503,_DE_aaaArmorFFSelf_1,DNAM,0,術者の保温力を<mag>ポイント/<dur>秒間高める。W.E.A.R.の有効化では、「魔術師の鎧」のパークに応じた効果となる。
+33869504,_DE_aaaArmorFFSelf_2,FULL,0,ウルフスキン
+33869504,_DE_aaaArmorFFSelf_2,DNAM,0,術者の保温力を<mag>ポイント/<dur>秒間高める。W.E.A.R.の有効化では、「魔術師の鎧」のパークに応じた効果となる。
+33869505,_DE_aaaArmorFFSelf_3,FULL,0,ベアスキン
+33869505,_DE_aaaArmorFFSelf_3,DNAM,0,術者の保温力を<mag>ポイント/<dur>秒間高める。W.E.A.R.の有効化では、「魔術師の鎧」のパークに応じた効果となる。
+33869506,_DE_aaaArmorSpell_1,FULL,0,フォックススキン
+33869506,_DE_aaaArmorSpell_1,DESC,0,
+33869508,_DE_aaaArmorSpell_2,FULL,0,ウルフスキン
+33869508,_DE_aaaArmorSpell_2,DESC,0,
+33869510,_DE_aaaArmorSpell_3,FULL,0,ベアスキン
+33869510,_DE_aaaArmorSpell_3,DESC,0,
+33870900,_DE_aaaShelterEffect_1,FULL,51865,使い魔召喚
+33870900,_DE_aaaShelterEffect_1,DNAM,0,冷気と雨から身を守る魔法のシェルターを召喚します。効果は<12>時間。このシェルターには寝床、熱源、調理鍋が備えられています。外側は完全に透明化しています。材料/構成要素：鉄のインゴット×1、薪×1、リネンラップ×1
+33870901,_DE_aaaShelterEffect_2,FULL,51865,使い魔召喚
+33870901,_DE_aaaShelterEffect_2,DNAM,74658,術者が狙った場所に <dur> 秒間、使い魔を召喚する。
+33870902,_DE_aaaShelterEffect_3,FULL,51865,使い魔召喚
+33870902,_DE_aaaShelterEffect_3,DNAM,74658,術者が狙った場所に <dur> 秒間、使い魔を召喚する。
+33870894,_DE_aaaShelterSpell_1,FULL,0,簡易シェルターの召喚
+33870894,_DE_aaaShelterSpell_1,DESC,0,
+33870896,_DE_aaaShelterSpell_2,FULL,55583,ファイアストーム
+33870896,_DE_aaaShelterSpell_2,DESC,0,
+33870898,_DE_aaaShelterSpell_3,FULL,55583,ファイアストーム
+33870898,_DE_aaaShelterSpell_3,DESC,0,
+33785481,_DE_Alchemy_MortarPestleMISC,FULL,43695,乳鉢と乳棒
+33822145,_DE_ArmorBanditBoots,FULL,58592,毛皮の靴
+33822145,_DE_ArmorBanditBoots,DESC,0,
+33822146,_DE_ArmorBanditCuirass,FULL,70763,毛皮の鎧
+33822146,_DE_ArmorBanditCuirass,DESC,0,
+33822147,_DE_ArmorBanditCuirass1,FULL,70763,毛皮の鎧
+33822147,_DE_ArmorBanditCuirass1,DESC,0,
+33822148,_DE_ArmorBanditCuirass2,FULL,70763,毛皮の鎧
+33822148,_DE_ArmorBanditCuirass2,DESC,0,
+33822149,_DE_ArmorBanditCuirass3,FULL,70763,毛皮の鎧
+33822149,_DE_ArmorBanditCuirass3,DESC,0,
+33822150,_DE_ArmorBanditGauntlets,FULL,776,毛皮の腕当て
+33822150,_DE_ArmorBanditGauntlets,DESC,0,
+33822151,_DE_ArmorBanditHelmet,FULL,58825,毛皮の兜
+33822151,_DE_ArmorBanditHelmet,DESC,0,
+33822152,_DE_ArmorStormcloakBoots,FULL,38089,毛皮のブーツ
+33822152,_DE_ArmorStormcloakBoots,DESC,0,
+33822153,_DE_ArmorStormcloakGauntlets,FULL,61866,毛皮の篭手
+33822153,_DE_ArmorStormcloakGauntlets,DESC,0,
+33822168,_DE_ArrowStoneProjectile,FULL,0,石の矢
+33728322,_DE_Axe01_0,FULL,0,木こりの斧 (耐久値：0/15)
+33728322,_DE_Axe01_0,DESC,0,
+33728323,_DE_Axe01_1,FULL,0,木こりの斧 (耐久値：4/15)
+33728323,_DE_Axe01_1,DESC,0,
+33728332,_DE_Axe01_10,FULL,0,木こりの斧 (耐久値：12/15)
+33728332,_DE_Axe01_10,DESC,0,
+33728333,_DE_Axe01_11,FULL,0,木こりの斧 (耐久値：12/15)
+33728333,_DE_Axe01_11,DESC,0,
+33728334,_DE_Axe01_12,FULL,0,木こりの斧 (耐久値：12/15)
+33728334,_DE_Axe01_12,DESC,0,
+33728335,_DE_Axe01_13,FULL,0,木こりの斧 (耐久値：14/15)
+33728335,_DE_Axe01_13,DESC,0,
+33728336,_DE_Axe01_14,FULL,0,木こりの斧 (耐久値：14/15)
+33728336,_DE_Axe01_14,DESC,0,
+33728324,_DE_Axe01_2,FULL,0,木こりの斧 (耐久値：4/15)
+33728324,_DE_Axe01_2,DESC,0,
+33728325,_DE_Axe01_3,FULL,0,木こりの斧 (耐久値：4/15)
+33728325,_DE_Axe01_3,DESC,0,
+33728326,_DE_Axe01_4,FULL,0,木こりの斧 (耐久値：7/15)
+33728326,_DE_Axe01_4,DESC,0,
+33728327,_DE_Axe01_5,FULL,0,木こりの斧 (耐久値：7/15)
+33728327,_DE_Axe01_5,DESC,0,
+33728328,_DE_Axe01_6,FULL,0,木こりの斧 (耐久値：7/15)
+33728328,_DE_Axe01_6,DESC,0,
+33728329,_DE_Axe01_7,FULL,0,木こりの斧 (耐久値：9/15)
+33728329,_DE_Axe01_7,DESC,0,
+33728330,_DE_Axe01_8,FULL,0,木こりの斧 (耐久値：9/15)
+33728330,_DE_Axe01_8,DESC,0,
+33728331,_DE_Axe01_9,FULL,0,木こりの斧 (耐久値：9/15)
+33728331,_DE_Axe01_9,DESC,0,
+33813816,_DE_AxeBroken,FULL,0,木こりの斧 (耐久値：0/15)
+33736663,_DE_Backpack,FULL,0,旅人の背嚢
+33740899,_DE_Backpack_Akatosh,FULL,0,旅人の背嚢
+33740901,_DE_Backpack_Arkay,FULL,0,旅人の背嚢
+33735265,_DE_Backpack_Black,FULL,0,旅人の背嚢(黒)
+33735265,_DE_Backpack_Black,DESC,0,
+33740847,_DE_Backpack_Black_Akatosh,FULL,0,旅人の背嚢(黒) - アカトシュ
+33740847,_DE_Backpack_Black_Akatosh,DESC,0,
+33740848,_DE_Backpack_Black_Arkay,FULL,0,旅人の背嚢(黒) - アーケイ
+33740848,_DE_Backpack_Black_Arkay,DESC,0,
+33740849,_DE_Backpack_Black_Dibella,FULL,0,旅人の背嚢(黒) - ディベラ
+33740849,_DE_Backpack_Black_Dibella,DESC,0,
+33749224,_DE_Backpack_Black_Dragon,FULL,0,旅人の背嚢(黒) - カイネ
+33749224,_DE_Backpack_Black_Dragon,DESC,0,
+33740850,_DE_Backpack_Black_Julianos,FULL,0,旅人の背嚢(黒) - ジュリアノス
+33740850,_DE_Backpack_Black_Julianos,DESC,0,
+33740851,_DE_Backpack_Black_Kynareth,FULL,0,旅人の背嚢(黒) - キナレス
+33740851,_DE_Backpack_Black_Kynareth,DESC,0,
+33740852,_DE_Backpack_Black_Mara,FULL,0,旅人の背嚢(黒) - マーラ
+33740852,_DE_Backpack_Black_Mara,DESC,0,
+33740853,_DE_Backpack_Black_Stendarr,FULL,0,旅人の背嚢(黒) - ステンダール
+33740853,_DE_Backpack_Black_Stendarr,DESC,0,
+33740854,_DE_Backpack_Black_Talos,FULL,0,旅人の背嚢(黒) - タロス
+33740854,_DE_Backpack_Black_Talos,DESC,0,
+33740855,_DE_Backpack_Black_Zenithar,FULL,0,旅人の背嚢(黒) - ゼニタール
+33740855,_DE_Backpack_Black_Zenithar,DESC,0,
+33735264,_DE_Backpack_Brown,FULL,0,旅人の背嚢(茶)
+33735264,_DE_Backpack_Brown,DESC,0,
+33740829,_DE_Backpack_Brown_Akatosh,FULL,0,旅人の背嚢(茶) - アカトシュ
+33740829,_DE_Backpack_Brown_Akatosh,DESC,0,
+33740830,_DE_Backpack_Brown_Arkay,FULL,0,旅人の背嚢(茶) - アーケイ
+33740830,_DE_Backpack_Brown_Arkay,DESC,0,
+33740831,_DE_Backpack_Brown_Dibella,FULL,0,旅人の背嚢(茶) - ディベラ
+33740831,_DE_Backpack_Brown_Dibella,DESC,0,
+33749225,_DE_Backpack_Brown_Dragon,FULL,0,旅人の背嚢(茶) - カイネ
+33749225,_DE_Backpack_Brown_Dragon,DESC,0,
+33740836,_DE_Backpack_Brown_Julianos,FULL,0,旅人の背嚢(茶) - ジュリアノス
+33740836,_DE_Backpack_Brown_Julianos,DESC,0,
+33740837,_DE_Backpack_Brown_Kynareth,FULL,0,旅人の背嚢(茶) - キナレス
+33740837,_DE_Backpack_Brown_Kynareth,DESC,0,
+33740832,_DE_Backpack_Brown_Mara,FULL,0,旅人の背嚢(茶) - マーラ
+33740832,_DE_Backpack_Brown_Mara,DESC,0,
+33740833,_DE_Backpack_Brown_Stendarr,FULL,0,旅人の背嚢(茶) - ステンダール
+33740833,_DE_Backpack_Brown_Stendarr,DESC,0,
+33740834,_DE_Backpack_Brown_Talos,FULL,0,旅人の背嚢(茶) - タロス
+33740834,_DE_Backpack_Brown_Talos,DESC,0,
+33740835,_DE_Backpack_Brown_Zenithar,FULL,0,旅人の背嚢(茶) - ゼニタール
+33740835,_DE_Backpack_Brown_Zenithar,DESC,0,
+33740903,_DE_Backpack_Dibella,FULL,0,旅人の背嚢
+33740907,_DE_Backpack_Julianos,FULL,0,旅人の背嚢
+33740905,_DE_Backpack_Kynareth,FULL,0,旅人の背嚢
+33869513,_DE_Backpack_Leather,FULL,0,旅人の背嚢(革)
+33869513,_DE_Backpack_Leather,DESC,0,
+33740915,_DE_Backpack_Mara,FULL,0,旅人の背嚢
+33614628,_DE_Backpack_Menu2_ClassicModeApply,ITXT,2498,OK
+33614628,_DE_Backpack_Menu2_ClassicModeApply,DESC,0,「難易度：スタンダード」を使用します。難易度はいつでも変更できます。
+33613237,_DE_Backpack_Menu2_Error_EmptyCookingPot,ITXT,2362,戻る
+33613237,_DE_Backpack_Menu2_Error_EmptyCookingPot,DESC,0,調理鍋を持っていない
+33613235,_DE_Backpack_Menu2_Error_EmptyFireKit,ITXT,2362,戻る
+33613235,_DE_Backpack_Menu2_Error_EmptyFireKit,DESC,0,たき火を作成するための道具がない
+33613236,_DE_Backpack_Menu2_Error_EmptyTentBed,ITXT,2362,戻る
+33613236,_DE_Backpack_Menu2_Error_EmptyTentBed,DESC,0,テントとベッドロールを持っていない
+33628492,_DE_Backpack_Menu2_HardcoreModeApply,ITXT,2498,OK
+33628492,_DE_Backpack_Menu2_HardcoreModeApply,DESC,0,「難易度：ハードコア」を使用します。難易度はいつでも変更できます。
+33611855,_DE_Backpack_Menu2_HelpCamping,ITXT,2362,戻る
+33611855,_DE_Backpack_Menu2_HelpCamping,DESC,0,"たき火を作るには、「サバイバルスキル」のパワーを使用して「たき火」の項目を選びます。点火すれば調理鍋の設置が可能です。
+
+キャンプ道具も極寒の地スカイリムでの生存に役立ちます。「サバイバルスキル」のパワーを使用して、「テント」「皮なめしの棚」などのキャンプ道具を作成できます。"
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:7,2362,戻る
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:6,57519,食べ物
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:5,0,氷耐性
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:4,0,服と防具
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:3,0,水濡れ
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT:2,0,天候
+33611845,_DE_Backpack_Menu2_HelpExposure,ITXT,0,地域と時間
+33611845,_DE_Backpack_Menu2_HelpExposure,DESC,0,"「降霜の月」における主な要素は「体温(EP)」の概念です。 寒さによって体温は低下します。たき火、鍛冶場、暖炉の熱源の側にいると体温は上昇します。
+
+天候・時刻・地域・水濡れといった要素で体温低下の速度が決まります。どの項目を知りたいですか？"
+33611850,_DE_Backpack_Menu2_HelpExposure_Clothing,ITXT,2362,戻る
+33611850,_DE_Backpack_Menu2_HelpExposure_Clothing,DESC,0,"装備品を着ると体温低下の速度が遅くなるので、活動できる時間が大幅に伸びます。
+
+頭・胴・両手・両脚のうち、装備されている箇所から合計して効果を決めます。
+
+デフォルトの設定では、保温力はどの装備品も同じです。  「詳細設定 -> リアリティ -> W.E.A.R.」から「W.E.A.Eを使う」に設定すると、装備品の保温力は「低い・並・高い」の3段階に分けられます。"
+33611852,_DE_Backpack_Menu2_HelpExposure_Food,ITXT,2362,戻る
+33611852,_DE_Backpack_Menu2_HelpExposure_Food,DESC,0,"温かな料理
+
+野菜スープ、鹿肉のシチュー、ホーカーのシチュｰ、ビーフシチューは身体を芯から温めて、体温の低下をわずかに防ぎます。"
+33611851,_DE_Backpack_Menu2_HelpExposure_Frost,ITXT,2362,戻る
+33611851,_DE_Backpack_Menu2_HelpExposure_Frost,DESC,0,"氷耐性は体温が下がるのを防ぎます。
+
+ノルドは生まれつき50%の氷耐性を持っています。
+
+"
+33611846,_DE_Backpack_Menu2_HelpExposure_Location,ITXT,2362,戻る
+33611846,_DE_Backpack_Menu2_HelpExposure_Location,DESC,0,"体温が低下する速度は地域によって大きく影響を受けます。
+
+ファルクリースのような南方は比較的暖かなので、無制限に活動できます。 それよりも寒いリーチやホワイトランでは体温がゆっくりと低下します。 吹雪にたびたび見舞われるような地域と山岳地帯では、体温は急速に低下します。寒さの厳しい地域に出かけるのは準備が整うまで控えてください。
+
+夜間は日中よりも気温が下がります。日中よりも速く体温が失われます。"
+33611847,_DE_Backpack_Menu2_HelpExposure_Weather,ITXT,2362,戻る
+33611847,_DE_Backpack_Menu2_HelpExposure_Weather,DESC,0,"天候と地域によって体温の低下は大きく影響を受けます。  リバーウッドの晴れの日はドーンスターの晴れの日よりもずっと暖かくなります。
+
+天候による寒暖の差を示します。：
+晴れ (暖かい)
+曇り
+霧
+雨
+雪
+吹雪 (寒い)"
+33611849,_DE_Backpack_Menu2_HelpExposure_Wet,ITXT,2362,戻る
+33611849,_DE_Backpack_Menu2_HelpExposure_Wet,DESC,0,水で濡れていると体温が急速に失われます。泳いだり雨に降られたりすると、身体が水で濡れます。 時間が経てば乾きますが、火にあたるともっと早く乾きます。
+33611853,_DE_Backpack_Menu2_HelpFT,ITXT,2362,戻る
+33611853,_DE_Backpack_Menu2_HelpFT,DESC,0,"「降霜の月」の起動中、デフォルトの設定では高速移動をするために、薪を集めるための「木こりの斧」が必要です。所持品に「木こりの斧」があれば高速移動が可能です。
+
+「難易度：リラックス」では手ぶらで高速移動が可能です。また、「詳細設定>高速移動>高速移動の必需品」からこの機能のオン/オフを切り替えられます。"
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:6,2362,戻る
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:5,0,トラブルF&Q
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:4,0,キャンプ
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:3,16173,水
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT:2,72339,高速移動
+33611844,_DE_Backpack_Menu2_HelpMain,ITXT,0,体温
+33611844,_DE_Backpack_Menu2_HelpMain,DESC,0,"ヘルプ
+
+「降霜の月」の遊び方を学ぶ。"
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:6,2362,戻る
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:5,0,次...
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:4,0,EPが変化しない
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:3,0,走行速度の低下
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT:2,0,スキルが0のまま
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,ITXT,0,水の問題
+33665968,_DE_Backpack_Menu2_HelpTroubleshooting,DESC,0,"トラブルF&Q
+
+ご不便をかけて申し訳ありません。
+
+当てはまる症状を選んでください。"
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT:5,2362,戻る
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT:4,0,次...
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT:3,0,オブジェクト設置関連
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT:2,0,待機/睡眠ができない
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,ITXT,0,高速移動できない
+33665973,_DE_Backpack_Menu2_HelpTroubleshooting2,DESC,0,"トラブルF&Q
+
+ご不便をかけて申し訳ありません。
+
+当てはまる症状を選んでください。"
+33665976,_DE_Backpack_Menu2_HelpTroubleshootingConfirm,ITXT,2498,OK
+33665976,_DE_Backpack_Menu2_HelpTroubleshootingConfirm,DESC,0,修正を試みました。問題が解決されたか確認してください。
+33665972,_DE_Backpack_Menu2_HelpTroubleshootingEP,ITXT:2,2362,戻る
+33665972,_DE_Backpack_Menu2_HelpTroubleshootingEP,ITXT,0,修正を試みる
+33665972,_DE_Backpack_Menu2_HelpTroubleshootingEP,DESC,0,"トラブルF&Q -> EP値が変化しない
+
+非常に寒い場所や熱源の側にいる時でも、EP値が変化しないようであれば、まず「詳細設定 -> 体温 -> 体温変化の速度」から、体温変化の速度が普通(1.0x)であることを確認してください。遅く設定されいない事を確認した後でも体温が変化しはじめない場合、下記の「修正」ボタンを押してください。
+
+注意：最善を尽くしますが必ず直るとは限りません。多くの場合、この方法で直ってきています。"
+33693750,_DE_Backpack_Menu2_HelpTroubleshootingExit,ITXT:2,2362,戻る
+33693750,_DE_Backpack_Menu2_HelpTroubleshootingExit,ITXT,0,修正を試みる
+33693750,_DE_Backpack_Menu2_HelpTroubleshootingExit,DESC,0,"トラブルF&Q -> エリア移動で問題が起きる
+屋内から屋外へ出る際に、奇妙なテレポート・灰色の画面・ゲームの強制終了が起こる場合、下記の「修正」ボタンを押してください。
+
+警告： ボタンを押すと別のエリアにテレポートをしてから現在のエリアに戻ってきます。問題解決に必要なことですのでご安心ください。
+
+注意： 最善を尽くしますが保証は致しかねます。多くの場合、この方法で直ってきています。"
+33665974,_DE_Backpack_Menu2_HelpTroubleshootingFT,ITXT:2,2362,戻る
+33665974,_DE_Backpack_Menu2_HelpTroubleshootingFT,ITXT,0,修正を試みる
+33665974,_DE_Backpack_Menu2_HelpTroubleshootingFT,DESC,0,"トラブルF&Q -> 高速移動できない
+
+「高速移動の必需品」を使用している場合、「木こりの斧」を所持していると高速移動を利用できます。
+
+「高速移動」から「高速移動を使わない」に設定していると高速移動は使えません。「高速移動を使う」に設定してください。
+「屋外待機」から「屋外待機を使わない」に設定していると高速移動も使えません。「屋外待機を使う」に設定してください。
+上記を確認した上で直らない場合、下記の「修正」ボタンを押してください。"
+33865184,_DE_Backpack_Menu2_HelpTroubleshootingPlacement,ITXT:3,2362,戻る
+33865184,_DE_Backpack_Menu2_HelpTroubleshootingPlacement,ITXT:2,0,設置マーカーを使用しない
+33865184,_DE_Backpack_Menu2_HelpTroubleshootingPlacement,ITXT,0,修正を試みる
+33865184,_DE_Backpack_Menu2_HelpTroubleshootingPlacement,DESC,0,"トラブルF&Q -> 設置の問題
+他に設置中のアイテムがないにも関わらず、「二つ目は設置できない」のエラーメッセージを常に受け取る場合、下記の「修正を試みる」のボタンを押します。設置マーカーの動作が遅延する場合、ウェブ上で公開されている本MODの「Skryim.ini の設定変更」を参照するか、下記から「設置マーカーを使用しない」ボタンを押します。すでに停止している場合、停止ボタンは表示されません。"
+33665971,_DE_Backpack_Menu2_HelpTroubleshootingSlow,ITXT:2,2362,戻る
+33665971,_DE_Backpack_Menu2_HelpTroubleshootingSlow,ITXT,0,修正を試みる
+33665971,_DE_Backpack_Menu2_HelpTroubleshootingSlow,DESC,0,"トラブルF&Q -> 走れない / 走行速度が遅い
+
+体温が「ちょうどいい」「温かい」にも関わらず、走れなかったり走行速度がとても遅い場合、まずスプリント(デフォルトではAltボタン)を試してください。少し走ると元の速度に戻ることがあります。この方法で直らなかったら下記の「修正」ボタンを押してください。
+注意： 最善を尽くしますが必ず直るとは限りません。多くの場合、この方法で直ってきています。"
+33665970,_DE_Backpack_Menu2_HelpTroubleshootingStats,ITXT:2,2362,戻る
+33665970,_DE_Backpack_Menu2_HelpTroubleshootingStats,ITXT,0,修正を試みる
+33665970,_DE_Backpack_Menu2_HelpTroubleshootingStats,DESC,0,"トラブルF&Q -> 体温が「ちょうどいい」や「暖かい」であるにも関わらず、
+スキルが0のまま、あるいは極端に低くなっている場合、 下記の「修正」ボタンを押してください。
+
+注意：最善を尽くしますが必ず治るとは限りません。多くの場合、この方法で直ってきています。"
+33665975,_DE_Backpack_Menu2_HelpTroubleshootingWait,ITXT:2,2362,戻る
+33665975,_DE_Backpack_Menu2_HelpTroubleshootingWait,ITXT,0,修正を試みる
+33665975,_DE_Backpack_Menu2_HelpTroubleshootingWait,DESC,0,"トラブルF&Q -> 待機・睡眠・高速移動できない
+
+屋外待機や高速移動を使えない場合、「屋外待機」から「屋外待機を使う」に設定してあることをご確認ください。確認ができましたら、下記の「修正」ボタンを押してください。
+
+注意： 最善を尽くしますが必ず直るとは限りません。多くの場合、この方法で直ってきています。"
+33665969,_DE_Backpack_Menu2_HelpTroubleshootingWet,ITXT:2,2362,戻る
+33665969,_DE_Backpack_Menu2_HelpTroubleshootingWet,ITXT,0,修正を試みる
+33665969,_DE_Backpack_Menu2_HelpTroubleshootingWet,DESC,0,"トラブルF&Q -> 水の問題
+「水が乾かない・水に濡れない・水に入るとすぐに死んでしまう」 こうした問題が起きている場合、下記の「修正」ボタンを押してください。
+注意： 最善を尽くしますが必ずしも直るとは限りません。多くの場合、この方法で直ってきています。"
+33611854,_DE_Backpack_Menu2_HelpWater,ITXT,2362,戻る
+33611854,_DE_Backpack_Menu2_HelpWater,DESC,0,"周囲の気温によって水温が異なります。
+
+南寄りの地域では泳ぎに適した「爽やかな水」です。ホワイトランやリーチの周辺ではスタミナが急速に失われる「冷たい水」か「凍てつく水」です。 ペイルや山岳地帯の水は「凍てつく水」です。デフォルトでは「凍てつく水による即死」が適用されているので「凍てつく水」で泳ぐと30秒で死に至ります。この機能は「難易度：リラックス」には含まれていませんが、「詳細設定 -> 凍てつく水による即死」から個別に設定できます。"
+33614627,_DE_Backpack_Menu2_LiteModeApply,ITXT,2498,OK
+33614627,_DE_Backpack_Menu2_LiteModeApply,DESC,0,「難易度：リラックス」を使用します。難易度はいつでも変更できます。
+33611842,_DE_Backpack_Menu2_Main,ITXT:5,45268,終了
+33611842,_DE_Backpack_Menu2_Main,ITXT:4,0,道具作成
+33611842,_DE_Backpack_Menu2_Main,ITXT:3,0,調理鍋を使う
+33611842,_DE_Backpack_Menu2_Main,ITXT:2,0,テントとベッドロールを使う
+33611842,_DE_Backpack_Menu2_Main,ITXT,0,薪を使う
+33611842,_DE_Backpack_Menu2_Main,DESC,0,"Inside your pack, you find:
+Fire Kits x%.0f
+Tent and Bedroll x%.0f (%.0f Uses)
+Cooking Pot x%.0f
+"
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT:5,45268,終了
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT:4,0,道具作成
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT:3,0,調理鍋を使う
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT:2,0,テントとベッドロールを使う
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,ITXT,0,薪を使う
+33613242,_DE_Backpack_Menu2_Main_NoTentDur,DESC,0,"Inside your pack, you find:
+Fire Kits x%.0f
+Tent and Bedroll x%.0f
+Cooking Pot x%.0f
+"
+33611843,_DE_Backpack_Menu2_Setup,ITXT:6,45268,終了
+33611843,_DE_Backpack_Menu2_Setup,ITXT:5,28024,ヘルプ
+33611843,_DE_Backpack_Menu2_Setup,ITXT:4,0,詳細設定
+33611843,_DE_Backpack_Menu2_Setup,ITXT:3,0,リラックス
+33611843,_DE_Backpack_Menu2_Setup,ITXT:2,0,スタンダード
+33611843,_DE_Backpack_Menu2_Setup,ITXT,0,ハードコア
+33611843,_DE_Backpack_Menu2_Setup,DESC,0,"プリセットを使うとご希望の難易度に変更できます。
+
+詳細設定： 各機能を個別に設定
+
+ヘルプ： 解説"
+33614626,_DE_Backpack_Menu2_Setup_ClassicMode,ITXT:2,0,いいえ - 戻る
+33614626,_DE_Backpack_Menu2_Setup_ClassicMode,ITXT,0,はい - 適用
+33614626,_DE_Backpack_Menu2_Setup_ClassicMode,DESC,0,"「難易度：スタンダード」：
+・W.E.A.R.を使わない
+・体温低下速度は普通(1.0x)
+・高速移動には
+ 木こりの斧が必要
+・屋外待機を使う
+・たき火の自動点火
+・斧は耐久値を持つ
+・凍てつく水で死ぬ
+・低体温で死ぬ
+
+「難易度：スタンダード」を使いますか？"
+33707589,_DE_Backpack_Menu2_Setup_Compatibility,ITXT:2,2362,戻る
+33707589,_DE_Backpack_Menu2_Setup_Compatibility,ITXT,0,Wet and Cold
+33707589,_DE_Backpack_Menu2_Setup_Compatibility,DESC,0,"詳細設定 > 互換性
+
+項目を選んでください。"
+33833272,_DE_Backpack_Menu2_Setup_Compatibility_WAC,ITXT,2362,戻る
+33833272,_DE_Backpack_Menu2_Setup_Compatibility_WAC,DESC,0,"Wet and Coldとの互換性
+
+最大限の互換性を得るために以下の項目を手動で変更してください。
+*Wet and Coldの水濡れシェーダーを無効化します。
+*「降霜の月」の水濡れシェーダーを有効化します。(""Wet and Cold""の作者Isoku氏による提供です。)"
+33707588,_DE_Backpack_Menu2_Setup_CompatibilityMovementOFF,ITXT:2,2362,戻る
+33707588,_DE_Backpack_Menu2_Setup_CompatibilityMovementOFF,ITXT,51530,使う
+33707588,_DE_Backpack_Menu2_Setup_CompatibilityMovementOFF,DESC,0,"移動速度のペナルティ
+
+「使う」場合、凍え始めると移動速度が低下します。
+
+「使わない」場合、移動速度は変化しません。
+
+現在の設定：使わない"
+33707587,_DE_Backpack_Menu2_Setup_CompatibilityMovementON,ITXT:2,2362,戻る
+33707587,_DE_Backpack_Menu2_Setup_CompatibilityMovementON,ITXT,0,使わない
+33707587,_DE_Backpack_Menu2_Setup_CompatibilityMovementON,DESC,0,"移動速度のペナルティ
+
+「使う」場合、凍え始めると移動速度が低下します。
+
+「使わない」場合、移動速度は変化しません。
+
+現在の設定：使う"
+33795465,_DE_Backpack_Menu2_Setup_ExposureDeathOFF,ITXT:2,2362,戻る
+33795465,_DE_Backpack_Menu2_Setup_ExposureDeathOFF,ITXT,51530,使う
+33795465,_DE_Backpack_Menu2_Setup_ExposureDeathOFF,DESC,0,"低体温症による死
+
+「使う」場合、EP値が100に達すると低体温症により死亡する。
+
+「使わない」場合、低体温で死ぬことはないが、その他の悪影響は受ける。
+
+現在の状態： 使わない"
+33795466,_DE_Backpack_Menu2_Setup_ExposureDeathON,ITXT:2,2362,戻る
+33795466,_DE_Backpack_Menu2_Setup_ExposureDeathON,ITXT,0,使わない
+33795466,_DE_Backpack_Menu2_Setup_ExposureDeathON,DESC,0,"低体温症による死
+
+「使う」場合、EP値が100に達すると低体温症により死亡する。
+
+「使わない」場合、低体温で死ぬことはないが、その他の悪影響は受ける。
+
+現在の状態： 使う"
+33664585,_DE_Backpack_Menu2_Setup_FastTravelDisableOff,ITXT:2,2362,戻る
+33664585,_DE_Backpack_Menu2_Setup_FastTravelDisableOff,ITXT,0,使わない
+33664585,_DE_Backpack_Menu2_Setup_FastTravelDisableOff,DESC,0,"高速移動
+
+高速移動の有無を切り替えます。
+
+現在の設定： 高速移動を使う"
+33664584,_DE_Backpack_Menu2_Setup_FastTravelDisableOn,ITXT:2,2362,戻る
+33664584,_DE_Backpack_Menu2_Setup_FastTravelDisableOn,ITXT,51530,使う
+33664584,_DE_Backpack_Menu2_Setup_FastTravelDisableOn,DESC,0,"高速移動
+
+高速移動の有無を切り替えます。
+
+現在の設定： 高速移動を使わない"
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,ITXT:4,2362,戻る
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,ITXT:3,0,高速移動の必需品
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,ITXT:2,0,使う/使わない
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,ITXT,0,高速移動の制御
+33833252,_DE_Backpack_Menu2_Setup_FastTravelOverview,DESC,0,"詳細設定 > 高速移動
+
+設定したい高速移動のオプションを選んでください。"
+33795467,_DE_Backpack_Menu2_Setup_FastTravelProcessingOFF,ITXT:2,2362,戻る
+33795467,_DE_Backpack_Menu2_Setup_FastTravelProcessingOFF,ITXT,51530,使う
+33795467,_DE_Backpack_Menu2_Setup_FastTravelProcessingOFF,DESC,0,"高速移動の制御
+
+「使う」場合、「降霜の月」に高速移動の設定を制御させます。この機能を使うと、プレイヤーの高速移動の能力に影響する他のMODと競合を起こす可能性があります。
+
+「使わない」場合、プレイヤーの能力や高速移動に関連するシステムは、高速移動に影響を与えません。
+
+現在の設定：使わない"
+33795468,_DE_Backpack_Menu2_Setup_FastTravelProcessingON,ITXT:2,2362,戻る
+33795468,_DE_Backpack_Menu2_Setup_FastTravelProcessingON,ITXT,0,使わない
+33795468,_DE_Backpack_Menu2_Setup_FastTravelProcessingON,DESC,0,"高速移動の制御
+
+「使う」場合、「降霜の月」に高速移動の設定を制御させます。この機能を使うと、プレイヤーの高速移動の能力に影響する他のMODと競合を起こす可能性があります。
+
+「使わない」場合、プレイヤーの能力や高速移動に関連するシステムは、高速移動に影響を与えません。
+
+現在の設定：使う"
+33628488,_DE_Backpack_Menu2_Setup_HardcoreMode,ITXT:2,0,いいえ - 戻る
+33628488,_DE_Backpack_Menu2_Setup_HardcoreMode,ITXT,0,はい - 適用
+33628488,_DE_Backpack_Menu2_Setup_HardcoreMode,DESC,0,"「難易度：ハードコア」：
+・W.E.A.R.の使用
+・体温低下速度は普通(1.0x)
+・高速移動を使わない
+・屋外待機を使う
+・たき火の手動点火
+　(たいまつ、炎の呪文)
+・斧は耐久値を持つ
+・凍てつく水による即死
+
+「難易度：ハードコア」を使いますか？"
+33614625,_DE_Backpack_Menu2_Setup_LiteMode,ITXT:2,0,いいえ - 戻る
+33614625,_DE_Backpack_Menu2_Setup_LiteMode,ITXT,0,はい - 適用
+33614625,_DE_Backpack_Menu2_Setup_LiteMode,DESC,0,"「難易度：リラックス」：
+・W.E.A.R.を使わない
+・体温低下速度は普通(1.0x)
+・高速移動を使う
+・屋外待機を使う
+・たき火の自動点火
+・斧は耐久値を持たない
+・凍てつく水で死なない
+・低体温で死なない
+
+「難易度：リラックス」を使いますか？"
+33833257,_DE_Backpack_Menu2_Setup_Notifications_ConditionOff,ITXT:2,2362,戻る
+33833257,_DE_Backpack_Menu2_Setup_Notifications_ConditionOff,ITXT,51530,使う
+33833257,_DE_Backpack_Menu2_Setup_Notifications_ConditionOff,DESC,0,"体温変化の通知
+
+「使う」場合、体温変化が随時表示されます。(EPと水濡れ)
+
+警告：「使わない」場合、プレイヤーの体温変化に気づかず、状態異常に陥る恐れがあります。非通知設定は自己責任で行ってください。
+
+現在の設定：使わない"
+33833256,_DE_Backpack_Menu2_Setup_Notifications_ConditionOn,ITXT:2,2362,戻る
+33833256,_DE_Backpack_Menu2_Setup_Notifications_ConditionOn,ITXT,0,使わない
+33833256,_DE_Backpack_Menu2_Setup_Notifications_ConditionOn,DESC,0,"体温変化の通知
+
+「使う」場合、体温変化が随時表示されます。(EPと水濡れ)
+
+警告：「使わない」場合、プレイヤーの体温変化に気づかず、状態異常に陥る恐れがあります。非通知設定は自己責任で行ってください。
+
+現在の設定：使う"
+33876422,_DE_Backpack_Menu2_Setup_Notifications_SystemOff,ITXT:2,2362,戻る
+33876422,_DE_Backpack_Menu2_Setup_Notifications_SystemOff,ITXT,51530,使う
+33876422,_DE_Backpack_Menu2_Setup_Notifications_SystemOff,DESC,0,"システム・メッセージ
+
+「使う」場合、ゲームをロードする際に「キャンプ道具を使う準備が整いました」のメッセージが表示されます。この通知は本MODの互換性チェックが終了したことを意味します。スクリプトシステムが極端に遅くなった際にも警告が表示されます。
+
+現在の設定：使わない"
+33876423,_DE_Backpack_Menu2_Setup_Notifications_SystemOn,ITXT:2,2362,戻る
+33876423,_DE_Backpack_Menu2_Setup_Notifications_SystemOn,ITXT,0,使わない
+33876423,_DE_Backpack_Menu2_Setup_Notifications_SystemOn,DESC,0,"システム・メッセージ
+
+「使う」場合、ゲームをロードする際に「キャンプ道具を使う準備が整いました」のメッセージが表示されます。この通知は本MODの互換性チェックが終了したことを意味します。スクリプトシステムが極端に遅くなった際にも警告が表示されます。
+
+現在の設定：使う"
+33833261,_DE_Backpack_Menu2_Setup_Notifications_WEAROff,ITXT:2,2362,戻る
+33833261,_DE_Backpack_Menu2_Setup_Notifications_WEAROff,ITXT,51530,使う
+33833261,_DE_Backpack_Menu2_Setup_Notifications_WEAROff,DESC,0,"W.E.A.R. の通知
+
+「使う」場合、身につけた装備品の保温力が通知されます。
+
+注意点：保温力の総合値は「サバイバルスキル」のパワーを使用することでも確認できます。
+
+現在の設定： 使わない"
+33833260,_DE_Backpack_Menu2_Setup_Notifications_WEAROn,ITXT:2,2362,戻る
+33833260,_DE_Backpack_Menu2_Setup_Notifications_WEAROn,ITXT,0,使わない
+33833260,_DE_Backpack_Menu2_Setup_Notifications_WEAROn,DESC,0,"W.E.A.R. の通知
+
+「使う」場合、身につけた装備品の保温力が通知されます。
+
+注意点：保温力の総合値は「サバイバルスキル」のパワーを使用することでも確認できます。
+
+現在の設定： 使う"
+33833259,_DE_Backpack_Menu2_Setup_Notifications_WeatherOff,ITXT:2,2362,戻る
+33833259,_DE_Backpack_Menu2_Setup_Notifications_WeatherOff,ITXT,51530,使う
+33833259,_DE_Backpack_Menu2_Setup_Notifications_WeatherOff,DESC,0,"天候変化の通知
+
+「使う」場合、天候変化の予測が通知されます。
+
+現在の設定： 使わない"
+33833258,_DE_Backpack_Menu2_Setup_Notifications_WeatherOn,ITXT:2,2362,戻る
+33833258,_DE_Backpack_Menu2_Setup_Notifications_WeatherOn,ITXT,0,使わない
+33833258,_DE_Backpack_Menu2_Setup_Notifications_WeatherOn,DESC,0,"天候変化の通知
+
+「使う」場合、天候変化の予測が通知されます。
+
+現在の設定： 使う"
+33833263,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOff,ITXT:2,2362,戻る
+33833263,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOff,ITXT,51530,使う
+33833263,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOff,DESC,0,"EPと水濡れの通知
+
+「使う」場合、ウェザーセンスを使用すると、EPと水濡れ、天候状態が三つ並んで表示されます。
+
+「使わない」場合、天候状態しか表示されません。警告：容易にステータス変化を把握するために、この通知は「使う」ことを推奨します。
+
+現在の設定： 使わない"
+33833262,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOn,ITXT:2,2362,戻る
+33833262,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOn,ITXT,0,使わない
+33833262,_DE_Backpack_Menu2_Setup_Notifications_WeathersenseOn,DESC,0,"EPと水濡れの通知
+
+「使う」場合、ウェザーセンスを使用すると、EPと水濡れ、天候状態が三つ並んで表示されます。
+
+「使わない」場合、天候状態しか表示されません。警告：容易にステータス変化を把握するために、この通知は「使う」ことを推奨します。
+
+現在の設定： 使う"
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT:5,2362,戻る
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT:4,0,次...
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT:3,0,リアリティ
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT:2,0,キャンプ
+33616017,_DE_Backpack_Menu2_Setup_Options,ITXT,0,体温
+33616017,_DE_Backpack_Menu2_Setup_Options,DESC,0,"詳細設定
+
+項目を選んでください。"
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT:5,2362,戻る
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT:4,0,オブジェクト設置
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT:3,0,たき火の手動点火
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT:2,0,テント内で装備品を外す
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,ITXT,0,斧の耐久性
+33645075,_DE_Backpack_Menu2_Setup_Options_Camping,DESC,0,"詳細設定 > キャンプ
+
+項目を選んでください。"
+33664589,_DE_Backpack_Menu2_Setup_Options_CombatDisableOff,ITXT:2,2362,戻る
+33664589,_DE_Backpack_Menu2_Setup_Options_CombatDisableOff,ITXT,51530,使う
+33664589,_DE_Backpack_Menu2_Setup_Options_CombatDisableOff,DESC,0,"戦闘中の体温変化を停止
+
+「使う」場合、戦闘中は体温変化が停止します。戦闘後から体温変化が始まります。
+
+「使わない」場合、戦闘中でも体温は変化し続けます。
+
+現在の設定：使わない"
+33664588,_DE_Backpack_Menu2_Setup_Options_CombatDisableOn,ITXT:2,2362,戻る
+33664588,_DE_Backpack_Menu2_Setup_Options_CombatDisableOn,ITXT,0,使わない
+33664588,_DE_Backpack_Menu2_Setup_Options_CombatDisableOn,DESC,0,"戦闘中の体温変化を停止
+
+「使う」場合、戦闘中は体温変化が停止します。戦闘後から体温変化が始まります。
+
+「使わない」場合、戦闘中でも体温は変化し続けます。
+
+現在の設定：使う"
+33833253,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOff,ITXT:2,2362,戻る
+33833253,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOff,ITXT,51530,使う
+33833253,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOff,DESC,0,"会話中は体温変化を停止
+
+「使う」場合、会話中は体温変化が停止します。会話終了後から体温変化が始まります。
+
+「使わない」場合、会話中でも体温が変化し続けます。
+
+現在の設定：使わない"
+33833254,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOn,ITXT:2,2362,戻る
+33833254,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOn,ITXT,0,使わない
+33833254,_DE_Backpack_Menu2_Setup_Options_DialogueDisableOn,DESC,0,"会話中は体温変化を停止
+
+「使う」場合、会話中は体温変化が停止します。会話終了後から体温変化が始まります。
+
+「使わない」場合、会話中でも体温が変化し続けます。
+
+現在の設定：使う"
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:7,2362,戻る
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:6,0,吸血症とアンデッド
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:5,61669,死亡
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:4,16173,水
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:3,0,会話中の体温変化を中断する
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT:2,74670,戦闘
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,ITXT,0,速度
+33645076,_DE_Backpack_Menu2_Setup_Options_Exposure,DESC,0,"詳細設定 > 体温
+
+項目を選んでください。"
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:6,2362,戻る
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:5,2362,戻る
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:4,0,ウェザーセンス
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:3,0,W.E.A.R.
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT:2,0,天候
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,ITXT,0,体温変化
+33833255,_DE_Backpack_Menu2_Setup_Options_Notifications,DESC,0,"詳細設定 > 通知
+
+項目を選んでください。"
+33674308,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOff,ITXT:2,2362,戻る
+33674308,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOff,ITXT,51530,使う
+33674308,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOff,DESC,0,"薪集めのカットシーン
+
+「使う」に設定すると薪集めのカットシーンを見られます。
+
+「使わない」場合、カットシーンは省略されます。
+
+現在の設定： 使わない"
+33674309,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOn,ITXT:2,2362,戻る
+33674309,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOn,ITXT,0,使わない
+33674309,_DE_Backpack_Menu2_Setup_Options_WoodHarvestCinematicOn,DESC,0,"薪集めのカットシーン
+
+「使う」に設定すると薪集めのカットシーンを見られます。
+
+「使わない」場合、カットシーンは省略されます。
+
+現在の設定： 使う"
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT:5,2362,戻る
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT:4,0,次...
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT:3,0,通知
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT:2,12285,効果
+33706198,_DE_Backpack_Menu2_Setup_Options2,ITXT,72339,高速移動
+33706198,_DE_Backpack_Menu2_Setup_Options2,DESC,0,"詳細設定
+
+項目を選んでください。"
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT:5,2362,戻る
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT:4,0,次...
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT:3,0,起動/停止
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT:2,0,互換性
+33707577,_DE_Backpack_Menu2_Setup_Options3,ITXT,29277,チュートリアル
+33707577,_DE_Backpack_Menu2_Setup_Options3,DESC,0,"詳細設定
+
+項目を選んでください。"
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:6,2362,戻る
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:5,0,次...
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:4,0,薪集めのカットシーン
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:3,0,画面全体
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT:2,0,水濡れシェーダー
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,ITXT,0,霜シェーダー
+33707578,_DE_Backpack_Menu2_Setup_OptionsEffects,DESC,0,"詳細設定 > 視覚効果
+
+設定したい視覚効果を選んでください"
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT:5,2362,戻る
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT:4,0,次...
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT:3,0,プレイヤーアニメーション
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT:2,0,効果音
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,ITXT,0,振動
+33865175,_DE_Backpack_Menu2_Setup_OptionsEffects2,DESC,0,"詳細設定 > 視覚効果
+
+設定したい視覚効果を選んでください"
+33707579,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderOFF,ITXT:2,2362,戻る
+33707579,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderOFF,ITXT,51530,使う
+33707579,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderOFF,DESC,0,"霜シェーダー
+
+この機能を「使う」場合、凍えている状態のプレイヤーに霜シェーダーがかかります。
+
+「使わない」場合、シェーダーは表示されません。
+
+現在の設定：使わない"
+33707580,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderON,ITXT:2,2362,戻る
+33707580,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderON,ITXT,0,使わない
+33707580,_DE_Backpack_Menu2_Setup_OptionsEffectsFrostShaderON,DESC,0,"霜シェーダー
+
+この機能を「使う」場合、凍えている状態のプレイヤーに霜シェーダーがかかります。
+
+「使わない」場合、シェーダーは表示されません。
+
+現在の設定：使う"
+33707584,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceOFF,ITXT:2,2362,戻る
+33707584,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceOFF,ITXT,51530,使う
+33707584,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceOFF,DESC,0,"画面全体のシェーダー
+
+「使う」場合、とても冷えている状態になると画面全体がぶれ始め、体温が低下するにつれてぶれが激しくなっていきます。
+
+「使わない」場合、このシェーダーは表示されません。
+
+現在の設定： 使わない"
+33707583,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceON,ITXT:2,2362,戻る
+33707583,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceON,ITXT,0,使わない
+33707583,_DE_Backpack_Menu2_Setup_OptionsEffectsImageSpaceON,DESC,0,"画面全体のシェーダー
+
+「使う」場合、とても冷えている状態になると画面全体がぶれ始め、体温が低下するにつれてぶれが激しくなっていきます。
+
+「使わない」場合、このシェーダーは表示されません。
+
+現在の設定： 使う"
+33707581,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderOFF,ITXT:2,2362,戻る
+33707581,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderOFF,ITXT,51530,使う
+33707581,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderOFF,DESC,0,"水濡れシェーダー
+
+「使う」場合、水に濡れると身体から水滴がしたたります。(このシェーダーは""Wet and Cold""のIsoku氏によって提供されています。)
+
+「使わない」場合、このシェーダは表示されません。
+
+現在の設定： 使わない"
+33707582,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderON,ITXT:2,2362,戻る
+33707582,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderON,ITXT,0,使わない
+33707582,_DE_Backpack_Menu2_Setup_OptionsEffectsWetShaderON,DESC,0,"水濡れシェーダー
+
+「使う」場合、水に濡れると身体から水滴がしたたります。(このシェーダーは""Wet and Cold""のIsoku氏によって提供されています。)
+
+「使わない」場合、このシェーダは表示されません。
+
+現在の設定： 使う"
+33616022,_DE_Backpack_Menu2_Setup_OptionsExposureRate,ITXT:3,2362,戻る
+33616022,_DE_Backpack_Menu2_Setup_OptionsExposureRate,ITXT:2,0,速く (+0.1)
+33616022,_DE_Backpack_Menu2_Setup_OptionsExposureRate,ITXT,0,遅く (-0.1)
+33616022,_DE_Backpack_Menu2_Setup_OptionsExposureRate,DESC,0,"体温低下の速度
+
+体温低下の速度を設定できます。(デフォルト： 1.0x) 0.0x から 4.0x の間で調整できます。
+
+現在の設定： %.1fx"
+33616019,_DE_Backpack_Menu2_Setup_OptionsFastTravelDisabled,ITXT:2,2362,戻る
+33616019,_DE_Backpack_Menu2_Setup_OptionsFastTravelDisabled,ITXT,51530,使う
+33616019,_DE_Backpack_Menu2_Setup_OptionsFastTravelDisabled,DESC,0,"高速移動の必需品
+
+「使う」に設定されていると、高速移動をするには「木こりの斧」が必要になります。薪を集めるための斧です。
+「使わない」場合、通常の高速移動を利用できます。
+
+注意： メニューを閉じてから6秒待つと変更が適用されます！
+
+現在の設定： 使わない"
+33616018,_DE_Backpack_Menu2_Setup_OptionsFastTravelEnabled,ITXT:2,2362,戻る
+33616018,_DE_Backpack_Menu2_Setup_OptionsFastTravelEnabled,ITXT,0,使わない
+33616018,_DE_Backpack_Menu2_Setup_OptionsFastTravelEnabled,DESC,0,"高速移動の必需品
+
+「使う」に設定されていると、高速移動をするには「木こりの斧」が必要になります。薪を集めるための斧です。
+「使わない」場合、通常の高速移動を利用できます。
+
+注意： メニューを閉じてから6秒待つと変更が適用されます！
+
+現在の設定： 使う"
+33670125,_DE_Backpack_Menu2_Setup_OptionsFireLightOff,ITXT:2,45268,終了
+33670125,_DE_Backpack_Menu2_Setup_OptionsFireLightOff,ITXT,0,手動にする
+33670125,_DE_Backpack_Menu2_Setup_OptionsFireLightOff,DESC,0,"たき火の点火
+
+「手動」に設定すると、たいまつか炎の呪文を使ってたき火に点火する必要が生じます。たいまつ、炎系統の呪文やシャウト、杖やスクロールなどで点火可能です。
+
+「自動」の場合、たき火は自動で燃え始めます。
+
+(豆知識： たいまつを装備して防御+攻撃の順にボタンを押して「バッシュ」することで火が移ります。)
+
+現在の設定： 自動"
+33670124,_DE_Backpack_Menu2_Setup_OptionsFireLightOn,ITXT:2,45268,終了
+33670124,_DE_Backpack_Menu2_Setup_OptionsFireLightOn,ITXT,0,自動にする
+33670124,_DE_Backpack_Menu2_Setup_OptionsFireLightOn,DESC,0,"たき火の点火
+
+「手動」に設定すると、たいまつか炎の呪文を使ってたき火に点火する必要が生じます。たいまつ、炎系統の呪文やシャウト、杖やスクロールなどで点火可能です。
+
+「自動」の場合、たき火は自動で燃え始めます。
+
+(豆知識： たいまつを装備して防御+攻撃の順にボタンを押して「バッシュ」することで火が移ります。)
+
+現在の設定： 手動"
+33865177,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackOFF,ITXT:2,45268,終了
+33865177,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackOFF,ITXT,51530,使う
+33865177,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackOFF,DESC,0,"振動(コントローラーのみ)
+
+身体が凍え始めるとコントローラが振動し始めます。状態の悪化に伴って震えは大きくなります。凍てつく水を泳ぐと心音を感じます。
+
+現在の設定：使わない"
+33865176,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackON,ITXT:2,45268,終了
+33865176,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackON,ITXT,0,使わない
+33865176,_DE_Backpack_Menu2_Setup_OptionsForceFeedbackON,DESC,0,"振動(コントローラーのみ)
+
+身体が凍え始めるとコントローラが振動し始めます。状態の悪化に伴って震えは大きくなります。凍てつく水を泳ぐと心音を感じます。
+
+現在の設定：使う"
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,ITXT:4,2362,戻る
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,ITXT:3,0,移動速度のペナルティ
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,ITXT:2,0,室外待機
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,ITXT,0,W.E.A.R.
+33628489,_DE_Backpack_Menu2_Setup_OptionsHardcore,DESC,0,"詳細設定 > リアリティ
+
+更なるリアリティを望む場合にご利用ください。"
+33628491,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEARDisabled,ITXT:3,2362,戻る
+33628491,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEARDisabled,ITXT:2,0,デフォルトに戻す
+33628491,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEARDisabled,ITXT,51530,使う
+33628491,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEARDisabled,DESC,0,"装備品の保温力(W.E.A.R.)
+
+「使う」に設定すると、装備品の保温力は「低い・並・高い」の3段階に分けられます。
+低い保温力の装備品： シャツなしの毛皮の鎧、革、鋲付き、鉄、帯鉄の鎧
+高い保温力の装備品： 袖付きの毛皮の鎧、オーク
+袖なしの毛皮の鎧とその他の装備品は、すべて並の保温力に分類されます。「差ヴバイバルスキル」から「チェック・イクイプメント」の項目を選択すると各装備品の保温力を変更できます。
+
+現在の設定： 使わない"
+33628490,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabled,ITXT:3,2362,戻る
+33628490,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabled,ITXT:2,0,デフォルトに戻す
+33628490,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabled,ITXT,0,使わない
+33628490,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabled,DESC,0,"装備品の保温力(W.E.A.R.)
+
+「使う」に設定すると、装備品の保温力は「低い・並・高い」の3段階に分けられます。
+低い保温力の装備品： シャツなしの毛皮の鎧、革、鋲付き、鉄、帯鉄の鎧
+高い保温力の装備品： 袖付きの毛皮の鎧、オーク
+袖なしの毛皮の鎧とその他の装備品は、すべて並の保温力に分類されます。「差ヴバイバルスキル」から「チェック・イクイプメント」の項目を選択すると各装備品の保温力を変更できます。
+
+現在の設定： 使う"
+33674311,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabledConfirm,ITXT,2498,OK
+33674311,_DE_Backpack_Menu2_Setup_OptionsHardcore_BEAREnabledConfirm,DESC,0,"W.E.A.R.の設定を変更するので装備品を外します。
+
+装備し直すと保温力が反映されます。"
+33865183,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementAdvanced,ITXT:2,45268,終了
+33865183,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementAdvanced,ITXT,0,使わない
+33865183,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementAdvanced,DESC,0,"設置マーカー
+
+「使う」場合、キャンプ道具を設置可能な場合、プレイヤーの正面に青色のマーカーが表示されます。設置場所を正確に決められます。
+「使わない」場合、地面に置かれたキャンプ道具をアクティベートした場所に設置されます。
+現在の設定：使う"
+33865182,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementSimple,ITXT:2,45268,終了
+33865182,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementSimple,ITXT,51530,使う
+33865182,_DE_Backpack_Menu2_Setup_OptionsObjectPlacementSimple,DESC,0,"設置マーカー
+
+「使う」場合、キャンプ道具を設置可能な場合、プレイヤーの正面に青色のマーカーが表示されます。設置場所を正確に決められます。
+「使わない」場合、地面に置かれたキャンプ道具をアクティベートした場所に設置されます。
+現在の設定：使わない"
+33865180,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationOFF,ITXT:2,45268,終了
+33865180,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationOFF,ITXT,51530,使う
+33865180,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationOFF,DESC,0,"プレイヤーアニメーション
+
+「使う」場合、熱源の側にいる時にプレイヤーが手をかざす動作を行います。この動作の発生には、熱源のそばに三人称視点で数秒間たたずむ必要があります。動作をキャンセルするには移動キーを押してください。コントローラ―の場合、抜刀、ジャンプ、攻撃ボタンを押すとキャンセルできます。
+
+現在の設定：使わない"
+33865181,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationON,ITXT:2,45268,終了
+33865181,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationON,ITXT,0,使わない
+33865181,_DE_Backpack_Menu2_Setup_OptionsPlayerAnimationON,DESC,0,"プレイヤーアニメーション
+
+「使う」場合、熱源の側にいる時にプレイヤーが手をかざす動作を行います。この動作の発生には、熱源のそばに三人称視点で数秒間たたずむ必要があります。動作をキャンセルするには移動キーを押してください。コントローラ―の場合、抜刀、ジャンプ、攻撃ボタンを押すとキャンセルできます。
+
+現在の設定：使う"
+33865178,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsOFF,ITXT:2,45268,終了
+33865178,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsOFF,ITXT,51530,使う
+33865178,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsOFF,DESC,0,"効果音
+
+「使う」場合、凍えた状態になると身体が震えるような音が再生されます。
+
+現在の設定：使わない"
+33865179,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsON,ITXT:2,45268,終了
+33865179,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsON,ITXT,0,使わない
+33865179,_DE_Backpack_Menu2_Setup_OptionsSoundEffectsON,DESC,0,"効果音
+
+「使う」場合、凍えた状態になると身体が震えるような音が再生されます。
+
+現在の設定：使う"
+33616024,_DE_Backpack_Menu2_Setup_OptionsTentDisabled,ITXT:2,2362,戻る
+33616024,_DE_Backpack_Menu2_Setup_OptionsTentDisabled,ITXT,51530,使う
+33616024,_DE_Backpack_Menu2_Setup_OptionsTentDisabled,DESC,0,"斧の耐久性
+
+「使う(デフォルトの設定)」場合、斧は耐久値を持ちます。15回使用可能で、修理するには薪が必要です。
+
+「使わない」場合、斧は何度でも使用できます。
+
+現在の設定：使わない"
+33616023,_DE_Backpack_Menu2_Setup_OptionsTentEnabled,ITXT:2,2362,戻る
+33616023,_DE_Backpack_Menu2_Setup_OptionsTentEnabled,ITXT,0,使わない
+33616023,_DE_Backpack_Menu2_Setup_OptionsTentEnabled,DESC,0,"斧の耐久性
+
+「使う(デフォルトの設定)」場合、斧は耐久値を持ちます。15回使用可能で、修理するには薪が必要です。
+
+「使わない」場合、斧は何度でも使用できます。
+
+現在の設定：使う"
+33707585,_DE_Backpack_Menu2_Setup_OptionsTutorialsOFF,ITXT:3,2362,戻る
+33707585,_DE_Backpack_Menu2_Setup_OptionsTutorialsOFF,ITXT:2,0,チュートリアルをリセット
+33707585,_DE_Backpack_Menu2_Setup_OptionsTutorialsOFF,ITXT,51530,使う
+33707585,_DE_Backpack_Menu2_Setup_OptionsTutorialsOFF,DESC,0,"チュートリアル
+
+「使う」場合、状況や行動に応じたメッセージが表示されます。初めて「降霜の月」を使用するプレイヤーが、すぐに遊べるようにデザインされています。
+
+「使わない」場合、チュートリアル用のメッセージは表示されません。
+
+現在の設定： 使わない"
+33707586,_DE_Backpack_Menu2_Setup_OptionsTutorialsON,ITXT:3,2362,戻る
+33707586,_DE_Backpack_Menu2_Setup_OptionsTutorialsON,ITXT:2,0,チュートリアルをリセット
+33707586,_DE_Backpack_Menu2_Setup_OptionsTutorialsON,ITXT,0,使わない
+33707586,_DE_Backpack_Menu2_Setup_OptionsTutorialsON,DESC,0,"チュートリアル
+
+「使う」場合、状況や行動に応じたメッセージが表示されます。初めて「降霜の月」を使用するプレイヤーが、すぐに遊べるようにデザインされています。
+
+「使わない」場合、チュートリアル用のメッセージは表示されません。
+
+現在の設定： 使う"
+33618821,_DE_Backpack_Menu2_Setup_OptionsUninstallNo,ITXT:2,2362,戻る
+33618821,_DE_Backpack_Menu2_Setup_OptionsUninstallNo,ITXT,0,「降霜の月」を停止する
+33618821,_DE_Backpack_Menu2_Setup_OptionsUninstallNo,DESC,0,"「降霜の月」の起動 / 停止
+「降霜の月」の起動 / 停止を切り替えます。  「停止」するとステータスへの影響をリセットします。 いつでも再起動できます。停止中はサバイバルスキルの使用、キャンプ道具の設置ができなくなります。
+
+アンインストール前には必ず「降霜の月」を停止して、ステータスへの影響をリセットしたデータを保存してください。ご注意ください！
+
+現在の設定： 起動中"
+33618820,_DE_Backpack_Menu2_Setup_OptionsUninstallYes,ITXT:2,2362,戻る
+33618820,_DE_Backpack_Menu2_Setup_OptionsUninstallYes,ITXT,0,「降霜の月」を起動する
+33618820,_DE_Backpack_Menu2_Setup_OptionsUninstallYes,DESC,0,"「降霜の月」の起動 / 停止
+「降霜の月」の起動 / 停止を切り替えます。  「停止」するとステータスへの影響をリセットします。 いつでも再起動できます。停止中はサバイバルスキルの使用、キャンプ道具の設置ができなくなります。
+
+アンインストール前には必ず「降霜の月」を停止して、ステータスへの影響をリセットしたデータを保存してください。ご注意ください！
+
+現在の設定： 停止中"
+33833274,_DE_Backpack_Menu2_Setup_OptionsVampirismOff,ITXT:2,2362,戻る
+33833274,_DE_Backpack_Menu2_Setup_OptionsVampirismOff,ITXT,51530,使う
+33833274,_DE_Backpack_Menu2_Setup_OptionsVampirismOff,DESC,0,"吸血症とアンデッドの利点
+
+「使う」場合、吸血症にかかっている間は体温変化が生じません。
+
+「使わない」場合、吸血症でも通常と同様に体温変化が生じます。
+
+現在の設定：使わない"
+33833273,_DE_Backpack_Menu2_Setup_OptionsVampirismOn,ITXT:2,2362,戻る
+33833273,_DE_Backpack_Menu2_Setup_OptionsVampirismOn,ITXT,0,使わない
+33833273,_DE_Backpack_Menu2_Setup_OptionsVampirismOn,DESC,0,"吸血症とアンデッドの利点
+
+「使う」場合、吸血症にかかっている間は体温変化が生じません。
+
+「使わない」場合、吸血症でも通常と同様に体温変化が生じます。
+
+現在の設定：使う"
+33616021,_DE_Backpack_Menu2_Setup_OptionsWaterDisabled,ITXT:2,2362,戻る
+33616021,_DE_Backpack_Menu2_Setup_OptionsWaterDisabled,ITXT,51530,使う
+33616021,_DE_Backpack_Menu2_Setup_OptionsWaterDisabled,DESC,0,"凍てつく水による即死
+
+デフォルトでは「使う」に設定されています。「使う」場合、凍てつく水で泳ぐと約30秒で死に至ります。猶予時間は適応力によって変化します。
+
+「使わない」場合、即死はしませんがスタミナが急速に下がります。
+
+現在の設定： 使わない
+
+"
+33616020,_DE_Backpack_Menu2_Setup_OptionsWaterEnabled,ITXT:2,2362,戻る
+33616020,_DE_Backpack_Menu2_Setup_OptionsWaterEnabled,ITXT,0,使わない
+33616020,_DE_Backpack_Menu2_Setup_OptionsWaterEnabled,DESC,0,"凍てつく水による即死
+
+デフォルトでは「使う」に設定されています。「使う」場合、凍てつく水で泳ぐと約30秒で死に至ります。猶予時間は適応力によって変化します。
+
+「使わない」場合、即死はしませんがスタミナが急速に下がります。
+
+現在の設定： 使う
+
+"
+33833266,_DE_Backpack_Menu2_Setup_RemoveGearOff,ITXT:2,45268,終了
+33833266,_DE_Backpack_Menu2_Setup_RemoveGearOff,ITXT,51530,使う
+33833266,_DE_Backpack_Menu2_Setup_RemoveGearOff,DESC,0,"テント内で装備品を外す
+
+「使う」場合、テント内で座ったり、寝転んだりする際に、自動的に「背嚢」「矢筒」「武器」「盾」が外れます。気温が十分に暖かったり、テント内に火がある場合、「靴」と「兜」も外れます。装備品は周囲に置かれます。拾い上げると元の場所に自動的に装備されます。
+「使わない」場合、テント内で装備品は外れません。
+
+現在の状態：使わない"
+33833265,_DE_Backpack_Menu2_Setup_RemoveGearOn,ITXT:2,45268,終了
+33833265,_DE_Backpack_Menu2_Setup_RemoveGearOn,ITXT,0,使わない
+33833265,_DE_Backpack_Menu2_Setup_RemoveGearOn,DESC,0,"テント内で装備品を外す
+
+「使う」場合、テント内で座ったり、寝転んだりする際に、自動的に「背嚢」「矢筒」「武器」「盾」が外れます。気温が十分に暖かったり、テント内に火がある場合、「靴」と「兜」も外れます。装備品は周囲に置かれます。拾い上げると元の場所に自動的に装備されます。
+「使わない」場合、テント内で装備品は外れません。
+
+現在の状態：使う"
+33664587,_DE_Backpack_Menu2_Setup_WaitDisableOff,ITXT:2,2362,戻る
+33664587,_DE_Backpack_Menu2_Setup_WaitDisableOff,ITXT,0,使わない
+33664587,_DE_Backpack_Menu2_Setup_WaitDisableOff,DESC,0,"屋外待機
+
+屋外待機の設定を切り替えます。
+
+(注意： 「使わない」場合、高速移動も使えなくなります！この二つは連動しています。高速移動を「使わない」に、屋外待機を「使う」に設定すれば、高速移動のみを無効化できます。
+
+現在の設定： 使う"
+33664586,_DE_Backpack_Menu2_Setup_WaitDisableOn,ITXT:2,2362,戻る
+33664586,_DE_Backpack_Menu2_Setup_WaitDisableOn,ITXT,51530,使う
+33664586,_DE_Backpack_Menu2_Setup_WaitDisableOn,DESC,0,"屋外待機
+
+屋外待機の設定を切り替えます。
+
+(注意： 「使わない」場合、高速移動も使えなくなります！この二つは連動しています。高速移動を「使わない」に、屋外待機を「使う」に設定すれば、高速移動のみを無効化できます。
+
+現在の設定： 使わない"
+33740909,_DE_Backpack_Stendarr,FULL,0,旅人の背嚢
+33740911,_DE_Backpack_Talos,FULL,0,旅人の背嚢
+33735266,_DE_Backpack_White,FULL,0,旅人の背嚢(白)
+33735266,_DE_Backpack_White,DESC,0,
+33740838,_DE_Backpack_White_Akatosh,FULL,0,旅人の背嚢(白) - アカトシュ
+33740838,_DE_Backpack_White_Akatosh,DESC,0,
+33740839,_DE_Backpack_White_Arkay,FULL,0,旅人の背嚢(白) - アーケイ
+33740839,_DE_Backpack_White_Arkay,DESC,0,
+33740840,_DE_Backpack_White_Dibella,FULL,0,旅人の背嚢(白) - ディベラ
+33740840,_DE_Backpack_White_Dibella,DESC,0,
+33749226,_DE_Backpack_White_Dragon,FULL,0,旅人の背嚢(白) - カイネ
+33749226,_DE_Backpack_White_Dragon,DESC,0,
+33740841,_DE_Backpack_White_Julianos,FULL,0,旅人の背嚢(白) - ジュリアノス
+33740841,_DE_Backpack_White_Julianos,DESC,0,
+33740842,_DE_Backpack_White_Kynareth,FULL,0,旅人の背嚢(白) - キナレス
+33740842,_DE_Backpack_White_Kynareth,DESC,0,
+33740843,_DE_Backpack_White_Mara,FULL,0,旅人の背嚢(白) - マーラ
+33740843,_DE_Backpack_White_Mara,DESC,0,
+33740844,_DE_Backpack_White_Stendarr,FULL,0,旅人の背嚢(白) - ステンダール
+33740844,_DE_Backpack_White_Stendarr,DESC,0,
+33740845,_DE_Backpack_White_Talos,FULL,0,旅人の背嚢(白) - タロス
+33740845,_DE_Backpack_White_Talos,DESC,0,
+33740846,_DE_Backpack_White_Zenithar,FULL,0,旅人の背嚢(白) - ゼニタール
+33740846,_DE_Backpack_White_Zenithar,DESC,0,
+33740913,_DE_Backpack_Zenithar,FULL,0,旅人の背嚢
+33657548,_DE_BackpackContainer,FULL,0,Basic Camping Supplies
+33735271,_DE_BackpackDisplay_Axe,FULL,0,背嚢 Display Axe
+33735271,_DE_BackpackDisplay_Axe,DESC,0,
+33735275,_DE_BackpackDisplay_CookingPot,FULL,0,背嚢 Display Axe
+33735275,_DE_BackpackDisplay_CookingPot,DESC,0,
+33735272,_DE_BackpackDisplay_Tent,FULL,0,背嚢 Display Axe
+33735272,_DE_BackpackDisplay_Tent,DESC,0,
+33735277,_DE_BackpackDisplay_Torch,FULL,0,背嚢 Display Axe
+33735277,_DE_BackpackDisplay_Torch,DESC,0,
+33735279,_DE_BackpackEffect_Axe_0,FULL,0,背嚢 Effect Axe Stage 0
+33735279,_DE_BackpackEffect_Axe_0,DNAM,0,
+33768693,_DE_BackpackEffect_Axe_1,FULL,0,背嚢 Effect Axe Stage 1
+33768693,_DE_BackpackEffect_Axe_1,DNAM,0,
+33768694,_DE_BackpackEffect_Axe_2,FULL,0,背嚢 Effect Axe Stage 2
+33768694,_DE_BackpackEffect_Axe_2,DNAM,0,
+33768695,_DE_BackpackEffect_Axe_3,FULL,0,背嚢 Effect Axe Stage 3
+33768695,_DE_BackpackEffect_Axe_3,DNAM,0,
+33768696,_DE_BackpackEffect_Axe_4,FULL,0,背嚢 Effect Axe Stage 4
+33768696,_DE_BackpackEffect_Axe_4,DNAM,0,
+33735280,_DE_BackpackEffect_CookingPot,FULL,0,背嚢 Effect Cooking Pot
+33735280,_DE_BackpackEffect_CookingPot,DNAM,0,
+33735281,_DE_BackpackEffect_Tent,FULL,0,背嚢 Effect Tent
+33735281,_DE_BackpackEffect_Tent,DNAM,0,
+33735282,_DE_BackpackEffect_Torch,FULL,0,背嚢 Effect Torch
+33735282,_DE_BackpackEffect_Torch,DNAM,0,
+33758966,_DE_BackpackEffect_Waterskin,FULL,0,背嚢 Effect Waterskin
+33758966,_DE_BackpackEffect_Waterskin,DNAM,0,
+33638155,_DE_BEAR_ArmorFull,DESC,0,高い保温力の鎧
+33638153,_DE_BEAR_ArmorLimited,DESC,0,低い保温力の鎧
+33638154,_DE_BEAR_ArmorStandard,DESC,0,並の保温力の鎧
+33638158,_DE_BEAR_ClothingFull,DESC,0,高い保温力の服
+33638156,_DE_BEAR_ClothingLimited,DESC,0,低い保温力の服
+33638157,_DE_BEAR_ClothingStandard,DESC,0,並の保温力の服
+33586938,_DE_Bedroll_ActualF,FULL,64874,ベッドロール
+33787071,_DE_Bedroll_NPC_F,FULL,0,予備のベッドロール
+33787072,_DE_Bedroll_NPC_FL,FULL,0,予備のベッドロール
+33787073,_DE_Bedroll_NPC_FR,FULL,0,予備のベッドロール
+33787074,_DE_Bedroll_NPC_L,FULL,0,予備のベッドロール
+33787075,_DE_Bedroll_NPC_R,FULL,0,予備のベッドロール
+33842973,_DE_BookActivatorRespawn,RNAM,68423,取る
+33842973,_DE_BookActivatorRespawn,FULL,0,スカイリム・サバイバルガイド
+33643693,_DE_BookMenu_FirstTime,DESC,0,夜空を眺めながら、今までに荒野で得た知識を思い起こしていた。そういえば昔、厳しい土地で生き残るための知識が書かれた本を持っていた。そんなことを考えながら荷物を開けてみると「スカイリム・サバイバルガイド」が入っている。この本を持っていただろうか、どこかから現われたのだろうかと首をかしげる。表紙に指を這わせ、本を注意深く荷物に戻す。決して失われない物もあるのだ、と思いながら。
+33643695,_DE_BookMenu_FirstTime2,DESC,0,スカイリムの寒さに対峙する準備が整った
+33643696,_DE_BookMenu_FirstTime3,DESC,0,「降霜の月」のパワーを使うかMCMから詳細設定する
+33643692,_DE_BookMenu_Main,ITXT:2,0,Continue Reading (Exit)
+33643692,_DE_BookMenu_Main,ITXT,0,Rewrite the Guide (Configure)
+33643692,_DE_BookMenu_Main,DESC,0,「スカイリム・サバイバルガイド」を開きます。どうしますか？
+33747845,_DE_CampChair,FULL,0,簡素な椅子
+33658953,_DE_CampCookingPot_MISC,FULL,0,調理鍋
+33709000,_DE_Campfire_FuelContainer,FULL,0,たき火
+33709001,_DE_Campfire_RingBaseACT,RNAM,0,Tend To
+33709001,_DE_Campfire_RingBaseACT,FULL,0,たき火
+33816593,_DE_Campfire_Simple,FULL,0,たき火
+33820737,_DE_Campfire_Simple_Menu_Lit,ITXT:2,45268,終了
+33820737,_DE_Campfire_Simple_Menu_Lit,ITXT,0,火の始末
+33820737,_DE_Campfire_Simple_Menu_Lit,DESC,0,どうしますか？
+33820736,_DE_Campfire_Simple_Menu_Unlit,ITXT:4,45268,終了
+33820736,_DE_Campfire_Simple_Menu_Unlit,ITXT:3,0,火の始末
+33820736,_DE_Campfire_Simple_Menu_Unlit,ITXT:2,0,枯れ枝を追加する (15)
+33820736,_DE_Campfire_Simple_Menu_Unlit,ITXT,0,薪を追加する (6)
+33820736,_DE_Campfire_Simple_Menu_Unlit,DESC,0,"薪(6本)か、枯れ枝(15本)が必要です。
+
+どうしますか？"
+33709013,_DE_Campfire2Spell,FULL,0,サバイバルスキル: たき火
+33709013,_DE_Campfire2Spell,DESC,0,たき火の設置
+33557861,_DE_CampFireKit_MISC,FULL,0,Fire Kit
+33557864,_DE_CampFireKit_MISC_Menu,ITXT:3,10327,キャンセル
+33557864,_DE_CampFireKit_MISC_Menu,ITXT:2,2251,拾う
+33557864,_DE_CampFireKit_MISC_Menu,ITXT,0,たき火の設置
+33557864,_DE_CampFireKit_MISC_Menu,FULL,0,Fire Kit
+33557864,_DE_CampFireKit_MISC_Menu,DESC,0,項目を選んでください
+33559253,_DE_CampFireKit_Placed_ACT_Menu,ITXT:2,10327,キャンセル
+33559253,_DE_CampFireKit_Placed_ACT_Menu,ITXT,0,火の始末
+33559253,_DE_CampFireKit_Placed_ACT_Menu,FULL,0,Fire Kit
+33559253,_DE_CampFireKit_Placed_ACT_Menu,DESC,0,"どうしますか？
+
+(調理鍋があれば、火の始末をする際に一緒に回収します。)"
+33624349,_DE_CampFireKit_Placed_Rekindle,FULL,0,Fire Kit
+33624349,_DE_CampFireKit_Placed_Rekindle,DESC,0,薪を補充した
+33624350,_DE_CampFireKit_Placed_RekindleError,ITXT,2362,戻る
+33624350,_DE_CampFireKit_Placed_RekindleError,FULL,0,Fire Kit
+33624350,_DE_CampFireKit_Placed_RekindleError,DESC,0,たき火の再点火には薪が2本必要です。
+33670123,_DE_CampFireKit_PlacedManual_ACT_Menu,ITXT:2,10327,キャンセル
+33670123,_DE_CampFireKit_PlacedManual_ACT_Menu,ITXT,0,火の始末
+33670123,_DE_CampFireKit_PlacedManual_ACT_Menu,FULL,0,Fire Kit
+33670123,_DE_CampFireKit_PlacedManual_ACT_Menu,DESC,0,"たいまつか炎の呪文で点火できる。
+
+どうしますか？
+
+(調理鍋がある場合、火の始末をする際に一緒に回収します。)"
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,ITXT:3,10327,キャンセル
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,ITXT:2,0,火の始末
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,ITXT,0,薪を追加
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,FULL,0,Fire Kit
+33624348,_DE_CampFireKit_PlacedUnlit_ACT_Menu,DESC,0,"どうしますか？
+
+たき火の再点火には薪2本が必要です。
+
+(調理鍋がある場合、火の始末をする際に一緒に回収します。)"
+33778511,_DE_CampTanningRack,FULL,71158,皮なめしの棚
+33559250,_DE_CampTent_MISC_Menu,ITXT:3,10327,キャンセル
+33559250,_DE_CampTent_MISC_Menu,ITXT:2,2251,拾う
+33559250,_DE_CampTent_MISC_Menu,ITXT,0,テントの調整
+33559250,_DE_CampTent_MISC_Menu,FULL,0,テント
+33559250,_DE_CampTent_MISC_Menu,DESC,0,項目を選んでください
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT:5,45268,終了
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT:4,0,ランタンを使う
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT:3,0,片付ける
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT:2,0,横になる
+33559254,_DE_CampTent_Placed_ACT_Menu,ITXT,3945,座る
+33559254,_DE_CampTent_Placed_ACT_Menu,FULL,0,テント
+33559254,_DE_CampTent_Placed_ACT_Menu,DESC,0,項目を選んでください
+33778517,_DE_CampTent2_DropChoice,ITXT:2,74716,置く
+33778517,_DE_CampTent2_DropChoice,ITXT,0,テントの調整
+33778517,_DE_CampTent2_DropChoice,DESC,0,項目を選んでください
+33778510,_DE_CampTent2_HideSmall_MISC,FULL,0,毛皮のテント(小)、ベッドロール
+33789871,_DE_CampTent2_LargeHide1BRACT,RNAM,51530,使う
+33789871,_DE_CampTent2_LargeHide1BRACT,FULL,64874,ベッドロール
+33789872,_DE_CampTent2_LargeHide2BRACT,RNAM,51530,使う
+33789872,_DE_CampTent2_LargeHide2BRACT,FULL,64874,ベッドロール
+33789873,_DE_CampTent2_LargeHide3BRACT,RNAM,51530,使う
+33789873,_DE_CampTent2_LargeHide3BRACT,FULL,64874,ベッドロール
+33789874,_DE_CampTent2_LargeHide4BRACT,RNAM,51530,使う
+33789874,_DE_CampTent2_LargeHide4BRACT,FULL,64874,ベッドロール
+33789883,_DE_CampTent2_LargeLeather1BRACT,RNAM,51530,使う
+33789883,_DE_CampTent2_LargeLeather1BRACT,FULL,64874,ベッドロール
+33789884,_DE_CampTent2_LargeLeather2BRACT,RNAM,51530,使う
+33789884,_DE_CampTent2_LargeLeather2BRACT,FULL,64874,ベッドロール
+33789885,_DE_CampTent2_LargeLeather3BRACT,RNAM,51530,使う
+33789885,_DE_CampTent2_LargeLeather3BRACT,FULL,64874,ベッドロール
+33777075,_DE_CampTent2_LayMenu,ITXT:5,45268,終了
+33777075,_DE_CampTent2_LayMenu,ITXT:4,9,立つ
+33777075,_DE_CampTent2_LayMenu,ITXT:3,0,視点切り替え
+33777075,_DE_CampTent2_LayMenu,ITXT:2,0,ランタンを使う
+33777075,_DE_CampTent2_LayMenu,ITXT,50091,眠る
+33777075,_DE_CampTent2_LayMenu,FULL,0,テント
+33777075,_DE_CampTent2_LayMenu,DESC,0,"項目を選んでください
+
+EP: %.0f 水濡れ: %.0f%%"
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT:5,45268,終了
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT:4,9,立つ
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT:3,0,視点切り替え
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT:2,0,ランタンを使う
+33863796,_DE_CampTent2_LayMenu_Positive,ITXT,50091,眠る
+33863796,_DE_CampTent2_LayMenu_Positive,FULL,0,テント
+33863796,_DE_CampTent2_LayMenu_Positive,DESC,0,"項目を選んでください
+
+EP: %.0f 水濡れ: %.0f%%"
+33661716,_DE_CampTent2_LeatherSmall1BR_MISC,FULL,0,革のテント(小)、ベッドロール
+33778544,_DE_CampTent2_LeatherSmall2BR_MISC,FULL,0,革のテント(小)、ベッドロース×2
+33777074,_DE_CampTent2_SitMenu,ITXT:4,45268,終了
+33777074,_DE_CampTent2_SitMenu,ITXT:3,9,立つ
+33777074,_DE_CampTent2_SitMenu,ITXT:2,0,視点切り替え
+33777074,_DE_CampTent2_SitMenu,ITXT,0,ランタンを使う
+33777074,_DE_CampTent2_SitMenu,FULL,0,テント
+33777074,_DE_CampTent2_SitMenu,DESC,0,"項目を選んでください
+
+EP: %.0f 水濡れ: %.0f%%"
+33863795,_DE_CampTent2_SitMenu_Positive,ITXT:4,45268,終了
+33863795,_DE_CampTent2_SitMenu_Positive,ITXT:3,9,立つ
+33863795,_DE_CampTent2_SitMenu_Positive,ITXT:2,0,視点切り替え
+33863795,_DE_CampTent2_SitMenu_Positive,ITXT,0,ランタンを使う
+33863795,_DE_CampTent2_SitMenu_Positive,FULL,0,テント
+33863795,_DE_CampTent2_SitMenu_Positive,DESC,0,"項目を選んでください
+
+EP: %.0f 水濡れ: %.0f%%"
+33777072,_DE_CampTent2_SmallHideACT,RNAM,51530,使う
+33777072,_DE_CampTent2_SmallHideACT,FULL,64874,ベッドロール
+33778537,_DE_CampTent2_SmallLeather1BRACT,RNAM,51530,使う
+33778537,_DE_CampTent2_SmallLeather1BRACT,FULL,64874,ベッドロール
+33789882,_DE_CampTent2_SmallLeather2BRACT,RNAM,51530,使う
+33789882,_DE_CampTent2_SmallLeather2BRACT,FULL,64874,ベッドロール
+33777076,_DE_CampTent2_WaitMenu,ITXT:6,2362,戻る
+33777076,_DE_CampTent2_WaitMenu,ITXT:5,0,待機
+33777076,_DE_CampTent2_WaitMenu,ITXT:4,0,+6 時間
+33777076,_DE_CampTent2_WaitMenu,ITXT:3,0,+1 時間
+33777076,_DE_CampTent2_WaitMenu,ITXT:2,0,-1 時間
+33777076,_DE_CampTent2_WaitMenu,ITXT,0,-6 時間
+33777076,_DE_CampTent2_WaitMenu,FULL,0,テント
+33777076,_DE_CampTent2_WaitMenu,DESC,0,"どれくらい待機しますか？
+
+%.0f 時間"
+33785485,_DE_CampTent2_WaitUntilMenu,ITXT:3,2362,戻る
+33785485,_DE_CampTent2_WaitUntilMenu,ITXT:2,0,嵐が過ぎるまで
+33785485,_DE_CampTent2_WaitUntilMenu,ITXT,60982,朝
+33785485,_DE_CampTent2_WaitUntilMenu,FULL,0,テント
+33785485,_DE_CampTent2_WaitUntilMenu,DESC,0,
+33661768,_DE_CampTentHideLarge_1BR,FULL,0,毛皮のテント(大)、ベッドロール
+33661767,_DE_CampTentHideLarge_2BR,FULL,0,毛皮のテント(大)、ベッドロールx2
+33661758,_DE_CampTentHideLarge_3BR,FULL,0,毛皮のテント(大)、ベッドロールx3
+33661757,_DE_CampTentHideLarge_4BR,FULL,0,毛皮のテント(大)、ベッドロールx4
+33787068,_DE_CampTentLeatherLarge_1BR,FULL,0,革のテント(大)、ベッドロール
+33787069,_DE_CampTentLeatherLarge_2BR,FULL,0,革のテント(大)、ベッドロール×2
+33787070,_DE_CampTentLeatherLarge_3BR,FULL,0,革のテント(大)、ベッドロール×3
+33660335,_DE_CampTorch_MISC,FULL,36608,たいまつ
+33709015,_DE_CampVis_CampfireEffect,DNAM,0,
+33746460,_DE_CampVis_CampTanningRack,FULL,71158,皮なめしの棚
+33785480,_DE_CampVis_Cancelled,DESC,0,キャンセル
+33823570,_DE_CampVis_CookingPot,FULL,0,調理鍋
+33789870,_DE_CampVisIllegal,ITXT:2,2362,戻る
+33789870,_DE_CampVisIllegal,ITXT,10327,キャンセル
+33789870,_DE_CampVisIllegal,DESC,0,ここでたき火をするのは違法行為だ。居住地や建物の側ではキャンプ道具を設置できない
+33746458,_DE_CampVisPrompt_Campfire,ITXT:3,2362,戻る
+33746458,_DE_CampVisPrompt_Campfire,ITXT:2,10327,キャンセル
+33746458,_DE_CampVisPrompt_Campfire,ITXT,0,たき火の設置
+33746458,_DE_CampVisPrompt_Campfire,DESC,0,項目を選んでください
+33823571,_DE_CampVisPrompt_CookingPot,ITXT:3,2362,戻る
+33823571,_DE_CampVisPrompt_CookingPot,ITXT:2,10327,キャンセル
+33823571,_DE_CampVisPrompt_CookingPot,ITXT,0,ここに設置
+33823571,_DE_CampVisPrompt_CookingPot,DESC,0,項目を選んでください
+33785471,_DE_CampVisPrompt_Enchanting,ITXT:3,2362,戻る
+33785471,_DE_CampVisPrompt_Enchanting,ITXT:2,10327,キャンセル
+33785471,_DE_CampVisPrompt_Enchanting,ITXT,0,ここに設置
+33785471,_DE_CampVisPrompt_Enchanting,DESC,0,項目を選んでください
+33785486,_DE_CampVisPrompt_TanningRack,ITXT:3,2362,戻る
+33785486,_DE_CampVisPrompt_TanningRack,ITXT:2,10327,キャンセル
+33785486,_DE_CampVisPrompt_TanningRack,ITXT,0,ここに設置
+33785486,_DE_CampVisPrompt_TanningRack,DESC,0,項目を選んでください
+33746465,_DE_CampVisPrompt_Tent,ITXT:3,2362,戻る
+33746465,_DE_CampVisPrompt_Tent,ITXT:2,10327,キャンセル
+33746465,_DE_CampVisPrompt_Tent,ITXT,0,ここに設営
+33746465,_DE_CampVisPrompt_Tent,DESC,0,項目を選んでください
+33746450,_DE_CampVisTrigger_Campfire,RNAM,0,設置する
+33746450,_DE_CampVisTrigger_Campfire,FULL,0,たき火
+33746463,_DE_CampVisTrigger_CampTentHideSmall,RNAM,0,調整
+33746463,_DE_CampVisTrigger_CampTentHideSmall,FULL,0,テント
+33778542,_DE_CampVisTrigger_CampTentLeatherSmall,RNAM,0,調整
+33778542,_DE_CampVisTrigger_CampTentLeatherSmall,FULL,0,テント
+33826334,_DE_CampVisTrigger_CookingPot,RNAM,74716,置く
+33826334,_DE_CampVisTrigger_CookingPot,FULL,0,調理鍋
+33785469,_DE_CampVisTrigger_Enchanting,RNAM,74716,置く
+33785469,_DE_CampVisTrigger_Enchanting,FULL,0,符呪の魔法陣
+33785487,_DE_CampVisTrigger_TanningRack,RNAM,74716,置く
+33785487,_DE_CampVisTrigger_TanningRack,FULL,71158,皮なめしの棚
+33661714,_DE_CanvasSheet,FULL,0,Small Canvas Sheet
+33661715,_DE_CanvasSheetLarge,FULL,0,Canvas Tarp
+33869410,_DE_Chest_Shelter,FULL,57699,宝箱
+33815196,_DE_Cloak_BasicBurlap,FULL,0,旅人の外套 - バーラップ
+33815196,_DE_Cloak_BasicBurlap,DESC,0,
+33815198,_DE_Cloak_BasicFur,FULL,0,旅人の外套 - 毛皮
+33815198,_DE_Cloak_BasicFur,DESC,0,
+33815199,_DE_Cloak_BasicHide,FULL,0,旅人の外套 - 革
+33815199,_DE_Cloak_BasicHide,DESC,0,
+33815197,_DE_Cloak_BasicLinen,FULL,0,旅人の外套 - リネン
+33815197,_DE_Cloak_BasicLinen,DESC,0,
+33674313,_DE_CloakState_Spell,FULL,0,外套
+33674313,_DE_CloakState_Spell,DESC,0,
+33775597,_DE_CloakState_Spell_Burlap,FULL,0,外套
+33775597,_DE_CloakState_Spell_Burlap,DESC,0,
+33775603,_DE_CloakState_Spell_Fur,FULL,0,外套
+33775603,_DE_CloakState_Spell_Fur,DESC,0,
+33775601,_DE_CloakState_Spell_Hide,FULL,0,外套
+33775601,_DE_CloakState_Spell_Hide,DESC,0,
+33775599,_DE_CloakState_Spell_Linen,FULL,0,外套
+33775599,_DE_CloakState_Spell_Linen,DESC,0,
+33674310,_DE_CloakStateEffect,FULL,0,防寒、防水
+33674310,_DE_CloakStateEffect,DNAM,0,外套のおかげで体温低下が<10%>遅くなり、雨中で身体が濡れるまでの時間が<50%>延長される。
+33775593,_DE_CloakStateEffect_Burlap,FULL,0,防寒、防水
+33775593,_DE_CloakStateEffect_Burlap,DNAM,0,外套のおかげで体温低下が<5%>遅くなり、雨中で身体が濡れるまでの時間が<50%>延長される。乾くまでの時間は<50%>延長される
+33775596,_DE_CloakStateEffect_Fur,FULL,0,防寒、防水
+33775596,_DE_CloakStateEffect_Fur,DNAM,0,外套のおかげで体温低下が<15%>遅くなり、雨中で身体が濡れるまでの時間が<50%>延長される。乾くまでの時間は<100%>延長される
+33775595,_DE_CloakStateEffect_Hide,FULL,0,防寒、防水
+33775595,_DE_CloakStateEffect_Hide,DNAM,0,外套のおかげで体温低下が<7%>遅くなり、雨中で身体が濡れるまでの時間が<150%>延長される。
+33775594,_DE_CloakStateEffect_Linen,FULL,0,防寒、防水
+33775594,_DE_CloakStateEffect_Linen,DNAM,0,外套のおかげで体温低下が<10%>遅くなり、雨中で身体が濡れるまでの時間が<75%>延長される。乾くまでの時間は<25%>長くなる
+33842971,_DE_ColdCap,DESC,0,熱源によって寒さから守られている
+33595257,_DE_ColdWater_1,FULL,0,冷たい水
+33595257,_DE_ColdWater_1,DESC,0,
+33595258,_DE_ColdWater_2,FULL,0,とても冷たい水
+33595258,_DE_ColdWater_2,DESC,0,
+33595261,_DE_ColdWater_3,FULL,0,凍てつく水
+33595261,_DE_ColdWater_3,DESC,0,
+33827727,_DE_ColdWater_3_Perk,FULL,0,凍てつく水
+33827727,_DE_ColdWater_3_Perk,DESC,0,
+33598019,_DE_ColdWater_Death,FULL,0,凍てつく水
+33598019,_DE_ColdWater_Death,DESC,0,
+33595253,_DE_ColdWater_Effect1,FULL,0,冷たい水
+33595253,_DE_ColdWater_Effect1,DNAM,0,
+33595254,_DE_ColdWater_Effect2,FULL,0,冷たい水
+33595254,_DE_ColdWater_Effect2,DNAM,0,
+33595255,_DE_ColdWater_Effect3,FULL,0,冷たい水
+33595255,_DE_ColdWater_Effect3,DNAM,0,
+33827726,_DE_ColdWater_Effect3_Perk,FULL,0,冷たい水
+33827726,_DE_ColdWater_Effect3_Perk,DNAM,0,
+33595256,_DE_ColdWater_Effect3p,FULL,0,冷たい水
+33595256,_DE_ColdWater_Effect3p,DNAM,0,
+33833280,_DE_Combat_Error,DESC,0,戦闘中は使用できない
+33854053,_DE_CompatibilityFinished,DESC,0,キャンプ道具を使う準備が整った
+33750664,_DE_ConditioningEffect,FULL,0,防寒
+33750664,_DE_ConditioningEffect,DNAM,0,スカイリムで過ごした期間に応じて <mag><%> の防寒を得た
+33750665,_DE_ConditioningState_Spell,FULL,0,適応力
+33750665,_DE_ConditioningState_Spell,DESC,0,
+33860965,_DE_ConditioningState_Spell_SkyRe,FULL,0,適応力
+33860965,_DE_ConditioningState_Spell_SkyRe,DESC,0,
+33750669,_DE_Configuration_Effect,FULL,0,詳細設定
+33750669,_DE_Configuration_Effect,DNAM,0,
+33750667,_DE_Configuration_Spell,FULL,0,「降霜の月」の設定
+33750667,_DE_Configuration_Spell,DESC,0,「降霜の月」の機能を細かく調整する
+33563394,_DE_Container,FULL,73317,樽
+33600805,_DE_Container_BookBarrel,FULL,0,Book Barrel
+33571723,_DE_Container_TEST,FULL,0,Barrel of Camping Supplies
+33767270,_DE_ContainerBackpacks,FULL,0,Barrel of 背嚢s
+33824952,_DE_CookingPot_DropChoice,ITXT:2,74716,置く
+33824952,_DE_CookingPot_DropChoice,ITXT,0,設置
+33824952,_DE_CookingPot_DropChoice,DESC,0,項目を選んでください
+33829109,_DE_CookingPotError,DESC,0,料理するための火がない
+33823568,_DE_CookingPotFurniture,FULL,0,調理鍋
+33824954,_DE_CookingPotSelect,ITXT:3,45268,終了
+33824954,_DE_CookingPotSelect,ITXT:2,2251,拾う
+33824954,_DE_CookingPotSelect,ITXT,0,料理する
+33824954,_DE_CookingPotSelect,DESC,0,どうしますか？
+33658928,_DE_CraftingObject,FULL,0,サバイバルスキル
+33820741,_DE_CraftingPelt,FULL,0,清潔な毛皮
+33820740,_DE_CraftingSinew,FULL,0,細い革紐
+33707596,_DE_Deadwood01,FULL,0,枯れ枝
+33707590,_DE_DeadwoodContainer,FULL,0,枯れ枝の山
+33707600,_DE_DeadWoodHarvestSuccess,DESC,0,%.0f 本の枯れ枝を集めた
+33672893,_DE_DrinkDummy1,FULL,0,アルコール
+33672895,_DE_DrinkDummy2,FULL,0,アルコール
+33672897,_DE_DrinkDummy3,FULL,0,アルコール
+33670130,_DE_DrinkEffect1,FULL,0,アルコール
+33670130,_DE_DrinkEffect1,DNAM,0,身体が<10>ポイント/<3>分間が温まる。効果が切れると<15>ポイント冷える。
+33671513,_DE_DrinkEffect2,FULL,0,アルコール
+33671513,_DE_DrinkEffect2,DNAM,0,体温が<15>ポイント/<3>分間が上昇する。効果が切れると<20>ポイントの低下。
+33671514,_DE_DrinkEffect3,FULL,0,アルコール
+33671514,_DE_DrinkEffect3,DNAM,0,体温が<20>ポイント/<3>分間が上昇する。効果が切れると<25>ポイントの低下。
+33670128,_DE_DrinkSpell1,FULL,0,アルコール
+33670128,_DE_DrinkSpell1,DESC,0,体温が<10>ポイント/<3>分間上昇する。効果が切れると<15>ポイント低下する
+33671509,_DE_DrinkSpell2,FULL,0,アルコール
+33671509,_DE_DrinkSpell2,DESC,0,体温が<15>ポイント/<3>分間上昇する。効果が切れると<20>ポイント低下する
+33671511,_DE_DrinkSpell3,FULL,0,アルコール
+33671511,_DE_DrinkSpell3,DESC,0,体温が<20>ポイント/<3>分間上昇する。効果が切れると<25>ポイント低下する
+33830489,_DE_DummyPerk,DESC,0,
+33893029,_DE_DummyWeapon,DESC,0,
+33749230,_DE_dunHunterQSTAmuletEffect,FULL,0,カイネの祝福(弱)
+33749230,_DE_dunHunterQSTAmuletEffect,DNAM,0,動物から受けるダメージを5%減らす
+33749228,_DE_dunHunterQstEnchAmulet,FULL,0,旅人の背嚢
+33749227,_DE_dunHunterQstPerk,FULL,0,カイネの祝福(弱)
+33749227,_DE_dunHunterQstPerk,DESC,0,動物から受けるダメージが5%減る
+33785464,_DE_Enchanting,FULL,0,符呪の魔法陣
+33785478,_DE_Enchanting_BoneMealError,DESC,0,使うには骨粉が必要だ
+33785473,_DE_Enchanting_DropChoice,ITXT:2,74716,置く
+33785473,_DE_Enchanting_DropChoice,ITXT,0,設置
+33785473,_DE_Enchanting_DropChoice,DESC,0,項目を選んでください
+33785479,_DE_Enchanting_RuneFade,DESC,0,これらの文字はやがて消えてしまう
+33784082,_DE_EnchantingGroundEffect,FULL,0,Enchanting Ground Effect
+33784082,_DE_EnchantingGroundEffect,DNAM,0,
+33784080,_DE_EnchantingGroundSpell,FULL,0,Enchanting Ground Spell
+33784080,_DE_EnchantingGroundSpell,DESC,0,
+33785472,_DE_EnchantingMISC,FULL,0,符呪道具一式
+33785474,_DE_EnchantingSelect,ITXT:3,45268,終了
+33785474,_DE_EnchantingSelect,ITXT:2,0,片付ける
+33785474,_DE_EnchantingSelect,ITXT,51530,使う
+33785474,_DE_EnchantingSelect,DESC,0,どうしますか？
+33847114,_DE_EnchFortifyCarryConstantSelf,FULL,43864,持ち運び重量上昇
+33847114,_DE_EnchFortifyCarryConstantSelf,DNAM,74626,持ち運べる重量が <mag> 増加する。
+33834691,_DE_ExposureDeath,DESC,0,足がもつれて倒れ伏した
+33657547,_DE_FirewoodContainer,FULL,0,薪の山
+33620205,_DE_FirstBoot_Confirm,DESC,0,設定を保存しています
+33620203,_DE_FirstBootMsg,ITXT:2,0,いいえ (高速移動のコストを無効化)
+33620203,_DE_FirstBootMsg,ITXT,0,はい (デフォルトを適用する)
+33620203,_DE_FirstBootMsg,DESC,0,"「降霜の月」へようこそ
+ 「降霜の月」はスカイリムをシビアな極寒の地、危険でリアリティのある場所にします。 例えば、長旅の途中にはたき火を燃やす必要が生じます。 
+デフォルトでは高速移動をするのにたき火1つか薪3本が必要になります。必要なアイテムを所持した後、高速移動が可能になるまで10秒の時間が必要です。
+この設定を使用しますか？キャンプ道具を開くことで、いつでも設定を変更できます。"
+33899945,_DE_FlyingMountState_Spell,FULL,0,Flying Mount
+33899945,_DE_FlyingMountState_Spell,DESC,0,
+33899944,_DE_FlyingMountStateEffect,FULL,0,Riding Flying Mount
+33899944,_DE_FlyingMountStateEffect,DNAM,0,
+33592465,_DE_FoodBuff_Dispel,FULL,0,低体温症を防ぐ
+33592465,_DE_FoodBuff_Dispel,DNAM,0,
+33642312,_DE_FoodBuff10,FULL,0,防寒
+33642312,_DE_FoodBuff10,DNAM,0,温かい食事のおかげで体温低下が<5%>遅くなる。
+33642313,_DE_FoodBuff15,FULL,0,防寒
+33642313,_DE_FoodBuff15,DNAM,0,温かい食事のおかげで体温低下が<10%>遅くなる。
+33591077,_DE_FoodBuff20,FULL,0,防寒
+33591077,_DE_FoodBuff20,DNAM,0,温かい食事のおかげで体温低下が<10%>遅くなる。
+33591079,_DE_FoodBuff25,FULL,0,防寒
+33591079,_DE_FoodBuff25,DNAM,0,温かい食事のおかげで体温低下が<25%>遅くなる。
+33672902,_DE_FoodDummy10,FULL,0,温かい食事
+33672904,_DE_FoodDummy15,FULL,0,温かい食事
+33672906,_DE_FoodDummy20,FULL,0,温かい食事
+33672908,_DE_FoodDummy25,FULL,0,温かい食事
+33591078,_DE_FoodSpell1,FULL,0,温かい食事
+33591078,_DE_FoodSpell1,DESC,0,体温低下が<10%>遅くなる
+33642308,_DE_FoodSpell2,FULL,0,温かい食事
+33642308,_DE_FoodSpell2,DESC,0,体温低下が<15%>遅くなる
+33642310,_DE_FoodSpell3,FULL,0,温かい食事
+33642310,_DE_FoodSpell3,DESC,0,体温低下が<20%>遅くなる
+33670126,_DE_FoodSpell4,FULL,0,温かい食事
+33670126,_DE_FoodSpell4,DESC,0,体温低下が<25%>遅くなる
+33884703,_DE_HandWarmingEffect,FULL,0,手を温める
+33884703,_DE_HandWarmingEffect,DNAM,0,
+33884705,_DE_HandWarmingSpell,FULL,0,手を温める呪文
+33884705,_DE_HandWarmingSpell,DESC,0,
+33707591,_DE_HarvestWood,FULL,0,サバイバルスキル：薪集め
+33707591,_DE_HarvestWood,DESC,0,一時間かけて薪、丸太、枯れ枝を集める。薪と丸太を集めるには「木こりの斧」が必要だ。
+33707593,_DE_HarvestWood_Effect,FULL,0,薪を集める
+33707593,_DE_HarvestWood_Effect,DNAM,0,一時間かけて周囲の枯れ木から薪を集める。木こりの斧が必要。
+33696508,_DE_Help_ExposurePoints,FULL,0,体温の上昇
+33696508,_DE_Help_ExposurePoints,DESC,0,"体温が低下しています。
+
+体温が低下しすぎると悪影響に苦しめられます。火のそばで身体を温めましょう。アルコールを飲むことで一時的に体温を上昇させられます。
+
+デフォルトの設定では、低体温症の悪化によって死亡します。"
+33887470,_DE_Help_Tents,FULL,0,シェルター
+33887470,_DE_Help_Tents,DESC,0,"シェルター
+
+シェルターへの避難は乾いた状態と体温を維持するのに不可欠です。熱源の近くへテントを設営すればシェルターの恩恵を最大限に受けられます。
+
+革のテントは水を弾くので身体を濡らさずにすみますが、保温性がいまいちです。
+毛皮のテントの保温性は抜群なので体温を完全に維持できますが、雨が漏ります。
+
+頭を覆える場所に立てば、雨から身を守るシェルターになります。"
+33696509,_DE_Help_Vampirism,FULL,0,吸血症
+33696509,_DE_Help_Vampirism,DESC,0,"吸血症とアンデッド
+
+吸血鬼とアンデッドは低体温症の影響を受けない。スキルに悪影響を受けず、凍てつく水による害も受けない。"
+33750670,_DE_Help_Visualize,FULL,0,設置モード
+33750670,_DE_Help_Visualize,DESC,0,"設置モード
+
+設置したい場所に青いマーカーを移動させます。
+たき火を設置できる広さのあるテントに移動させるとマーカーはオレンジ色に光ります。テント内にたき火の設置が可能です。
+赤いマーカーは設置できないという印です。街中や建物に近すぎます。"
+33696510,_DE_Help_Wet,FULL,0,水で濡れている
+33696510,_DE_Help_Wet,DESC,0,"水濡れ
+
+雨に降られたり、泳いだりして身体が濡れると、体温が急速に下がります。乾いた場所で熱源にあたり、身体を十分に乾かしてください。
+
+外套をまとうことで雨の中で身体を濡らさずに活動できる時間が延長されます。"
+33631250,_DE_Hypo_Spell_0_2,FULL,0,体温：温かい
+33631250,_DE_Hypo_Spell_0_2,DESC,0,火のそばで過ごした名残で身体がポカポカしている。体力、マジカ、スタミナに<10>ポイント追加
+33574486,_DE_Hypo_Spell_1,FULL,0,体温：ちょうどいい
+33574486,_DE_Hypo_Spell_1,DESC,0,快適だ
+33574487,_DE_Hypo_Spell_2,FULL,0,体温：冷えている
+33574487,_DE_Hypo_Spell_2,DESC,0,体力、マジカ、スタミナの回復が<10%>遅くなる
+33574490,_DE_Hypo_Spell_3,FULL,0,体温： とても冷えている
+33574490,_DE_Hypo_Spell_3,DESC,0,体力、マジカ、スタミナ回復速度<25%>低下。弓術、片手剣、両手剣、防御、話術、全魔法スキル<10%>低下。スリ、解錠<30%>低下
+33574492,_DE_Hypo_Spell_4,FULL,0,体温：凍えている
+33574492,_DE_Hypo_Spell_4,DESC,0,体力、マジカ、スタミナ回復速度<50%>低下。弓術、片手剣、両手剣、防御、話術、全魔法スキル<30%>低下。スリ、解錠<60%>低下
+33703422,_DE_Hypo_Spell_4NoFrost,FULL,0,体温：凍えている
+33703422,_DE_Hypo_Spell_4NoFrost,DESC,0,体力、マジカ、スタミナ回復速度<50%>低下。弓術、片手剣、両手剣、防御、話術、全魔法スキル<30%>低下。スリ、解錠<60%>低下
+33574494,_DE_Hypo_Spell_5,FULL,0,体温：このままだと凍死する
+33574494,_DE_Hypo_Spell_5,DESC,0,体力、マジカ、スタミナ回復速度<75%>低下。弓術、片手剣、両手剣、防御、話術、全魔法スキル<60%>低下。スリ、解錠<100%>低下
+33703424,_DE_Hypo_Spell_5NoFrost,FULL,0,体温：このままだと凍死する
+33703424,_DE_Hypo_Spell_5NoFrost,DESC,0,体力、マジカ、スタミナ回復速度<75%>低下。弓術、片手剣、両手剣、防御、話術、全魔法スキル<60%>低下。スリ、解錠<100%>低下
+33593869,_DE_HypoState_0,DESC,0,温かい
+33593870,_DE_HypoState_0a,DESC,0,身体の芯まで温かい
+33593864,_DE_HypoState_1,DESC,0,快適だ
+33593865,_DE_HypoState_2,DESC,0,冷えている
+33593866,_DE_HypoState_3,DESC,0,とても冷えている
+33593867,_DE_HypoState_4,DESC,0,凍えている
+33593868,_DE_HypoState_5,DESC,0,このままだと凍死する！
+33577263,_DE_Hypothermia_Alteration,FULL,0,低体温：変性魔法の低下
+33577263,_DE_Hypothermia_Alteration,DNAM,0,
+33577257,_DE_Hypothermia_Archery,FULL,0,低体温：弓術の低下
+33577257,_DE_Hypothermia_Archery,DNAM,0,
+33577261,_DE_Hypothermia_Block,FULL,0,低体温：防御の低下
+33577261,_DE_Hypothermia_Block,DNAM,0,
+33577266,_DE_Hypothermia_Conjuration,FULL,0,低体温：召喚魔法の低下
+33577266,_DE_Hypothermia_Conjuration,DNAM,0,
+33577264,_DE_Hypothermia_Destruction,FULL,0,低体温：破壊魔法の低下
+33577264,_DE_Hypothermia_Destruction,DNAM,0,
+33578646,_DE_Hypothermia_Effect_Comfortable,FULL,0,体温：ちょうどいい
+33578646,_DE_Hypothermia_Effect_Comfortable,DNAM,0,
+33574481,_DE_Hypothermia_HealRateMult,FULL,0,体温：冷えている
+33574481,_DE_Hypothermia_HealRateMult,DNAM,0,
+33577267,_DE_Hypothermia_Illusion,FULL,0,低体温：幻惑魔法の低下
+33577267,_DE_Hypothermia_Illusion,DNAM,0,
+33577260,_DE_Hypothermia_Lockpicking,FULL,0,低体温：解錠の低下
+33577260,_DE_Hypothermia_Lockpicking,DNAM,0,
+33574485,_DE_Hypothermia_MagickaRateMult,FULL,0,低体温：マジカ回復量の低下
+33574485,_DE_Hypothermia_MagickaRateMult,DNAM,0,
+33577256,_DE_Hypothermia_OneHanded,FULL,0,低体温：片手剣の低下
+33577256,_DE_Hypothermia_OneHanded,DNAM,0,
+33577259,_DE_Hypothermia_Pickpocket,FULL,0,低体温：スリの低下
+33577259,_DE_Hypothermia_Pickpocket,DNAM,0,
+33577265,_DE_Hypothermia_Restoration,FULL,0,低体温：治癒魔法の低下
+33577265,_DE_Hypothermia_Restoration,DNAM,0,
+33577258,_DE_Hypothermia_Sneak,FULL,0,低体温：隠密の低下
+33577258,_DE_Hypothermia_Sneak,DNAM,0,
+33577262,_DE_Hypothermia_Speech,FULL,0,低体温：話術の低下
+33577262,_DE_Hypothermia_Speech,DNAM,0,
+33574482,_DE_Hypothermia_StaminaRateMult_2,FULL,0,体温：冷えている
+33574482,_DE_Hypothermia_StaminaRateMult_2,DNAM,0,
+33580030,_DE_Hypothermia_StaminaRateMult_3,FULL,0,体温： とても冷えている
+33580030,_DE_Hypothermia_StaminaRateMult_3,DNAM,0,
+33580031,_DE_Hypothermia_StaminaRateMult_4,FULL,0,体温：凍えている
+33580031,_DE_Hypothermia_StaminaRateMult_4,DNAM,0,
+33703420,_DE_Hypothermia_StaminaRateMult_4_NoFrost,FULL,0,体温：凍えている
+33703420,_DE_Hypothermia_StaminaRateMult_4_NoFrost,DNAM,0,
+33580032,_DE_Hypothermia_StaminaRateMult_5,FULL,0,体温：このままだと凍死する
+33580032,_DE_Hypothermia_StaminaRateMult_5,DNAM,0,
+33703421,_DE_Hypothermia_StaminaRateMult_5_NoFrost,FULL,0,体温：このままだと凍死する
+33703421,_DE_Hypothermia_StaminaRateMult_5_NoFrost,DNAM,0,
+33577255,_DE_Hypothermia_TwoHanded,FULL,0,低体温：両手剣の低下
+33577255,_DE_Hypothermia_TwoHanded,DNAM,0,
+33578648,_DE_Hypothermia_WarmHealth,FULL,0,体温：体力の上昇
+33578648,_DE_Hypothermia_WarmHealth,DNAM,0,
+33578650,_DE_Hypothermia_WarmMagicka,FULL,0,体温：マジカの増加
+33578650,_DE_Hypothermia_WarmMagicka,DNAM,0,
+33578651,_DE_Hypothermia_WarmStamina,FULL,0,体温：温かい
+33578651,_DE_Hypothermia_WarmStamina,DNAM,0,
+33806755,_DE_LoadingScreen1,DESC,0,スカイリムでもっとも寒い時間帯は夜間だ。日が沈んだら、野営地で朝まで過ごすのが最善の選択である。
+33808187,_DE_LoadingScreen10,DESC,0,アルコールは体温を短時間だけ上昇させる。効果が切れると、増えた分よりも多くの体温が低下する。
+33808189,_DE_LoadingScreen11,DESC,0,北部の地域での吹雪は致命的だ。頻繁に野営し、必要に応じて安全な場所に避難しなければならない。
+33808190,_DE_LoadingScreen12,DESC,0,水に濡れた状態だと体温が急速に低下する。
+33808191,_DE_LoadingScreen13,DESC,0,体温が低下して低体温症の危険性が高まるとスキルに悪影響を受ける。耐氷、天候、装備品など、体温の低下速度は様々な要素で決定する。
+33808192,_DE_LoadingScreen14,DESC,0,適応力が上がると防寒力も上昇する。
+33808194,_DE_LoadingScreen16,DESC,0,一時間かけて薪か枯れ枝を探せる。事態が悪化する前に準備を整えなければならない。
+33806756,_DE_LoadingScreen2,DESC,0,木こりの斧は重要な道具だ。斧を使って薪を集めると、たき火を作ったり、他の道具を作成できる。枯れ枝なら斧がなくても集められる。
+33806757,_DE_LoadingScreen3,DESC,0,たき火にあたると水が速く乾く。調理鍋があれば料理もできる。
+33806758,_DE_LoadingScreen4,DESC,0,毛皮のテントはとても暖かいが雨が漏る。
+33806759,_DE_LoadingScreen5,DESC,0,革のテントは水をはじくがあまり暖かくない。
+33806760,_DE_LoadingScreen6,DESC,0,雨や雪の間、たき火は大して役に立たない。洞窟や建物などの安全場所へ入り込み、身体を暖めて水を乾かすほうがいい。
+33806761,_DE_LoadingScreen7,DESC,0,壊れた木こりの斧は溶鉱炉を使って修理できる。
+33808293,_DE_LoadingScreen8a,DESC,0,サバイバルスキルを使用すると便利なアイテムを作成できる。
+33806806,_DE_LoadingScreen9,DESC,0,たいまつを装備する、スープやシチューを食べる、外套をまとうことで防寒力を得られる。
+33802606,_DE_LongBow,FULL,14952,ロングボウ
+33802606,_DE_LongBow,DESC,0,
+33643694,_DE_Main_1_6,NNAM,0,Get dat roll
+33643694,_DE_Main_1_6,FULL,59239,降霜の月
+33643694,_DE_Main_1_6,CNAM:3,0,The quest has been stopped.
+33643694,_DE_Main_1_6,CNAM:2,0,The quest is running.
+33643694,_DE_Main_1_6,CNAM,0,Initial State
+33833270,_DE_Menu2Options_Compatibility_WACError,ITXT,2362,戻る
+33833270,_DE_Menu2Options_Compatibility_WACError,DESC,0,"""Wet and Cold""は読みこまれていないか、正常に検出できませんでした。""Wet and Cold""を適切にインストールし直してください。"
+33833269,_DE_Menu2Options_Compatibility_WACSuccess,ITXT,2362,戻る
+33833269,_DE_Menu2Options_Compatibility_WACSuccess,DESC,0,"Wet and Cold互換性ウィザードを正常に適用しました。
+
+* ""Wet and Cold""の水濡れシェーダーを無効化しました。
+* 「降霜の月」の水濡れシェーダーを有効化しました。"
+33785483,_DE_MortarAndPestleFurniture,FULL,43695,乳鉢と乳棒
+33829107,_DE_MovementPenalty,FULL,0,低体温：移動速度の低下
+33829107,_DE_MovementPenalty,DNAM,0,
+33589696,_DE_NoWait,FULL,0,待機を使わない
+33589696,_DE_NoWait,DNAM,0,
+33589697,_DE_NoWait_Spell,FULL,0,待機を使わない
+33589697,_DE_NoWait_Spell,DESC,0,室外では待機できない
+33852657,_DE_PlacedObjectChoice,ITXT:3,45268,終了
+33852657,_DE_PlacedObjectChoice,ITXT:2,2251,拾う
+33852657,_DE_PlacedObjectChoice,ITXT,0,ここに設置
+33852657,_DE_PlacedObjectChoice,DESC,0,どうしますか？
+33852656,_DE_PlacedObjectIllegalLocation,ITXT:2,45268,終了
+33852656,_DE_PlacedObjectIllegalLocation,ITXT,2251,拾う
+33852656,_DE_PlacedObjectIllegalLocation,DESC,0,ここでたき火をするのは違法行為だ。居住地や建物の側ではキャンプ道具を設置できない
+33854061,_DE_PlacedObjectIllegalLocationNotice,DESC,0,ここでキャンプするのは違法行為だ
+33833283,_DE_Placement_Cancelled,DESC,0,キャンセル
+33888856,_DE_Placement_Cancelled_CollisionBug,ITXT:3,0,いいえ(二度と確認しない)
+33888856,_DE_Placement_Cancelled_CollisionBug,ITXT:2,1624,いいえ
+33888856,_DE_Placement_Cancelled_CollisionBug,ITXT,1234,はい
+33888856,_DE_Placement_Cancelled_CollisionBug,DESC,0,"設置マーカーの表示中にこのキャンプ用品の設置で問題が起きました。このエラーは(稀であることが多いのですが)スカイリムエンジン固有の問題であり修正できません。
+
+扉からの移動や高速移動でこのエリアを離れると、自動的に設置マーカー機能は正常に機能し始めます。
+
+設置マーカー機能をオフにしますか？"
+33834664,_DE_Placement_Combat,DESC,0,戦闘中はアイテムを設置できない
+33834665,_DE_Placement_InUse,DESC,0,すでに何らかのアイテムを設置中だ
+33834663,_DE_Placement_Multiple,DESC,0,二つ目は設置できない
+33834662,_DE_Placement_Swimming,DESC,0,水泳中はアイテムを設置できない
+33706196,_DE_PlayerStatus_Effect,FULL,0,ステータス
+33706196,_DE_PlayerStatus_Effect,DNAM,0,ランクとステータスを表示する
+33706194,_DE_PlayerStatus_Spell,FULL,0,サバイバルスキル：ステータス
+33706194,_DE_PlayerStatus_Spell,DESC,0,現在のステータスを表示する
+33706193,_DE_PlayerStatusScreen_Rank1,ITXT:3,45268,終了
+33706193,_DE_PlayerStatusScreen_Rank1,ITXT:2,0,ランクについて
+33706193,_DE_PlayerStatusScreen_Rank1,ITXT,28024,ヘルプ
+33706193,_DE_PlayerStatusScreen_Rank1,DESC,0,"ステータス
+***
+現在のEP： %.0f     水濡れ： %.0f%%
+
+保温力： %.0f / %.0f
+
+氷耐性： %.0f%%
+
+防寒： %.0f%%
+
+ランク： マッドクラブ"
+33752056,_DE_PlayerStatusScreen_Rank2,ITXT:3,45268,終了
+33752056,_DE_PlayerStatusScreen_Rank2,ITXT:2,0,ランクについて
+33752056,_DE_PlayerStatusScreen_Rank2,ITXT,28024,ヘルプ
+33752056,_DE_PlayerStatusScreen_Rank2,DESC,0,"ステータス
+***
+現在のEP： %.0f     水濡れ： %.0f%%
+
+保温力： %.0f / %.0f
+
+氷耐性： %.0f%%
+
+防寒： %.0f%%
+
+ランク： スキーヴァー"
+33752057,_DE_PlayerStatusScreen_Rank3,ITXT:3,45268,終了
+33752057,_DE_PlayerStatusScreen_Rank3,ITXT:2,0,ランクについて
+33752057,_DE_PlayerStatusScreen_Rank3,ITXT,28024,ヘルプ
+33752057,_DE_PlayerStatusScreen_Rank3,DESC,0,"ステータス
+***
+現在のEP： %.0f     水濡れ： %.0f%%
+
+保温力： %.0f / %.0f
+
+氷耐性： %.0f%%
+
+防寒： %.0f%%
+
+ランク： キツネ"
+33752058,_DE_PlayerStatusScreen_Rank4,ITXT:3,45268,終了
+33752058,_DE_PlayerStatusScreen_Rank4,ITXT:2,0,ランクについて
+33752058,_DE_PlayerStatusScreen_Rank4,ITXT,28024,ヘルプ
+33752058,_DE_PlayerStatusScreen_Rank4,DESC,0,"ステータス
+***
+現在のEP： %.0f     水濡れ： %.0f%%
+
+保温力： %.0f / %.0f
+
+氷耐性： %.0f%%
+
+防寒： %.0f%%
+
+ランク： オオカミ"
+33752059,_DE_PlayerStatusScreen_Rank5,ITXT:3,45268,終了
+33752059,_DE_PlayerStatusScreen_Rank5,ITXT:2,0,ランクについて
+33752059,_DE_PlayerStatusScreen_Rank5,ITXT,28024,ヘルプ
+33752059,_DE_PlayerStatusScreen_Rank5,DESC,0,"ステータス
+***
+現在のEP： %.0f     水濡れ： %.0f%%
+
+保温力： %.0f / %.0f
+
+氷耐性： %.0f%%
+
+防寒： %.0f%%
+
+ランク： ホラアナグマ"
+33752060,_DE_PlayerStatusScreen_Rank6,ITXT:3,45268,終了
+33752060,_DE_PlayerStatusScreen_Rank6,ITXT:2,0,ランクについて
+33752060,_DE_PlayerStatusScreen_Rank6,ITXT,28024,ヘルプ
+33752060,_DE_PlayerStatusScreen_Rank6,DESC,0,"ステータス
+***
+現在のEP： %.0f     水濡れ： %.0f%%
+
+保温力： %.0f / %.0f
+
+氷耐性： %.0f%%
+
+防寒： %.0f%%
+
+ランク： サーベルキャット"
+33752061,_DE_PlayerStatusScreen_Rank7,ITXT:3,45268,終了
+33752061,_DE_PlayerStatusScreen_Rank7,ITXT:2,0,ランクについて
+33752061,_DE_PlayerStatusScreen_Rank7,ITXT,28024,ヘルプ
+33752061,_DE_PlayerStatusScreen_Rank7,DESC,0,"ステータス
+***
+現在のEP： %.0f     水濡れ： %.0f%%
+
+保温力： %.0f / %.0f
+
+氷耐性： %.0f%%
+
+防寒： %.0f%%
+
+ランク： アイス・ウルフ"
+33752068,_DE_PlayerStatusScreen_RankVampire,ITXT:3,45268,終了
+33752068,_DE_PlayerStatusScreen_RankVampire,ITXT:2,0,ランクについて
+33752068,_DE_PlayerStatusScreen_RankVampire,ITXT,28024,ヘルプ
+33752068,_DE_PlayerStatusScreen_RankVampire,DESC,0,"ステータス
+***
+現在のEP： %.0f     水濡れ： %.0f%%
+
+保温力： %.0f / %.0f
+
+氷耐性： %.0f%%
+
+防寒： %.0f%%
+
+ランク： 不死者"
+33706197,_DE_PlayerStatusScreenHelp,ITXT,2362,戻る
+33706197,_DE_PlayerStatusScreenHelp,DESC,0,"ヘルプ
+***
+- EP： 体温。20から-99まで低下し、-100に到達すると死亡します。
+- 保温力： 全装備品(胴体、両手、脚、頭)の保温力の合計値。
+- 氷耐性： 氷耐性の合計値。
+- 防寒： 温かい食事、たいまつ、外套、適応力から得られる防寒の合計値。
+- ランク： ステータスの総計に基づいてランクを表示します。"
+33646459,_DE_Power1,DESC,0,EP： %.0f 水濡れ： %.0f%% - 身の危険を感じる凍てつく風
+33826336,_DE_Power1_NoStatus,DESC,0,身の危険を感じる凍てつく風
+33863783,_DE_Power1_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - 身の危険を感じる凍てつく風
+33646460,_DE_Power10,DESC,0,EP： %.0f 水濡れ： %.0f%% - 太陽がまぶしい
+33826337,_DE_Power10_NoStatus,DESC,0,太陽がまぶしい
+33863784,_DE_Power10_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - 太陽がまぶしい
+33685352,_DE_Power11,DESC,0,EP： %.0f 水濡れ： %.0f%% - 外気の様子はわからない
+33826338,_DE_Power11_NoStatus,DESC,0,外気の様子はわからない
+33863785,_DE_Power11_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - 外気の様子はわからない
+33757584,_DE_Power12,DESC,0,EP： %.0f 水濡れ： %.0f%% - このオブリビオンの領域は温暖だ
+33826339,_DE_Power12_NoStatus,DESC,0,このオブリビオンの領域は温暖だ
+33863786,_DE_Power12_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - このオブリビオンの領域は温暖だ
+33646461,_DE_Power2,DESC,0,EP： %.0f 水濡れ： %.0f%% - 身体の芯から凍るような風
+33826340,_DE_Power2_NoStatus,DESC,0,体の芯から凍るような風
+33863787,_DE_Power2_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - 身体の芯から凍るような風
+33646462,_DE_Power3,DESC,0,EP： %.0f 水濡れ： %.0f%% - 肌が切れるような冷たい風
+33826341,_DE_Power3_NoStatus,DESC,0,肌が切れるような冷たい風
+33863788,_DE_Power3_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - 肌が切れるような冷たい風
+33646463,_DE_Power4,DESC,0,EP： %.0f 水濡れ： %.0f%% - 冷たい風
+33826342,_DE_Power4_NoStatus,DESC,0,冷たい風
+33863789,_DE_Power4_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - 冷たい風
+33646464,_DE_Power5,DESC,0,EP： %.0f 水濡れ： %.0f%% - やや寒い風
+33826343,_DE_Power5_NoStatus,DESC,0,やや寒い風
+33863790,_DE_Power5_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - やや寒い風
+33646465,_DE_Power6,DESC,0,EP： %.0f 水濡れ： %.0f%% - 涼しい風
+33826344,_DE_Power6_NoStatus,DESC,0,涼しい風
+33863791,_DE_Power6_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - 涼しい風
+33646466,_DE_Power7,DESC,0,EP： %.0f 水濡れ： %.0f%% - ちょうどいい風
+33826345,_DE_Power7_NoStatus,DESC,0,ちょうどいい風
+33863792,_DE_Power7_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - ちょうどいい風
+33646467,_DE_Power8,DESC,0,EP： %.0f 水濡れ： %.0f%% - 心地よい風
+33826346,_DE_Power8_NoStatus,DESC,0,心地よい風
+33863793,_DE_Power8_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - 心地よい風
+33646468,_DE_Power9,DESC,0,EP： %.0f 水濡れ： %.0f%% - 暖かい風
+33826347,_DE_Power9_NoStatus,DESC,0,暖かい風
+33863794,_DE_Power9_Positive,DESC,0,EP： +%.0f 水濡れ： %.0f%% - 暖かい風
+33752049,_DE_Rank1,ITXT:2,2362,戻る
+33752049,_DE_Rank1,ITXT,0,豆知識
+33752049,_DE_Rank1,DESC,0,"ランク： マッドクラブ
+***
+試練に挑むには、あらゆる点で準備が足りない。適切な道具や服装なしに、今日まで生きてこられたのが驚きである。今こそ始まりの時だ。顔をあげて、試練に立ち向かえ。"
+33752050,_DE_Rank2,ITXT:2,2362,戻る
+33752050,_DE_Rank2,ITXT,0,豆知識
+33752050,_DE_Rank2,DESC,0,"ランク： スキーヴァー
+***
+荒野で生存するための初歩的な措置を講じている。もっと真剣に自身の安全を考えない限り、突然の雷雨でさえあなの生命を脅かす。スカイリムはもっともよく順応した者のみが生き残れる土地だが、あなたの順応性は理想から遥かに遠い。"
+33752051,_DE_Rank3,ITXT:2,2362,戻る
+33752051,_DE_Rank3,ITXT,0,豆知識
+33752051,_DE_Rank3,DESC,0,"ランク： キツネ
+***
+スカイリム北部は適さないが、南部であれば十分に活動できる。あなたの生存術は知恵によって向上しているが、まだ訓練が足りない。荒野は厳しい教師である。"
+33752052,_DE_Rank4,ITXT:2,2362,戻る
+33752052,_DE_Rank4,ITXT,0,豆知識
+33752052,_DE_Rank4,DESC,0,"ランク： オオカミ
+***
+激しい気性を持ち、独立心旺盛だ。ささいな事柄が大きな結果の違いを生むと知っている。ほとんどの過酷な環境に対応できる予防措置を一歩ずつ講じてきたとはいえ、まだ慎ましやかなものである。ひとつでも手違いを起こせば、死の定めが待ち受けている。警戒せよ。"
+33752053,_DE_Rank5,ITXT:2,2362,戻る
+33752053,_DE_Rank5,ITXT,0,豆知識
+33752053,_DE_Rank5,DESC,0,"ランク： ホラアナグマ
+***
+あなたにとってはテントが第二の自宅であり、たき火が暖炉である。どんな状況下でも生存できる知識に精通している。ペイル地方の極寒の吹雪の中でも旅が可能である。少しばかりの欠点があるとはいえ、それらを克服できさえすれば…生存率はどれほど上がるだろうか。"
+33752054,_DE_Rank6,ITXT:2,2362,戻る
+33752054,_DE_Rank6,ITXT,0,豆知識
+33752054,_DE_Rank6,DESC,0,"ランク：サーベルキャット
+***
+スカイリムの寒風に噛みつき返す者である。道の後方には未熟な者や準備不足だった者、認識不足だった者たちが倒れている。彼らに比べれば、あなたはなんと遠くまで来たのだろうか。道の前方には危険な登り坂が待ち受けている。勇気を持て。山頂はすぐそこだ。"
+33752055,_DE_Rank7,ITXT:2,2362,戻る
+33752055,_DE_Rank7,ITXT,0,豆知識
+33752055,_DE_Rank7,DESC,0,"ランク： アイス・ウルフ
+***
+並はずれた者、手本となる人物。スカイリムの過酷な試練に対して、勝利するだけではなく、自らの優秀さを示した。どんなに過酷な登り坂も山頂も、あなたの目には征服すべき挑戦として映る。そうした偉大な力を得る者は稀だが、その力を維持できる者はもっと少ない。斧を研ぎ、地平の彼方に目を据えよ。"
+33752063,_DE_RankTips_Adaptation,ITXT,0,次
+33752063,_DE_RankTips_Adaptation,DESC,0,"適応力
+
+最初の時点では、あなたのスカイリムの気候への適応力は並以下です。適応力はスカイリムで過ごした期間に応じて(レベルが上がるにつれて)徐々に高まっていきます。レベル1からレベル50まで、レベルが5つ上がる毎に、防寒を1%ずつ得られます。適応力が高くなれば、凍てつく水を泳げる時間が延長されます。SkyReユーザーなら、「旅人」パークを習得することで適応力を強化できます。"
+33752067,_DE_RankTips_Axe,ITXT,0,次
+33752067,_DE_RankTips_Axe,DESC,0,"木こりの斧
+
+「木こりの斧」はもっとも重要な道具です。斧を使えば、周囲にある樹木から薪を手早く集め、たき火を素早く作れます。常に研いでおかなければ、人里離れた場所で困る羽目になるかもしれません。"
+33752065,_DE_RankTips_ClothingMissing,ITXT,0,次
+33752065,_DE_RankTips_ClothingMissing,DESC,0,"装備品
+
+頭からつま先まで装備を身につけることで保温力を得ます。両手足、両脚、頭、胴体に装備を着用するのを忘れないでください。全身を覆うことによって、大きな保温効果を得られます。"
+33752066,_DE_RankTips_ClothingWarm,ITXT,0,次
+33752066,_DE_RankTips_ClothingWarm,DESC,0,"服と防具
+
+現在の服装でもスカイリム南部なら十分かもしれませんが、山岳地帯や雪深い地域では凍えてしまう可能性があります。生存率を最大限に上げるため、毛皮やオーク製品といった、高い保温力を持つ装備品の着用を心がけてください。
+(MOD追加装備はデフォルトでは「並の保温力」に分類されますが、チェック・イクイプメントのパワーを使って保温力を変更できます。)"
+33752064,_DE_RankTips_FrostResist,ITXT,0,次
+33752064,_DE_RankTips_FrostResist,DESC,0,"氷耐性
+
+寒い中での活動可能な時間を飛躍的に伸ばせます。氷耐性の呪文が施された装備品を探してみましょう。"
+33752070,_DE_RankTips_Misc,ITXT,0,ステータスに戻る
+33752070,_DE_RankTips_Misc,DESC,0,"その他
+以下の要素はランク変化に影響を与えません。
+
+- スープとシチューは体温低下の速度を(5% から15%)ゆるめます。調理鍋で料理できます。
+- 背嚢があれば荷物を余分に持てます。
+- 「スノーベリーのエキス」を飲むと、3分間、凍てつく水から悪影響を受けずに泳げます。
+- 外套をまとうと防寒と防水のボーナスを得られます。"
+33752062,_DE_RankTips_Torch,ITXT,0,次
+33752062,_DE_RankTips_Torch,DESC,0,"たいまつ
+
+たいまつは防寒に10%を与え、体温低下の速度をゆるめてくれる。「サバイバルスキル」のパワーを使い、クラフトの項目を選んで、薪か枯れ枝にリネンの布地を巻き付けるとたいまつを作成できる。リネン・ラップはダンジョン内で入手できる他、どんな服(シャツ)の切れはしからでも作成できる。"
+33752069,_DE_RankVampire,ITXT,2362,戻る
+33752069,_DE_RankVampire,DESC,0,"ランク： 不死者
+***
+素早く、強靭で、不変である。吸血鬼は体温変化によるスキルへの悪影響を受け付けず、低体温症で死ぬこともない。凍てつく水を泳ぐこともできる。"
+33860967,_DE_Reclaim_Backpack_Black_Akatosh,FULL,0,分解：旅人の背嚢(茶)、アカトシュのアミュレット
+33860967,_DE_Reclaim_Backpack_Black_Akatosh,DESC,0,
+33860968,_DE_Reclaim_Backpack_Black_Arkay,FULL,0,分解：旅人の背嚢(茶)、アーケイのアミュレット
+33860968,_DE_Reclaim_Backpack_Black_Arkay,DESC,0,
+33860969,_DE_Reclaim_Backpack_Black_Dibella,FULL,0,分解：旅人の背嚢(黒)、ディベラのアミュレット
+33860969,_DE_Reclaim_Backpack_Black_Dibella,DESC,0,
+33860970,_DE_Reclaim_Backpack_Black_Dragon,FULL,0,分解：旅人の背嚢(黒)、ドラゴンの骨
+33860970,_DE_Reclaim_Backpack_Black_Dragon,DESC,0,
+33860971,_DE_Reclaim_Backpack_Black_Julianos,FULL,0,分解：旅人の背嚢(黒)、ジュリアノスのアミュレット
+33860971,_DE_Reclaim_Backpack_Black_Julianos,DESC,0,
+33860972,_DE_Reclaim_Backpack_Black_Kynareth,FULL,0,分解：旅人の背嚢(黒)、キナレスのアミュレット
+33860972,_DE_Reclaim_Backpack_Black_Kynareth,DESC,0,
+33860973,_DE_Reclaim_Backpack_Black_Mara,FULL,0,分解：旅人の背嚢(黒)、マーラのアミュレット
+33860973,_DE_Reclaim_Backpack_Black_Mara,DESC,0,
+33860974,_DE_Reclaim_Backpack_Black_Stendarr,FULL,0,分解：旅人の背嚢(黒)、ステンダールのアミュレット
+33860974,_DE_Reclaim_Backpack_Black_Stendarr,DESC,0,
+33860975,_DE_Reclaim_Backpack_Black_Talos,FULL,0,分解：旅人の背嚢(黒)、タロスのアミュレット
+33860975,_DE_Reclaim_Backpack_Black_Talos,DESC,0,
+33860976,_DE_Reclaim_Backpack_Black_Zenithar,FULL,0,分解：旅人の背嚢(黒)、ゼニタールのアミュレット
+33860976,_DE_Reclaim_Backpack_Black_Zenithar,DESC,0,
+33860977,_DE_Reclaim_Backpack_Brown_Akatosh,FULL,0,分解：旅人の背嚢(茶)、アカトシュのアミュレット
+33860977,_DE_Reclaim_Backpack_Brown_Akatosh,DESC,0,
+33860978,_DE_Reclaim_Backpack_Brown_Arkay,FULL,0,分解：旅人の背嚢(茶)、アーケイのアミュレット
+33860978,_DE_Reclaim_Backpack_Brown_Arkay,DESC,0,
+33860979,_DE_Reclaim_Backpack_Brown_Dibella,FULL,0,分解：旅人の背嚢(茶)、ディベラのアミュレット
+33860979,_DE_Reclaim_Backpack_Brown_Dibella,DESC,0,
+33860980,_DE_Reclaim_Backpack_Brown_Dragon,FULL,0,分解：旅人の背嚢(茶)、ドラゴンの骨
+33860980,_DE_Reclaim_Backpack_Brown_Dragon,DESC,0,
+33860981,_DE_Reclaim_Backpack_Brown_Julianos,FULL,0,分解：旅人の背嚢(茶)、ジュリアノスのアミュレット
+33860981,_DE_Reclaim_Backpack_Brown_Julianos,DESC,0,
+33860982,_DE_Reclaim_Backpack_Brown_Kynareth,FULL,0,分解：旅人の背嚢(茶)、キナレスのアミュレット
+33860982,_DE_Reclaim_Backpack_Brown_Kynareth,DESC,0,
+33860983,_DE_Reclaim_Backpack_Brown_Mara,FULL,0,分解：旅人の背嚢(茶)、マーラのアミュレット
+33860983,_DE_Reclaim_Backpack_Brown_Mara,DESC,0,
+33860984,_DE_Reclaim_Backpack_Brown_Stendarr,FULL,0,分解：旅人の背嚢(茶)、ステンダールのアミュレット
+33860984,_DE_Reclaim_Backpack_Brown_Stendarr,DESC,0,
+33860985,_DE_Reclaim_Backpack_Brown_Talos,FULL,0,分解：旅人の背嚢(茶)、タロスのアミュレット
+33860985,_DE_Reclaim_Backpack_Brown_Talos,DESC,0,
+33860986,_DE_Reclaim_Backpack_Brown_Zenithar,FULL,0,分解：旅人の背嚢(茶)、ゼニタールのアミュレット
+33860986,_DE_Reclaim_Backpack_Brown_Zenithar,DESC,0,
+33860987,_DE_Reclaim_Backpack_White_Akatosh,FULL,0,分解：旅人の背嚢(白)、アカトシュのアミュレット
+33860987,_DE_Reclaim_Backpack_White_Akatosh,DESC,0,
+33860988,_DE_Reclaim_Backpack_White_Arkay,FULL,0,分解：旅人の背嚢(白)、アーケイのアミュレット
+33860988,_DE_Reclaim_Backpack_White_Arkay,DESC,0,
+33860989,_DE_Reclaim_Backpack_White_Dibella,FULL,0,分解：旅人の背嚢(白)、ディベラのアミュレット
+33860989,_DE_Reclaim_Backpack_White_Dibella,DESC,0,
+33860990,_DE_Reclaim_Backpack_White_Dragon,FULL,0,分解：旅人の背嚢(白)、ドラゴンの骨
+33860990,_DE_Reclaim_Backpack_White_Dragon,DESC,0,
+33860991,_DE_Reclaim_Backpack_White_Julianos,FULL,0,分解：旅人の背嚢(白)、ジュリアノスのアミュレット
+33860991,_DE_Reclaim_Backpack_White_Julianos,DESC,0,
+33860992,_DE_Reclaim_Backpack_White_Kynareth,FULL,0,分解：旅人の背嚢(白)、キナレスのアミュレット
+33860992,_DE_Reclaim_Backpack_White_Kynareth,DESC,0,
+33860993,_DE_Reclaim_Backpack_White_Mara,FULL,0,分解：旅人の背嚢(白)、マーラのアミュレット
+33860993,_DE_Reclaim_Backpack_White_Mara,DESC,0,
+33860994,_DE_Reclaim_Backpack_White_Stendarr,FULL,0,分解：旅人の背嚢(白)、ステンダールのアミュレット
+33860994,_DE_Reclaim_Backpack_White_Stendarr,DESC,0,
+33860995,_DE_Reclaim_Backpack_White_Talos,FULL,0,分解：旅人の背嚢(白)、タロスのアミュレット
+33860995,_DE_Reclaim_Backpack_White_Talos,DESC,0,
+33860996,_DE_Reclaim_Backpack_White_Zenithar,FULL,0,分解：旅人の背嚢(白)、ゼニタールのアミュレット
+33860996,_DE_Reclaim_Backpack_White_Zenithar,DESC,0,
+33697890,_DE_RegionDetect,FULL,0,Region Detect
+33697890,_DE_RegionDetect,DESC,0,
+33697889,_DE_RegionDetect1_PineForest,FULL,0,Region Detect: Pine Forest
+33697889,_DE_RegionDetect1_PineForest,DNAM,0,
+33699269,_DE_RegionDetect2_VolcanicTundra,FULL,0,Region Detect: Volcanic Tundra
+33699269,_DE_RegionDetect2_VolcanicTundra,DNAM,0,
+33699270,_DE_RegionDetect3_FallForest,FULL,0,Region Detect: Fall Forest
+33699270,_DE_RegionDetect3_FallForest,DNAM,0,
+33699271,_DE_RegionDetect4_Reach,FULL,0,Region Detect: The Reach
+33699271,_DE_RegionDetect4_Reach,DNAM,0,
+33699272,_DE_RegionDetect5_Tundra,FULL,0,Region Detect: Tundra
+33699272,_DE_RegionDetect5_Tundra,DNAM,0,
+33699273,_DE_RegionDetect6_TundraMarsh,FULL,0,Region Detect: Tundra Marsh
+33699273,_DE_RegionDetect6_TundraMarsh,DNAM,0,
+33699274,_DE_RegionDetect7_Coast,FULL,0,Region Detect: Coast
+33699274,_DE_RegionDetect7_Coast,DNAM,0,
+33699275,_DE_RegionDetect8_Snow,FULL,0,Region Detect: Snow
+33699275,_DE_RegionDetect8_Snow,DNAM,0,
+33600803,_DE_Ring1,DESC,0,EP： %.0f/100 - 漆黒の輝き
+33600794,_DE_Ring10,DESC,0,EP： %.0f/100 - 濃緑の輝き
+33685353,_DE_Ring11,DESC,0,EP： %.0f/100 - 鈍い象牙色
+33600802,_DE_Ring2,DESC,0,EP： %.0f/100 - 紺色の輝き
+33600801,_DE_Ring3,DESC,0,EP： %.0f/100 - 濃い青の輝き
+33600800,_DE_Ring4,DESC,0,EP： %.0f/100 - 鮮やかな青色の輝き
+33600799,_DE_Ring5,DESC,0,EP： %.0f/100 - 薄い青の輝き
+33600798,_DE_Ring6,DESC,0,EP： %.0f/100 - 淡い水色の輝き
+33600797,_DE_Ring7,DESC,0,EP： %.0f/100 - 透明
+33600796,_DE_Ring8,DESC,0,EP： %.0f/100 - 淡い緑色の輝き
+33600795,_DE_Ring9,DESC,0,EP： %.0f/100 - 濃い緑の輝き
+33820734,_DE_Rock,FULL,0,手ごろな平石
+33704809,_DE_ShelterDetectBeam,FULL,0,Shelter Detect Beam
+33704809,_DE_ShelterDetectBeam,DESC,0,
+33704811,_DE_ShelterDetectEffect,FULL,0,Shelter Detect
+33704811,_DE_ShelterDetectEffect,DNAM,0,
+33704807,_DE_ShelterDetectorSensor,FULL,0,たき火
+33618823,_DE_ShutdownComplete,ITXT,2498,OK
+33618823,_DE_ShutdownComplete,DESC,0,「降霜の月」を停止しました
+33652026,_DE_ShutdownReactivate,DESC,0,「降霜の月」を起動しました
+33809673,_DE_SkyUI_PresetConfirm,ITXT:2,10327,キャンセル
+33809673,_DE_SkyUI_PresetConfirm,ITXT,0,適用
+33809673,_DE_SkyUI_PresetConfirm,DESC,0,プリセットを適用しますか？
+33822167,_DE_StoneArrow,FULL,0,石の矢
+33822167,_DE_StoneArrow,DESC,0,
+33820733,_DE_StoneWarAxe,FULL,0,手製の石斧
+33820733,_DE_StoneWarAxe,DESC,0,薪集めに使用する
+33660334,_DE_SurvivalSkills_Effect,FULL,0,サバイバルスキル
+33660334,_DE_SurvivalSkills_Effect,DNAM,0,キャンプ道具を作成する。
+33660332,_DE_SurvivalSkills_Spell,FULL,0,サバイバルスキル：道具作成
+33660332,_DE_SurvivalSkills_Spell,DESC,0,キャンプ道具を作成する。
+33803993,_DE_SurvivalSkillsCombo_Effect,FULL,0,サバイバルスキル
+33803993,_DE_SurvivalSkillsCombo_Effect,DNAM,0,サバイバルの知識を用いてキャンプ道具の作成、たき火の設置、薪集めを行う。
+33803991,_DE_SurvivalSkillsCombo_Spell,FULL,0,サバイバルスキル
+33803991,_DE_SurvivalSkillsCombo_Spell,DESC,0,サバイバルの知識を用いて、キャンプ道具の作成、たき火の設置、薪集めを行う
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:6,45268,終了
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:5,0,チェック・イクイプメント
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:4,0,ステータス
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:3,0,薪を集める
+33803994,_DE_SurvivalSkillsComboMsg,ITXT:2,0,道具作成
+33803994,_DE_SurvivalSkillsComboMsg,ITXT,0,たき火の設置
+33803994,_DE_SurvivalSkillsComboMsg,DESC,0,どうしますか？
+33754827,_DE_SurvivalSkillsSelect,ITXT:6,45268,終了
+33754827,_DE_SurvivalSkillsSelect,ITXT:5,0,ステータス
+33754827,_DE_SurvivalSkillsSelect,ITXT:4,0,チェック・イクイプメント
+33754827,_DE_SurvivalSkillsSelect,ITXT:3,0,薪を集める
+33754827,_DE_SurvivalSkillsSelect,ITXT:2,0,道具作成
+33754827,_DE_SurvivalSkillsSelect,ITXT,0,たき火の設置
+33754827,_DE_SurvivalSkillsSelect,DESC,0,項目を選んでください
+33690869,_DE_SurvivalSkillsSwimmingError,DESC,0,水泳中はキャンプ道具を作れない
+33586936,_DE_SurvivorsGuide,FULL,0,スカイリム・サバイバルガイド
+33586936,_DE_SurvivorsGuide,DESC,0,"[pagebreak]
+<p align=""center"">
+
+ファルクリースからドーンスターまで 
+
+スカイリム・サバイバルガイド
+
+ヴェリック・ガーフォード著
+探検家にして開拓者、無名の冒険家
+
+第四紀118年 降霜の月 16日　　カリウス・ハーメバスの助けを借りて書き記す
+[pagebreak]
+
+<p align='center'><img src='img://textures/frostfall/_DE_bookart0.dds' height='367' width='281'></p>
+[pagebreak]
+<p align=""center"">はじめに
+
+<p align=""left"">どんなに恐ろしい人間、エルフ、巨人、サーベルキャットよりも、スカイリムの寒さのほうが危険だと言われている。ペイルの身を刺すような寒さを体験した者、あるいはハイ・フロスガーの石段に横たわる凍死体を見たことがある者なら断言できるだろう。無謀な者、勇敢な者、抜け目のない者、無防備な者。すべての者の魂をスカイリムは分け隔てなく、驚くべき身のこなしで奪い去る。
+
+本著の目的はスカイリムの厳しい風土に挑む者を導くことにある。親愛なる読者諸君が前述したような末路を辿らぬように願っている。寒さを防ぐには知識のみが武器となる。ページを読み進めて身を守る術を得てほしい。こうした知識を用いてさえ安全は保障できない。どんなに用心しても、用心しすぎることはない。安全を保障する本だと言われて本著を買わされたのであれば、この本を売った者になりかわり心からお詫び申し上げる。
+
+前置きはこれくらいにして本題に移りたい。</p>
+
+[pagebreak]
+<p align=""center"">寒き道におもむく前に
+
+<p align=""left"">寒さは敵だ。恨みに闘志を燃やす熟練の剣士と同じくらい危険である。寒さは身体と精神の内側に入り込み、人の心をくじく油断のならない敵だ。だがどんな敵にも打つ手はある。人は寒さに対処する方法を学ばなければならない。
+
+寒さは暗闇と死の死者であり、炎は光と生命の守護者だ。炎は多くの贈り物を与えてくれる。身体を温め、水を乾かす。そのためにはまずたき火を起こす習慣を、ブーツを履く習慣のように身につけよ。日ごろからマメに薪や枯れ木を集めるのだ。十分な大きなのたき火を作るための薪集めにはそれなりの時間がかかる。吹雪に遭ったり、凍った湖に落ちてしまえば、薪を集める十分な時間はない。炎はあなたの友人だが、常に腹を空かせている。
+
+旅に出る前に、まず気をつけなければいけないのは服装である。頭からつま先まで十分な温かさを保てる服装を心がけよ。一か所でも外気に触れる箇所があれば、そこからどんどん体温は奪われていくし、水も入り込む。スカイリムの南方の地域なら安全だと考える者もいるだろうが、雨に濡れてしまえば体温は急速に低下していくのだから。
+
+保温力を高める様々な方法がある。人はスカイリムで長く過ごすうちに寒さに慣れていくものである。そうした身体の変化は非常にゆっくりとしたものだ。たいまつがあれば腕と顔を暖められる。外套は霜と雨から身体を守るし、スープを飲めば身体を内側から温めてくる。霜に対する防護魔法がかけられた装備を身につけることで着用者の助けとなるだろう。
+
+寒さへの唯一の有効な対処法というものは存在しない。様々な手段を組み合わせることで、長時間の活動が可能となる。
+
+<p align='center'><img src='img://textures/frostfall/_DE_bookart1.dds' height='256' width='256'></p>
+
+[pagebreak]
+<p align=""center"">凍てつく水への対処法
+
+<p align=""left"">最善の注意を払っていても、スカイリムの凍てつく水の前には、思いがけない災厄に見舞われるかもしれない。例えば不安定な岩場で足がすべったり、湖に貼った氷を踏みぬいたりといったことだ。次の瞬間、君は薄い氷の張った水中にまっさかさまに落ちる羽目になる。このような事態は、今まで体験をしたことがなければショックかもしれない様々な身体の変化を引き起こす。しかし来るべき事態を想定しておけば、心の準備をしておくことができる。強靭な精神力と幾ばくかの幸運が諸君の命を救うかもしれない。
+
+まず、水に落ちた者は無意識に息を深く吸い込む。深すぎる呼吸によって、逆説的にではあるが、あたかも風に打ちつけられて息ができないように感じられる。身体を動かすためのエネルギーが完全に失われたように感じられる。次に意識の低下が起きる。視界のブレや目のかすみが想定される。
+
+この時、凍てつく水を肺いっぱいに吸い込んでいなければ、岸辺に戻れるくらいの意識を取り戻せるだろう。わずかなチャンスを無駄にしてはいけない。
+
+すでに危険なほど体温が低下しているため、岸にあがったらただちにたき火を燃やすか、最寄りの宿に駆けこまなくてはならない。多くの場合、数分後に岸辺で凍死するために溺死をまぬがれたようなものである。
+
+岸辺にすばやく戻れない場合、手足の凍えが理由となることがある。このような際には四肢の感覚が完全に消えてからではないと移動が難しい。こうなった場合、溺死する可能性が非常に高い。
+
+[pagebreak]
+<p align=""center"">旅の必需品
+
+<p align=""left"">適切な能力(前向きな考え方)と物資。両者を持ちあわせていれば試練を乗り越えられるだろう。すべては一本の斧から始まる。
+
+もっとも重要な荷物は「木こりの斧」だ。斧を使えば、周囲にある樹木から薪を手早く集められる。常に研いでおけ。手入れを怠った斧は確実に災いを招く。
+
+斧がなければ、天然の石を用いて作ることもできる。枯れ木や枯れ枝を探している最中に、片側が鋭くとがっている平たい石を拾えるかもしれない。丈夫な枝を結び付ければ斧にすることができる。残念ながら、たき火を作るのに必要な薪を集めるのに時間がかかれば、たき火の炎はどんどん弱まってしまう。十分な薪があるのなら、石から矢じりを作ることもできる。
+
+薪の用途は明らかにたき火だが、他の便利な道具も作成できる。狩りのための弓、歩行を楽にする杖、皮なめし棚 。こういった道具はすべて薪から作成できる。
+
+テントを利用することによって、雨や吹雪から身を守ることができる。大気の状態が不安定な場合、たき火の有効性は限られてしまう。スカイリムの南方では大気は比較的暖かく雨がよく降る。革のテントなら雨を弾き、若干の防寒対策となる。スカイリムの北方では、毛皮のテントが適している。毛皮は熱を逃がさないが、防水は低い。テントが使用できない状況で雨に遭ったら、雨宿り出来そうな最寄りの場所へ入り、雨が通り過ぎるのを待て。
+
+外套は、テントと同様に、身体を暖め防水してくれる。外套の素材は様々だ。バーラップ(黄麻布)の外套は着ないよりマシだが、避けたほうがよい。リネン(亜麻布)は良質であり、あらゆる天候に適した一般的な外套だが、防水は弱い。革の外套なら雨をよく弾いてくれる。毛皮はもっとも暖かいが、雨を吸い込んで重くなるため、身体を乾かす際にはさっさと脱いでしまうのが得策だ。
+
+鉄製の小さな調理鍋があれば、暖炉のない場所でも、旅の最中に食事を作れる。
+
+最後に、適切に荷物をまとめることで、首や背中に負担をかけずに長距離を旅する大きな助けとなる。良い背嚢を入手すれば、必要なものをすべてひとまとめに収納して旅荷とできる。
+[pagebreak]
+
+<p align='center'><img src='img://textures/frostfall/_DE_bookart3.dds' height='367' width='281'></p>
+[pagebreak]
+<p align=""center"">旅糧の心得
+
+<p align=""left"">すべての料理が等しい効果を持つわけではない。旅で凍えた身体を温めるのに適した食事がある。
+
+寒冷地の長旅では、概して、熱いスープとシチューが作られる。身体を芯から温めて体温の低下を防いでくれる。
+
+スノーベリーは北方でよく見られる植物で、風邪を防ぐとも言われている。錬金学的な根拠がないが、北方の旅人はスノーベリーの薬効を信じている。この小さな果物が本当に風邪を防いでくれるのか、ただ信じるがゆえの効果なのかは諸君の判断にゆだねたい。
+
+どんなノルドでも盛り上がる話題といえば酒である。酒に関しては特別に注意を払ってほしい。エールや蜂蜜酒は身体を温めてくれると信じる者もいるが、凍死を免れるために強い酒に手を伸ばすことは、多くの場合、結果的には死期を早めるだけだ。つまり精神力の強さと体力が等しく重要だと言える。アルコールの助けを借りれば、安全な場所まで移動する最後の一足掻きをしようという決断力が得られるかもしれない。いずれ諸君自身で判断しなくてはならない時が来る。
+<p align=""center""><img src='img://textures/frostfall/_DE_bookart4.dds' height='256' width='256'></p>
+[pagebreak]
+<p align=""center"">
+スカイリム
+諸地域の特色
+<p align='center'><img src='img://textures/frostfall/_DE_bookart5.dds' height='281' width='281'></p>
+[pagebreak]
+<p align=""left"">スカイリムは「ホールド」と呼ばれる諸地域で構成されている。各ホールドは特色のある気候を持っており、旅人に恩恵をもたらすこともあれば、旅を困難にすることもある。温暖な地域から寒冷な地域までを以下に書き記す。
+[pagebreak]
+ファルクリース
+針葉樹の森に覆われており、流れる水は比較的温かく清涼である。真昼でも過ごしやすい気温であり、夜間でも天候次第では星を眺めに出かけたくなるほど暖かい。スカイリムで最も暮らしやすい地域といえる。
+[pagebreak]
+イーストマーチ
+ファルクリースの北に位置しているため、ファルクリースと比較すればやや冷涼である。しかし火山活動によって作られた亀裂が至るところに走っていて、亀裂からは高温の蒸気が噴き出している。そのため昼夜と季節を問わず、この地域の気温は充分に暖かい。
+
+リフト
+スカイリムの南東に位置しており、針葉樹と広葉樹の両方が育つ、広葉混交樹林に覆われている。スカイリムの南の国境に接しているが標高が高く湿度が低いため、ファルクリースよりもずっと寒冷な地域となっている。晴天であればファルクリースと同じくらい心地よく過ごせるが、いったん強風を伴う雨が降り始めれば、どんなに強靭な戦士であっても予想以上の体力の消耗を認めざるを得ないだろう。多くの川と湖があり、晴れていれば泳ぎを楽しめる。
+
+リーチ
+スカイリムの西の国境に接しているマルカルスでは、深く切り立つ崖の合間を川が流れている。西の山岳地帯から吹き下ろす風が、日中でも谷間の気温を下げている。夜間になると吹き下ろしの風のために更に気温が下がる。そのため賢明な旅人はたき火を設置するかシェルターを求める。川の流れは非常に冷たいが、泳いだ後に身体を乾かせるならば、脅威となるほどではない。
+
+ホワイトラン
+スカイリムの中心地のホワイトランは、凍りついた土に根を張るのに成功したわずかな樹木が点在するツンドラ地帯である。農民たちは栽培できる数少ない作物を得るために、耕作に利用できる数センチの厚さの表土を凍らせないように、絶え間なく耕さなくてはならない。身なりのよいノルドの住人たちはよそ者に対してそれほど酷く不公平ではないが、この地域の気候に慣れていない者にとっては気候自体が不快に感じられるだろう。夜になると平原を駆け抜ける風は突き刺すような寒さになる。名称に「ホワイト(白)」の言葉を冠しているがホワイトランに雪は降らない。しかし降り注いだ雨がそのまま凍りつくほど冷たい地表を持っている。ホワイトランの小川は浅いのでずぶ濡れになる心配はない。
+
+ハイヤルマーチ
+不用意に立ち入る者を拒むツンドラの湿地帯である。この地域はほぼ永久凍土となっており、零度以下でも凍らなかった水のみが沼地を作っている。早い時刻に野営地を作り、火から離れないことが肝心である。夕闇や雨雲が近づいてきたら、テントを設営するかシェルターに避難することが肝心だ。決して泳いではいけない。橋を探すか浅瀬を探して遠回りするように心得よ。
+[pagebreak]
+ペイルと山岳地帯
+晴れていても、この地域で泳ぐことは命に関わる。頻繁にたき火をたいて暖をとること。夜間の外出を避けることが肝心だ。吹雪に見舞われたら数分で命を落とすかもしれない。ただちにシェルターを求めるように心得よ。死んだ英雄となるよりも洞窟で過ごすほうがマシである。吹き荒れる風と息が出来ないほどの寒さが旅人の知恵を試す。言うまでもなく「幽霊の海」の名は伊達ではない。ウィンドヘルムの南と東を流れる氷の川についても同じことが言える。ウィンターホールドの立派な港にはほぼすべての通りに宿があり、どの宿も疲れきった旅人を大きな暖炉で迎えてくれる。
+
+[pagebreak]
+<p align=""center"">結論
+
+<p align=""left"">ここまで読み終えた諸君は大したものだ！旅の寒さに対する大きな備えが出来ただろう。この本が諸君の役に立つことを願っている。この本で得た知識が必要とならないことを願っているが、下記の忠告を常に覚えておいてほしい。
+
+身体を温めよ！水を乾かせ！警戒を怠るな！!"
+33586936,_DE_SurvivorsGuide,CNAM,0,
+33785489,_DE_TanningRack,FULL,71158,皮なめしの棚
+33785492,_DE_TanningRack_DropChoice,ITXT:2,74716,置く
+33785492,_DE_TanningRack_DropChoice,ITXT,0,設置
+33785492,_DE_TanningRack_DropChoice,DESC,0,項目を選んでください
+33829110,_DE_TanningRackDestroy,DESC,0,皮なめしの棚を解体した
+33785491,_DE_TanningRackSelect,ITXT:4,45268,終了
+33785491,_DE_TanningRackSelect,ITXT:3,0,解体
+33785491,_DE_TanningRackSelect,ITXT:2,2251,拾う
+33785491,_DE_TanningRackSelect,ITXT,51530,使う
+33785491,_DE_TanningRackSelect,DESC,0,どうしますか？
+33834690,_DE_Tent_ColdCap,DESC,0,シェルターによって体温低下から守られている
+33833275,_DE_Tent_Combat,DESC,0,危険を察知して飛び起きた…
+33833277,_DE_Tent_FollowerBedroll,DESC,0,従者用のベッドロール
+33778507,_DE_Tent_InteractTrigger,RNAM,51530,使う
+33778507,_DE_Tent_InteractTrigger,FULL,64874,ベッドロール
+33834688,_DE_Tent_LeakingWater,DESC,0,天井から水がしたたるので、身体が濡れたままだ
+33834692,_DE_Tent_Needed,DESC,0,熱を逃がさないためにはテントがそばに必要だ
+33778503,_DE_Tent_StopSleepTrigger,RNAM,0,停止
+33778503,_DE_Tent_StopSleepTrigger,FULL,50091,眠る
+33778505,_DE_Tent_StopWaitTrigger,RNAM,0,停止
+33778505,_DE_Tent_StopWaitTrigger,FULL,0,待機
+33833281,_DE_Tent_Storm,DESC,0,一日経ったが嵐はまだ止んでいない
+33834689,_DE_Tent_WarmCap,DESC,0,身体の芯から温かい
+33777031,_DE_TentLayDownMarker,FULL,0,横になる
+33803989,_DE_TentLayDownMarkerL,FULL,0,横になる
+33803990,_DE_TentLayDownMarkerR,FULL,0,横になる
+33893008,_DE_TentSeeThruError,DESC,0,テントを設営してください
+33777030,_DE_TentSitMarker,FULL,3945,座る
+33693644,_DE_TestCell,FULL,50983,エディタースモークのテスト用区画
+33777041,_DE_TestTentFeatures1,FULL,0,テント
+33635392,_DE_TorchState_Spell,FULL,36608,たいまつ
+33635392,_DE_TorchState_Spell,DESC,0,
+33635394,_DE_TorchStateEffect,FULL,0,防寒
+33635394,_DE_TorchStateEffect,DNAM,0,たいまつのおかげで体温低下が<10%>遅くなる。
+33650647,_DE_TrackingQuest,NNAM,0,極寒の地を生き抜く術に思いをはせる。 (午後7時から午前7時の間に星空を眺めるか、詳細設定から機能を開始する。)
+33650647,_DE_TrackingQuest,FULL,59239,降霜の月
+33650647,_DE_TrackingQuest,CNAM:3,0,「スカイリム・サバイバルガイド」の写本をみつけて、極寒の地に対する心構えができた。
+33650647,_DE_TrackingQuest,CNAM:2,0,「スカイリム・サバイバルガイド」の写本を読んでサバイバルの知識を確認する。あの本をどこに仕舞いこんでしまったのか、夜空を見れば思いだせそうな気がする。
+33650647,_DE_TrackingQuest,CNAM,0,Initial State
+33624344,_DE_Travel_FireKit,DESC,0,You use a Fire Kit during your travels.
+33624345,_DE_Travel_Firewood,DESC,0,You use some firewood during your travels.
+33638159,_DE_TravelOn,DESC,0,長旅の準備が整った
+33842974,_DE_TutorialsReset,ITXT,2498,OK
+33842974,_DE_TutorialsReset,DESC,0,チュートリアルをリセットします
+33883317,_DE_WalkingStickDescription,FULL,0,旅人の杖
+33883317,_DE_WalkingStickDescription,DNAM,0,右手に握っている間(抜刀中)、屋外での移動速度が<10%>速くなる。
+33883315,_DE_WalkingStickEffect,FULL,0,移動速度上昇
+33883315,_DE_WalkingStickEffect,DNAM,0,
+33883319,_DE_WalkingStickEnch,FULL,0,旅人の杖
+33883316,_DE_WalkingStickSpell,FULL,0,旅人の杖
+33883316,_DE_WalkingStickSpell,DESC,0,移動速度が<10%>上昇する。
+33802603,_DE_WalkingStickWarAxe,FULL,0,旅人の杖
+33802603,_DE_WalkingStickWarAxe,DESC,0,
+33599406,_DE_WarmUp,DESC,0,ほのかに温かい
+33674288,_DE_WaterPotion,FULL,0,スノーベリーのエキス
+33674290,_DE_WaterPotionEffect,FULL,0,スノーベリーのエキス
+33674290,_DE_WaterPotionEffect,DNAM,0,凍てつく水を<3>分間泳げる。
+33599399,_DE_WaterTemp1,DESC,0,爽やかな水
+33599400,_DE_WaterTemp2,DESC,0,冷たい水
+33599401,_DE_WaterTemp3,DESC,0,とても冷たい水
+33599402,_DE_WaterTemp4,DESC,0,凍てつく水だ！
+33599403,_DE_WaterTemp4a,DESC,0,四肢が凍り始めた
+33599404,_DE_WaterTemp4b,DESC,0,意識が失われそうだ
+33599405,_DE_WaterTemp4c,DESC,0,意識が暗闇に飲み込まれる
+33833278,_DE_WEAR_Error_Cloaks,DESC,0,外套の保温力は調べられない
+33833279,_DE_WEAR_Error_General,DESC,0,このアイテムの保温力は調べられない
+33690873,_DE_WearBodyFull,DESC,0,高い保温力の装備
+33690874,_DE_WearBodyLimited,DESC,0,低い保温力の装備
+33690882,_DE_WearBodyStandard,DESC,0,並の保温力の装備
+33690868,_DE_WearCanceled,DESC,0,チェック・イクイプメントをキャンセルした
+33690881,_DE_WearCloak,DESC,0,外套をまとうと防寒力と防水性を得る
+33690886,_DE_WearEquipError,DESC,0,調べたい装備品を身につけてください
+33664571,_DE_WEARExamineArmor_Effect,FULL,0,チェック・イクイプメント
+33664571,_DE_WEARExamineArmor_Effect,DNAM,0,(W.E.A.Rの有効時) 装備品の保温力を変更する。
+33664576,_DE_WEARExamineArmor_Spell,FULL,0,チェック・イクイプメント
+33664576,_DE_WEARExamineArmor_Spell,DESC,0,(W.E.A.R. の有効時) 装備品の保温力を変更する。
+33690876,_DE_WearFeetFull,DESC,0,高い保温力の脚装備
+33690879,_DE_WearFeetLimited,DESC,0,低い保温力の脚装備
+33690883,_DE_WearFeetStandard,DESC,0,並の保温力の脚装備
+33690875,_DE_WearHandsFull,DESC,0,高い保温力の両手装備
+33690878,_DE_WearHandsLimited,DESC,0,低い保温力の両手装備
+33690884,_DE_WearHandsStandard,DESC,0,並の保温力の両手装備
+33690877,_DE_WearHeadFull,DESC,0,高い保温力の頭装備
+33690880,_DE_WearHeadLimited,DESC,0,低い保温力の頭装備
+33690885,_DE_WearHeadStandard,DESC,0,並の保温力の頭装備
+33664580,_DE_WearSelectMenu_RestoreDefaults,ITXT:2,0,いいえ - キャンセル
+33664580,_DE_WearSelectMenu_RestoreDefaults,ITXT,0,はい - デフォルトに戻す
+33664580,_DE_WearSelectMenu_RestoreDefaults,DESC,0,すべての装備品の保温力をデフォルトに戻しますか？
+33664581,_DE_WearSelectMenu_RestoreDefaultsConfirm,DESC,0,保温力の設定をデフォルトに戻しました
+33664578,_DE_WearSelectMenu0,ITXT:3,45268,終了
+33664578,_DE_WearSelectMenu0,ITXT:2,0,デフォルトに戻す
+33664578,_DE_WearSelectMenu0,ITXT,0,チェック・イクイプメント
+33664578,_DE_WearSelectMenu0,DESC,0,"「チェック・イクイプメント」のパワーを使って装備品の保温力を変更できます。
+「デフォルトに戻す」を選択すると、すべての装備品の保温力をデフォルトに戻します。
+
+どうしますか？"
+33664579,_DE_WearSelectMenu0Error,DESC,0,W.E.A.R. を有効にしてください
+33664573,_DE_WearSelectMenu1,ITXT:3,0,高い
+33664573,_DE_WearSelectMenu1,ITXT:2,22812,並
+33664573,_DE_WearSelectMenu1,ITXT,0,低い (現在の設定)
+33664573,_DE_WearSelectMenu1,DESC,0,"観察を始めた。一見、低い保温力にみえる。
+
+だが裏地と寸法を丹念に調べて考え直した。この装備品の保温力は…"
+33664574,_DE_WearSelectMenu2,ITXT:3,0,高い
+33664574,_DE_WearSelectMenu2,ITXT:2,0,並 (現在の設定)
+33664574,_DE_WearSelectMenu2,ITXT,0,低い
+33664574,_DE_WearSelectMenu2,DESC,0,"観察を始めた。一見、並の保温力にみえる。
+
+だが裏地と寸法を丹念に調べて考え直した。この装備品の保温力は…"
+33664575,_DE_WearSelectMenu3,ITXT:3,0,高い (現在の設定)
+33664575,_DE_WearSelectMenu3,ITXT:2,22812,並
+33664575,_DE_WearSelectMenu3,ITXT,0,低い
+33664575,_DE_WearSelectMenu3,DESC,0,"観察を始めた。一見、高い保温力にみえる。
+
+だが裏地と寸法を丹念に調べて考え直した。この装備品の保温力は…"
+33664582,_DE_WearSelectPrompt,DESC,0,調べたい装備品を身につけてください
+33834669,_DE_Weather_BlizzardToClear,DESC,0,吹雪が弱まってきた
+33834670,_DE_Weather_ClearToFog1,DESC,0,霧が音も無く広がる
+33834671,_DE_Weather_ClearToFog2,DESC,0,霧が常緑樹を包み込む
+33834672,_DE_Weather_ClearToFog3,DESC,0,蒸気が空中に立ちこめる
+33834673,_DE_Weather_ClearToFog4,DESC,0,霧が森を包み込む
+33834674,_DE_Weather_ClearToFog5,DESC,0,濃霧がリーチの谷間を降りてくる
+33834675,_DE_Weather_ClearToFog6,DESC,0,冷たい霧が沼地を渡る
+33834676,_DE_Weather_ClearToFog7,DESC,0,凍てつく霧が幽霊海から這い寄る
+33834686,_DE_Weather_ClearToRain,DESC,0,灰色の空がわずかに覗いている
+33834678,_DE_Weather_ClearToSnow,DESC,0,淡雪が降り始める
+33834679,_DE_Weather_ClearToSnowMountain,DESC,0,峠の道に強風が吹いている
+33834680,_DE_Weather_ClearToSnowSevere,DESC,0,激しい吹雪の気配を感じる
+33834687,_DE_Weather_ClearToStorm,DESC,0,黒雲と雷がやって来る
+33834684,_DE_Weather_FogToRain,DESC,0,どこかで雨音が聞こえる
+33834685,_DE_Weather_FogToStorm,DESC,0,霧がにわかに陰る。嵐がやって来る
+33834666,_DE_Weather_RainToClear,DESC,0,雨が過ぎ去り、曇りになりそうだ
+33834677,_DE_Weather_RainToFog,DESC,0,雨が過ぎ去り、地面から蒸気が立ち上る
+33834681,_DE_Weather_RainToSnow,DESC,0,雪がみぞれになる
+33834682,_DE_Weather_RainToSnowSevere,DESC,0,雨が吹雪に変わる
+33834668,_DE_Weather_SnowToClear,DESC,0,雪が小降りになる
+33834683,_DE_Weather_SnowToRain,DESC,0,風が暖かくなって来た。吹雪は雨に変わる
+33834667,_DE_Weather_StormToClear,DESC,0,雷雲が静まってきた
+33645078,_DE_Weathersense_Effect,FULL,0,ウェザーセンス
+33645078,_DE_Weathersense_Effect,DNAM,0,体温、水濡れ状態、気温を表示する。
+33645077,_DE_Weathersense_Spell,FULL,0,ウェザーセンス
+33645077,_DE_Weathersense_Spell,DESC,0,現在の体温(EP)、水濡れ、天候を表示する
+33842966,_DE_WellInsulatedConditionEffect,FULL,0,Well Insulated Conditon Effect
+33842966,_DE_WellInsulatedConditionEffect,DNAM,0,
+33842968,_DE_WellInsulatedConditionSpell,FULL,0,Well Insulated Condition Spell
+33842968,_DE_WellInsulatedConditionSpell,DESC,0,
+33627107,_DE_Werewolf_Transform,DESC,0,自前の毛皮で高い保温力を得た
+33593859,_DE_WetState_Spell,FULL,0,水で濡れている
+33593859,_DE_WetState_Spell,DESC,0,
+33675693,_DE_WetState_Spell1,FULL,0,水で湿っている
+33675693,_DE_WetState_Spell1,DESC,0,
+33795456,_DE_WetState_Spell1NoShader,FULL,0,水で湿っている
+33795456,_DE_WetState_Spell1NoShader,DESC,0,
+33675695,_DE_WetState_Spell2,FULL,0,水で濡れている
+33675695,_DE_WetState_Spell2,DESC,0,
+33795458,_DE_WetState_Spell2NoShader,FULL,0,水で濡れている
+33795458,_DE_WetState_Spell2NoShader,DESC,0,
+33675697,_DE_WetState_Spell3,FULL,0,ずぶ濡れだ
+33675697,_DE_WetState_Spell3,DESC,0,
+33795460,_DE_WetState_Spell3NoShader,FULL,0,ずぶ濡れだ
+33795460,_DE_WetState_Spell3NoShader,DESC,0,
+33593858,_DE_WetStateEffect,FULL,0,水で濡れている
+33593858,_DE_WetStateEffect,DNAM,0,風に当たると体温が速く低下する。
+33679835,_DE_WetStateEffect1,FULL,0,水で湿っている
+33679835,_DE_WetStateEffect1,DNAM,0,風に当たると体温が若干速く低下する。
+33795462,_DE_WetStateEffect1NoShader,FULL,0,水で湿っている
+33795462,_DE_WetStateEffect1NoShader,DNAM,0,風に当たると体温が若干速く低下する。
+33679836,_DE_WetStateEffect2,FULL,0,水で濡れている
+33679836,_DE_WetStateEffect2,DNAM,0,風に当たると体温が速く低下する。
+33795463,_DE_WetStateEffect2NoShader,FULL,0,水で濡れている
+33795463,_DE_WetStateEffect2NoShader,DNAM,0,風に当たると体温が速く低下する。
+33679837,_DE_WetStateEffect3,FULL,0,ずぶ濡れだ
+33679837,_DE_WetStateEffect3,DNAM,0,風に当たると体温が急速に低下する。
+33795464,_DE_WetStateEffect3NoShader,FULL,0,ずぶ濡れだ
+33795464,_DE_WetStateEffect3NoShader,DNAM,0,風に当たると体温が急速に低下する。
+33593871,_DE_WetStateMsg_Dry,DESC,0,水が乾いた
+33593873,_DE_WetStateMsg_DryFire,DESC,0,炎の熱で水が急速に乾いていく
+33593872,_DE_WetStateMsg_Wet,DESC,0,水で濡れている
+33690870,_DE_WetStateMsg_Wet1,DESC,0,水で湿っている
+33690871,_DE_WetStateMsg_Wet2,DESC,0,水で濡れている
+33690872,_DE_WetStateMsg_Wet3,DESC,0,ずぶ濡れだ
+33654785,_DE_WoodHarvest,ITXT:3,45268,終了
+33654785,_DE_WoodHarvest,ITXT:2,0,枯れ枝集め
+33654785,_DE_WoodHarvest,ITXT,0,薪集め
+33654785,_DE_WoodHarvest,DESC,0,"「木こりの斧」か「手製の斧」を使って、木のそばで薪を集められます。斧がなくても、枯れ枝を集めることができます。
+
+どうしますか？"
+33833282,_DE_WoodHarvest_Stone,DESC,0,手ごろな平石をみつけた
+33664569,_DE_WoodHarvestError1,DESC,0,薪を集めるには外に行かなければいけない
+33664570,_DE_WoodHarvestError2,DESC,0,戦闘中は薪を集められない
+33674307,_DE_WoodHarvestError3,DESC,0,近くに木がない
+33842972,_DE_WoodHarvestError4,DESC,0,体温が低すぎて薪を集められない
+33707594,_DE_WoodHarvestNoAxe,ITXT:2,45268,終了
+33707594,_DE_WoodHarvestNoAxe,ITXT,0,枯れ枝集め
+33707594,_DE_WoodHarvestNoAxe,DESC,0,"斧がなくても枯れ枝は拾い集められます。薪を集めるには、木こりの斧や手製の斧が必要です。
+
+どうしますか？"
+33674312,_DE_WoodHarvestSuccess,DESC,0,%.0f 本の薪を集めた
+33654787,_DE_WoodPilePlayer,FULL,0,薪の山
+33746440,_DE_ZTestEffectA,FULL,0,Z Test Effect A
+33746440,_DE_ZTestEffectA,DNAM,0,
+33746441,_DE_ZTestEffectB,FULL,0,Z Test Effect B
+33746441,_DE_ZTestEffectB,DNAM,0,
+33746442,_DE_ZTestEffectC,FULL,0,Z Test Effect C
+33746442,_DE_ZTestEffectC,DNAM,0,
+33746434,_DE_ZTestSpellA,FULL,0,Z Test Spell A
+33746434,_DE_ZTestSpellA,DESC,0,
+33746436,_DE_ZTestSpellB,FULL,0,Z Test Spell B
+33746436,_DE_ZTestSpellB,DESC,0,
+33746438,_DE_ZTestSpellC,FULL,0,Z Test Spell C
+33746438,_DE_ZTestSpellC,DESC,0,
+872256,sCantEquipGeneric,DATA,0,
+869541,sFastTravelNoTravelHealthDamage,DATA,65510,ダメージを受けながら高速移動することはできません。
+872286,sNoFastTravelScriptBlock,DATA,66112,現在この場所から高速移動することはできません。
+﻿870895,sNoWaitTakingHealthDamage,DATA,59755,ダメージを受けながら待機することはできません。
+60,Tamriel,FULL,17190,スカイリム
+107119,WhiterunWorld,FULL,68563,ホワイトラン
+459310,WoodChoppingBlock,FULL,0,Wood Chopping Block
+692671,WoodChoppingBlockSnow,FULL,0,Wood Chopping Block
