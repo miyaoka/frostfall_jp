@@ -1418,11 +1418,11 @@ EP: %.0f 水濡れ: %.0f%%"
 外套をまとうことで雨の中で身体を濡らさずに活動できる時間が延長されます。"
 33631250,_DE_Hypo_Spell_0_2,FULL,0,体温：温かい
 33631250,_DE_Hypo_Spell_0_2,DESC,0,火のそばで過ごした名残で身体がポカポカしている。体力、マジカ、スタミナに<10>ポイント追加
-33574486,_DE_Hypo_Spell_1,FULL,0,体温：ちょうどいい
-33574486,_DE_Hypo_Spell_1,DESC,0,快適だ
+33574486,_DE_Hypo_Spell_1,FULL,0,体温：平常
+33574486,_DE_Hypo_Spell_1,DESC,0,平常だ
 33574487,_DE_Hypo_Spell_2,FULL,0,体温：冷えている
 33574487,_DE_Hypo_Spell_2,DESC,0,体力、マジカ、スタミナの回復が<10%>遅くなる
-33574490,_DE_Hypo_Spell_3,FULL,0,体温： とても冷えている
+33574490,_DE_Hypo_Spell_3,FULL,0,体温：とても冷えている
 33574490,_DE_Hypo_Spell_3,DESC,0,体力、マジカ、スタミナ回復速度<25%>低下。弓術、片手剣、両手剣、防御、話術、全魔法スキル<10%>低下。スリ、解錠<30%>低下
 33574492,_DE_Hypo_Spell_4,FULL,0,体温：凍えている
 33574492,_DE_Hypo_Spell_4,DESC,0,体力、マジカ、スタミナ回復速度<50%>低下。弓術、片手剣、両手剣、防御、話術、全魔法スキル<30%>低下。スリ、解錠<60%>低下
@@ -1432,13 +1432,13 @@ EP: %.0f 水濡れ: %.0f%%"
 33574494,_DE_Hypo_Spell_5,DESC,0,体力、マジカ、スタミナ回復速度<75%>低下。弓術、片手剣、両手剣、防御、話術、全魔法スキル<60%>低下。スリ、解錠<100%>低下
 33703424,_DE_Hypo_Spell_5NoFrost,FULL,0,体温：このままだと凍死する
 33703424,_DE_Hypo_Spell_5NoFrost,DESC,0,体力、マジカ、スタミナ回復速度<75%>低下。弓術、片手剣、両手剣、防御、話術、全魔法スキル<60%>低下。スリ、解錠<100%>低下
-33593869,_DE_HypoState_0,DESC,0,温かい
-33593870,_DE_HypoState_0a,DESC,0,身体の芯まで温かい
-33593864,_DE_HypoState_1,DESC,0,快適だ
-33593865,_DE_HypoState_2,DESC,0,冷えている
-33593866,_DE_HypoState_3,DESC,0,とても冷えている
-33593867,_DE_HypoState_4,DESC,0,凍えている
-33593868,_DE_HypoState_5,DESC,0,このままだと凍死する！
+33593869,_DE_HypoState_0,DESC,0,[体温]温かい。活力が満ちてきた
+33593870,_DE_HypoState_0a,DESC,0,[体温]身体の芯まで温まった
+33593864,_DE_HypoState_1,DESC,0,[体温]平常
+33593865,_DE_HypoState_2,DESC,0,[体温]少し低い。身が縮むようだ
+33593866,_DE_HypoState_3,DESC,0,[体温]とても低い。全身が震えている
+33593867,_DE_HypoState_4,DESC,0,[体温]凍えている。意識が途切れそうだ
+33593868,_DE_HypoState_5,DESC,0,[体温]このままだと凍死する！
 33577263,_DE_Hypothermia_Alteration,FULL,0,[FF]体温：変性魔法の低下
 33577263,_DE_Hypothermia_Alteration,DNAM,0,
 33577257,_DE_Hypothermia_Archery,FULL,0,[FF]体温：弓術の低下
