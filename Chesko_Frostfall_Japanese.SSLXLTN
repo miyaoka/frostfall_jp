@@ -2240,7 +2240,7 @@ EP: %.0f 水濡れ: %.0f%%"
 872256,sCantEquipGeneric,DATA,0,
 869541,sFastTravelNoTravelHealthDamage,DATA,65510,ダメージを受けながら高速移動することはできません。
 872286,sNoFastTravelScriptBlock,DATA,66112,現在この場所から高速移動することはできません。
-﻿870895,sNoWaitTakingHealthDamage,DATA,59755,ダメージを受けながら待機することはできません。
+870895,sNoWaitTakingHealthDamage,DATA,59755,ダメージを受けながら待機することはできません。
 60,Tamriel,FULL,17190,スカイリム
 107119,WhiterunWorld,FULL,68563,ホワイトラン
 459310,WoodChoppingBlock,FULL,0,Wood Chopping Block
